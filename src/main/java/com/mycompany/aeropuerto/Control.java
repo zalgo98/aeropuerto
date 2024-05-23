@@ -95,7 +95,6 @@ public class Control extends javax.swing.JFrame {
 
                 nombresAviones.setLength(0); // Limpiar el StringBuilder
                 for (int i = 0; i < puertas.length; i++) {
-                    synchronized (aeropuerto_Madrid.getPuertasEmbarque().get(i)) {
                     PuertaEmbarque puerta = aeropuerto_Madrid.getPuertasEmbarque().get(i);
                     System.out.println("comprobando puerta "+puerta.getIdPuertaEmbarque());
                     Avion avion = puerta.getAvionAsignado();
@@ -105,7 +104,7 @@ public class Control extends javax.swing.JFrame {
                     } else {
                         puertas[i].setText("");
                     }
-                }
+                
                 }
                 for (int i = 0; i < aeropuerto_Madrid.getPistas().size(); i++) {
                     Avion avion = aeropuerto_Madrid.getPistas().get(i).getAvionAsignado();

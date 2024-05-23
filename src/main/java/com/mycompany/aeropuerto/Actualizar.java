@@ -10,6 +10,13 @@ class Actualizar extends Thread {
 
     @Override
     public void run() {
-
+        while (true) {
+            control.mostrar();
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
     }
     }
+}

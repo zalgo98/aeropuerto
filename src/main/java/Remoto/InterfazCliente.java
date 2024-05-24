@@ -32,8 +32,82 @@ public class InterfazCliente extends javax.swing.JFrame {
         Rodaje1.setText(String.valueOf(avionesRodajeBarcelona));
         Aerovia.setText(avionesEnVueloM);
         Aerovia_1.setText(avionesEnVueloB);
+
+        //Metodos para abrir y cerrar pistas de madrid
+        
+        //pista 1 de madrid
         if(jToggleButton5.isSelected()){
             cliente.cerrarPista1Madrid();
+            jToggleButton1.setSelected(false);
+        }
+        if(jToggleButton1.isSelected()){
+            cliente.abrirPista1Madrid();
+            jToggleButton5.setSelected(false);
+        }
+        //pista 2 de madrid
+        if(jToggleButton9.isSelected()){
+            cliente.cerrarPista2Madrid();
+            jToggleButton10.setSelected(false);
+        }
+        if(jToggleButton10.isSelected()){
+            cliente.abrirPista2Madrid();
+            jToggleButton9.setSelected(false);
+        }
+        //pista 3 de madrid
+        if(jToggleButton11.isSelected()){
+            cliente.cerrarPista3Madrid();
+            jToggleButton12.setSelected(false);
+        }
+        if(jToggleButton12.isSelected()){
+            cliente.abrirPista3Madrid();
+            jToggleButton11.setSelected(false);
+        }
+        //pista 4 de madrid
+        if(jToggleButton13.isSelected()){
+            cliente.cerrarPista4Madrid();
+            jToggleButton14.setSelected(false);
+        }
+        if(jToggleButton14.isSelected()){
+            cliente.abrirPista4Madrid();
+            jToggleButton13.setSelected(false);
+        }
+        //Metodos para abrir y cerrar pistas de barcelona
+
+        //pista 1 de barcelona
+        if(jToggleButton6.isSelected()){
+            cliente.cerrarPista1Barcelona();
+            jToggleButton2.setSelected(false);
+        }
+        if(jToggleButton2.isSelected()){
+            cliente.abrirPista1Barcelona();
+            jToggleButton6.setSelected(false);
+        }
+        //pista 2 de barcelona
+        if(jToggleButton17.isSelected()){
+            cliente.cerrarPista2Barcelona();
+            jToggleButton18.setSelected(false);
+        }
+        if(jToggleButton18.isSelected()){
+            cliente.abrirPista2Barcelona();
+            jToggleButton17.setSelected(false);
+        }
+        //pista 3 de barcelona
+        if(jToggleButton19.isSelected()){
+            cliente.cerrarPista3Barcelona();
+            jToggleButton20.setSelected(false);
+        }
+        if(jToggleButton20.isSelected()){
+            cliente.abrirPista3Barcelona();
+            jToggleButton19.setSelected(false);
+        }
+        //pista 4 de barcelona
+        if(jToggleButton15.isSelected()){
+            cliente.cerrarPista4Barcelona();
+            jToggleButton16.setSelected(false);
+        }
+        if(jToggleButton16.isSelected()){
+            cliente.abrirPista4Barcelona();
+            jToggleButton15.setSelected(false);
         }
         
 

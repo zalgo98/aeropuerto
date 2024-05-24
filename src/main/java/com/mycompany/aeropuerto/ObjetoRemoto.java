@@ -12,53 +12,43 @@ public class ObjetoRemoto extends UnicastRemoteObject implements Interfaz_servid
         this.Barcelona = Barcelona;
     }
 
-    public int numPasajerosMadrid() throws RemoteException {// Metodo que devuelve el numero de pasajeros disponibles en
-                                                            // Madrid
+    public int numPasajerosMadrid() throws RemoteException {// Metodo que devuelve el numero de pasajeros disponibles en Madrid
         return Madrid.getPasajerosDisponibles();
     }
 
-    public int numPasajerosBarcelona() throws RemoteException {// Metodo que devuelve el numero de pasajeros disponibles
-                                                               // en Barcelona
+    public int numPasajerosBarcelona() throws RemoteException {// Metodo que devuelve el numero de pasajeros disponibles en Barcelona
         return Barcelona.getPasajerosDisponibles();
     }
 
-    public int AvionesEnHangarMadrid() throws RemoteException {// Metodo que devuelve el numero de aviones en el hangar
-                                                               // de Madrid
+    public int AvionesEnHangarMadrid() throws RemoteException {// Metodo que devuelve el numero de aviones en el hangar de Madrid
         return Madrid.getHangar().getAviones().size();
     }
 
-    public int AvionesEnHangarBarcelona() throws RemoteException {// Metodo que devuelve el numero de aviones en el
-                                                                  // hangar de Barcelona
+    public int AvionesEnHangarBarcelona() throws RemoteException {// Metodo que devuelve el numero de aviones en el hangar de Barcelona
         return Barcelona.getHangar().getAviones().size();
     }
 
-    public int avionesEnTallerMadrid() throws RemoteException {// Metodo que devuelve el numero de aviones en el taller
-                                                               // de Madrid
+    public int avionesEnTallerMadrid() throws RemoteException {// Metodo que devuelve el numero de aviones en el taller de Madrid
         return Madrid.getTaller().getAvionesEnIspeccion().size();
     }
 
-    public int avionesEnTallerBarcelona() throws RemoteException {// Metodo que devuelve el numero de aviones en el
-                                                                  // taller de Barcelona
+    public int avionesEnTallerBarcelona() throws RemoteException {// Metodo que devuelve el numero de aviones en el taller de Barcelona
         return Barcelona.getTaller().getAvionesEnIspeccion().size();
     }
 
-    public int AvionesEstacionadosMadrid() throws RemoteException {// Metodo que devuelve el numero de aviones
-                                                                   // estacionados en Madrid
+    public int AvionesEstacionadosMadrid() throws RemoteException {// Metodo que devuelve el numero de aviones estacionados en Madrid
         return Madrid.getAreaEstacionamiento().getAvionesEnEspera().size();
     }
 
-    public int AvionesEstacionadosBarcelona() throws RemoteException {// Metodo que devuelve el numero de aviones
-                                                                      // estacionados en Barcelona
+    public int AvionesEstacionadosBarcelona() throws RemoteException {// Metodo que devuelve el numero de aviones estacionados en Barcelona
         return Barcelona.getAreaEstacionamiento().getAvionesEnEspera().size();
     }
 
-    public int avionesRodajeMadrid() throws RemoteException {// Metodo que devuelve el numero de aviones en el rodaje de
-                                                             // Madrid
+    public int avionesRodajeMadrid() throws RemoteException {// Metodo que devuelve el numero de aviones en el rodaje de Madrid
         return Madrid.getAreaRodaje().getAvionEmbarques().size();
     }
 
-    public int avionesRodajeBarcelona() throws RemoteException {// Metodo que devuelve el numero de aviones en el rodaje
-                                                                // de Barcelona
+    public int avionesRodajeBarcelona() throws RemoteException {// Metodo que devuelve el numero de aviones en el rodaje de Barcelona
         return Barcelona.getAreaRodaje().getAvionEmbarques().size();
     }
 
@@ -86,51 +76,51 @@ public class ObjetoRemoto extends UnicastRemoteObject implements Interfaz_servid
         Madrid.getPistas().get(3).ControlPista(false);// Metodo que cierra la pista 4 de Madrid
     }
 
-    public void abrirPista1Madrid() throws RemoteException {// Metodo que abre la pista de Madrid
+    public void abrirPista1Madrid() throws RemoteException {// Metodo que abre la pista 1 de Madrid
         Madrid.getPistas().get(0).ControlPista(true);
     }
 
-    public void abrirPista2Madrid() throws RemoteException {// Metodo que abre la pista de Madrid
+    public void abrirPista2Madrid() throws RemoteException {// Metodo que abre la pista 2 de Madrid
         Madrid.getPistas().get(1).ControlPista(true);
     }
 
-    public void abrirPista3Madrid() throws RemoteException {// Metodo que abre la pista de Madrid
+    public void abrirPista3Madrid() throws RemoteException {// Metodo que abre la pista 3 de Madrid
         Madrid.getPistas().get(2).ControlPista(true);
     }
 
-    public void abrirPista4Madrid() throws RemoteException {// Metodo que abre la pista de Madrid
+    public void abrirPista4Madrid() throws RemoteException {// Metodo que abre la pista 4 de Madrid
         Madrid.getPistas().get(3).ControlPista(true);
     }
 
-    public void cerrarPista1Barcelona() throws RemoteException {// Metodo que cierra la pista de Barcelona
+    public void cerrarPista1Barcelona() throws RemoteException {// Metodo que cierra la pista 1 de Barcelona
         Barcelona.getPistas().get(0).ControlPista(false);
     }
 
-    public void cerrarPista2Barcelona() throws RemoteException {// Metodo que cierra la pista de Barcelona
+    public void cerrarPista2Barcelona() throws RemoteException {// Metodo que cierra la pista 2 de Barcelona
         Barcelona.getPistas().get(1).ControlPista(false);
     }
-    public void cerrarPista3Barcelona() throws RemoteException {// Metodo que cierra la pista de Barcelona
+    public void cerrarPista3Barcelona() throws RemoteException {// Metodo que cierra la pista 3 de Barcelona
         Barcelona.getPistas().get(2).ControlPista(false);
     }
 
-    public void cerrarPista4Barcelona() throws RemoteException {// Metodo que cierra la pista de Barcelona
+    public void cerrarPista4Barcelona() throws RemoteException {// Metodo que cierra la pista 4 de Barcelona
         Barcelona.getPistas().get(3).ControlPista(false);
     }
 
-    public void abrirPista1Barcelona() throws RemoteException {// Metodo que abre la pista de Barcelona
+    public void abrirPista1Barcelona() throws RemoteException {// Metodo que abre la pista 1 de Barcelona
         Barcelona.getPistas().get(0).ControlPista(true);
     }
 
-    public void abrirPista2Barcelona() throws RemoteException {// Metodo que abre la pista de Barcelona
+    public void abrirPista2Barcelona() throws RemoteException {// Metodo que abre la pista 2 de Barcelona
         Barcelona.getPistas().get(1).ControlPista(true);
     }
 
   
-    public void abrirPista3Barcelona() throws RemoteException {// Metodo que abre la pista de Barcelona
+    public void abrirPista3Barcelona() throws RemoteException {// Metodo que abre la pista 3 de Barcelona
         Barcelona.getPistas().get(2).ControlPista(true);
     }
 
-    public void abrirPista4Barcelona() throws RemoteException {// Metodo que abre la pista de Barcelona
+    public void abrirPista4Barcelona() throws RemoteException {// Metodo que abre la pista 4 de Barcelona
         Barcelona.getPistas().get(3).ControlPista(true);
     }
 }

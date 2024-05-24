@@ -17,6 +17,7 @@ public interface Interfaz_servidor extends Remote{
     public String avionesEnVueloM() throws RemoteException;
     public String avionesEnVueloB() throws RemoteException;
 
+    //Metodos para abrir y cerrar pistas de madrid
     public void cerrarPista1Madrid() throws RemoteException;
     public void cerrarPista2Madrid() throws RemoteException;
     public void cerrarPista3Madrid() throws RemoteException;
@@ -24,12 +25,19 @@ public interface Interfaz_servidor extends Remote{
     
     public void abrirPista1Madrid() throws RemoteException;
     public void abrirPista2Madrid() throws RemoteException;
+    public void abrirPista3Madrid() throws RemoteException;
+    public void abrirPista4Madrid() throws RemoteException;
 
+    //Metodos para abrir y cerrar pistas de barcelona
     public void cerrarPista1Barcelona() throws RemoteException;
     public void cerrarPista2Barcelona() throws RemoteException;
+    public void cerrarPista3Barcelona() throws RemoteException;
+    public void cerrarPista4Barcelona() throws RemoteException;
     
     public void abrirPista1Barcelona() throws RemoteException;
     public void abrirPista2Barcelona() throws RemoteException;
+    public void abrirPista3Barcelona() throws RemoteException;
+    public void abrirPista4Barcelona() throws RemoteException;
 
 
 }

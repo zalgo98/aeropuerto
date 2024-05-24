@@ -24,7 +24,6 @@ public class PuertaEmbarque {
     }
 
     public synchronized void embarcarPasajeros(Aeropuerto aeropuerto) throws InterruptedException {
-        System.out.println("Puerta " + idPuertaEmbarque + " ocupada");
         int intentos = 0;
         while (intentos < 3) {
             aeropuerto.pausaSiEsNecesario();
@@ -55,7 +54,6 @@ public class PuertaEmbarque {
             intentos++;
             Thread.sleep(ThreadLocalRandom.current().nextInt(1000, 5001)); // Tiempo de espera antes de admitir más pasajeros
         }
-        System.out.println("Puerta " + idPuertaEmbarque + " liberada");
         notifyAll();
         
     }

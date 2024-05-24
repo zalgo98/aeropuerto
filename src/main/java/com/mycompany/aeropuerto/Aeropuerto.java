@@ -77,11 +77,12 @@ public class Aeropuerto {
         try {
             pausaSiEsNecesario();
             areaRodaje.entraEnAreaRodaje(avion);
-            pausaSiEsNecesario();
-            areaRodaje.esperarPista();
             Pista pista = origen.solicitarPista();
-    
-            if (pista != null) {
+            while(pista == null){// Mientras no haya pista disponible, esperar
+                pausaSiEsNecesario();
+                areaRodaje.esperarPista();
+                pista = origen.solicitarPista();
+            }
                 pausaSiEsNecesario();
                 Thread.sleep(ThreadLocalRandom.current().nextInt(1000, 3001));
                 areaRodaje.saleDeAreaRodaje(avion);
@@ -96,7 +97,7 @@ public class Aeropuerto {
                 pista.setAvionAsignado(null);
                 Registro.logEvent(" [ " + nombre+ " ] " + "Pista " + pista.getIdPista() + " liberada por avion " + avion.Id());
                 pistasOcupadas.remove(pista);
-            }
+            
         } catch (InterruptedException e) {
             System.out.println("Error en el despegue de aviones");
             throw e;

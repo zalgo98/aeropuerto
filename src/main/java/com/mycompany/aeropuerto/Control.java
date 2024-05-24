@@ -96,7 +96,6 @@ public class Control extends javax.swing.JFrame {
                 nombresAviones.setLength(0); // Limpiar el StringBuilder
                 for (int i = 0; i < puertas.length; i++) {
                     PuertaEmbarque puerta = aeropuerto_Madrid.getPuertasEmbarque().get(i);
-                    System.out.println("comprobando puerta "+puerta.getIdPuertaEmbarque());
                     Avion avion = puerta.getAvionAsignado();
                     if (avion != null) {
                         puertas[i].setText(avion.getNombre());

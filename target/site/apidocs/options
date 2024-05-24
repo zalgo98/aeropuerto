@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/gonzalo/.m2/repository/com/nelkinda/japi/nelkinda-japi-swing/0.0.1/nelkinda-japi-swing-0.0.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/gonzalo/Documents/NetBeansProjects/Aeropuerto/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/gonzalo/Documents/NetBeansProjects/Aeropuerto/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Aeropuerto 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Aeropuerto 1.0-SNAPSHOT API'

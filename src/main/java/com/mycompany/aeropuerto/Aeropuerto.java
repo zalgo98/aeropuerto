@@ -22,7 +22,6 @@ public class Aeropuerto {
     private AreaEstacionamiento areaEstacionamiento;
     private AreaRodaje areaRodaje;
     private List<Avion> aviones;
-    private List<Pista> pistasOcupadas;
     private List<Autobus> autobuses;
     private List<Avion> avionesEnTaller;
     private Aerovia aerovia;
@@ -45,7 +44,6 @@ public class Aeropuerto {
         areaEstacionamiento = new AreaEstacionamiento();
         areaRodaje = new AreaRodaje(this);
         aviones = new ArrayList<>();
-        pistasOcupadas = new ArrayList<>();
         autobuses = new ArrayList<>();
         avionesEnTaller = new ArrayList<>();
 
@@ -89,14 +87,14 @@ public class Aeropuerto {
                 pausaSiEsNecesario();
                 pista.ocuparPista(avion);
                 Registro.logEvent(" [ " + nombre + " ] " + "Pista " + pista.getIdPista() + " ocupada por avion " + avion.Id());
-                pistasOcupadas.add(pista);
+                
                 Thread.sleep(ThreadLocalRandom.current().nextInt(1000, 5001));
                 pausaSiEsNecesario();
                 Registro.logEvent(" [ " + origen.getNombre() + " ] " + "Despegando avion " + avion.Id());
                 pista.liberarPista();
                 pista.setAvionAsignado(null);
                 Registro.logEvent(" [ " + nombre+ " ] " + "Pista " + pista.getIdPista() + " liberada por avion " + avion.Id());
-                pistasOcupadas.remove(pista);
+
             
         } catch (InterruptedException e) {
             System.out.println("Error en el despegue de aviones");
@@ -116,7 +114,6 @@ public class Aeropuerto {
                 pausaSiEsNecesario();
                 aerovia.salirAvion(avion); // Salir de la aerovía
                 pista.ocuparPista(avion); // Aterrizar el avión en la pista disponible
-                pistasOcupadas.add(pista);
                 pausaSiEsNecesario();
                 destino.aterrizarAvion(avion, pista);// Aterrizar el avión en el aeropuerto destino
                 break;
@@ -144,7 +141,6 @@ public class Aeropuerto {
         pausaSiEsNecesario();
         pista.liberarPista();// Liberar la pista
         pista.setAvionAsignado(null);
-        pistasOcupadas.remove(pista);
         pausaSiEsNecesario();
         areaRodaje.entraEnAreaRodaje(avion);// Entrar en el área de rodaje
         
@@ -292,9 +288,6 @@ public class Aeropuerto {
     public void removeAutobus(Autobus autobus){// Metodo que elimina un autobus del aeropuerto
         autobuses.remove(autobus);
 
-    }
-    public List<Pista> getPistasOcupadas() {// Metodo que retorna las pistas ocupadas del aeropuerto
-       return pistasOcupadas;
     }
     public void pausar() {// Metodo que pausa la simulación
         pausado = true;

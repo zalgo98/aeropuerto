@@ -28,6 +28,7 @@ public class AreaEstacionamiento {
 
     public synchronized PuertaEmbarque esperarPuertaDisponible(Avion avion) throws InterruptedException {//metodo que espera a que haya una puerta disponible
         avionesEnEspera.add(avion); // el avión se añade a la lista de aviones en espera
+        System.out.println("Aviones en espera: " + avion.Id());
         List<PuertaEmbarque> puertasEmbarque = avion.getAeropuertoOrigen().getPuertasEmbarque();// Obtiene las puertas de embarque del aeropuerto de origen
         PuertaEmbarque puerta = null;
         Registro.logEvent(" [ "+ avion.getAeropuertoOrigen().getNombre()+ " ] " +"Esperando puerta disponible en area de estacionamiento " + avion.Id());

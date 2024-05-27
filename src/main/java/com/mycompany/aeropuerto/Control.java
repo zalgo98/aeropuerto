@@ -4,6 +4,8 @@
  */
 package com.mycompany.aeropuerto;
 
+import java.util.List;
+
 import javax.swing.JFrame;
 import javax.swing.JTextField;
 /**
@@ -30,70 +32,23 @@ public class Control extends javax.swing.JFrame {
         JTextField[] pistas = { Pista1, Pista2, Pista3, Pista4 };
         JTextField[] puertasB = { Puerta1B, Puerta2B, Puerta3B, Puerta4B, Puerta5B, Puerta6B };
         JTextField[] pistasB = { Pista1B, Pista2B, Pista3B, Pista4B };
-        StringBuilder nombresAviones = new StringBuilder();
 
+
+        synchronized(aeropuerto_Madrid){
         // Madrid
-
+        
                 Num_pasajeros.setText(String.valueOf(aeropuerto_Madrid.getPasajerosDisponibles()));
                 for (Autobus bus : aeropuerto_Madrid.getAutobuses()) {
-                    if (bus != null) {
-                        if (bus.getIda() && bus.getPasajerosEnBus_Ida() > 0) {
-                            Bus_Aeropuerto.setText(bus.IdBus() + "(" + bus.getPasajerosEnBus_Ida() + ")");
-                        } else if (!bus.getIda() && bus.getPasajerosEnBus_Vuelta() > 0) {
-                            Bus_ciudad.setText(bus.IdBus() + "(" + bus.getPasajerosEnBus_Vuelta() + ")");
-                        }
-
-                    } else {
-                        Bus_Aeropuerto.setText("");
+                    if(bus.getIda()){
+                        actualizarBus(bus, Bus_Aeropuerto);
+                    }else if(!bus.getIda()){
+                        actualizarBus(bus, Bus_ciudad);
                     }
                 }
-                for (Avion avion : aeropuerto_Madrid.getHangar().getAviones()) {
-                    if (avion != null) {
-                        nombresAviones.append(avion.getNombre()).append(", ");
-                    }
-
-                }
-                Hangar.setText(nombresAviones.toString());
-                nombresAviones.setLength(0); // Limpiar el StringBuilder
-
-                for (Avion avion : aeropuerto_Madrid.getTaller().getAvionesEnIspeccion()) {
-                    if (avion != null) {
-                        nombresAviones.append(avion.Id()).append(", ");
-                    }
-
-                    else {
-                        nombresAviones.append("null").append(", ");
-                    }
-                }
-                Taller.setText(nombresAviones.toString());
-                nombresAviones.setLength(0); // Limpiar el StringBuilder
-
-                for (Avion avion : aeropuerto_Madrid.getAreaEstacionamiento().getAvionesEnEspera()) {
-                    if (avion != null) {
-                        nombresAviones.append(avion.getNombre()).append(", ");
-
-                    }
-
-                    else {
-                        nombresAviones.append("null").append(", ");
-                    }
-                }
-
-                Estacionamiento.setText(nombresAviones.toString());
-                nombresAviones.setLength(0); // Limpiar el StringBuilder
-
-                for (Avion avion : aeropuerto_Madrid.getAreaRodaje().getAvionEmbarques()) {
-                    if (avion != null) {
-                        nombresAviones.append(avion.Id()).append(", ");
-                    }
-
-                    else {
-                        nombresAviones.append("null").append(", ");
-                    }
-                }
-                A_Rodaje.setText(nombresAviones.toString());
-
-                nombresAviones.setLength(0); // Limpiar el StringBuilder
+                actualizarAvion(aeropuerto_Madrid.getHangar().getAviones(), Hangar);
+                actualizarAvion(aeropuerto_Madrid.getTaller().getAvionesEnIspeccion(),Taller);
+                actualizarAvion(aeropuerto_Madrid.getAreaEstacionamiento().getAvionesEnEspera(), Estacionamiento);
+                actualizarAvion(aeropuerto_Madrid.getAreaRodaje().getAvionEmbarques(), A_Rodaje);
                 for (int i = 0; i < puertas.length; i++) {
                     PuertaEmbarque puerta = aeropuerto_Madrid.getPuertasEmbarque().get(i);
                     Avion avion = puerta.getAvionAsignado();
@@ -114,69 +69,23 @@ public class Control extends javax.swing.JFrame {
                     }
 
                 }
-
+            }
+            synchronized(aeropuerto_Barcelona){
                 // Barcelona
 
                 pasajerosB.setText(String.valueOf(aeropuerto_Barcelona.getPasajerosDisponibles()));
 
                 for (Autobus bus : aeropuerto_Barcelona.getAutobuses()) {
-                    if (bus != null) {
-                        if (bus.getIda() && bus.getPasajerosEnBus_Ida() > 0) {
-                            BusABarcelona.setText(bus.IdBus() + "(" + bus.getPasajerosEnBus_Ida() + ")");
-                        } else if (!bus.getIda() && bus.getPasajerosEnBus_Vuelta() > 0) {
-                            BusCBarcelona.setText(bus.IdBus() + "(" + bus.getPasajerosEnBus_Vuelta() + ")");
-                        } else {
-                            BusABarcelona.setText("");
-                        }
-                    }
+                    if(bus.getIda()){
+                    actualizarBus(bus, BusABarcelona);
+                }else if(!bus.getIda()){
+                    actualizarBus(bus, BusCBarcelona);
                 }
-                for (Avion avion : aeropuerto_Barcelona.getHangar().getAviones()) {
-                    if (avion != null) {
-                        nombresAviones.append(avion.Id()).append(", ");
-                    }
-
-                    else {
-                        nombresAviones.append("null").append(", ");
-                    }
                 }
-                Hangar1.setText(nombresAviones.toString());
-                nombresAviones.setLength(0); // Limpiar el StringBuilder
-                for (Avion avion : aeropuerto_Barcelona.getTaller().getAvionesEnIspeccion()) {
-                    if (avion != null) {
-                        nombresAviones.append(avion.Id()).append(", ");
-                    }
-
-                    else {
-                        nombresAviones.append("null").append(", ");
-                    }
-                }
-                Taller2.setText(nombresAviones.toString());
-
-                nombresAviones.setLength(0); // Limpiar el StringBuilder
-                for (Avion avion : aeropuerto_Barcelona.getAreaEstacionamiento().getAvionesEnEspera()) {
-                    if (avion != null) {
-                        nombresAviones.append(avion.getNombre()).append(", ");
-                    }
-
-                    else {
-                        nombresAviones.append("null").append(", ");
-                    }
-                }
-                Estacionamiento1.setText(nombresAviones.toString());
-
-                nombresAviones.setLength(0); // Limpiar el StringBuilder
-                for (Avion avion : aeropuerto_Barcelona.getAreaRodaje().getAvionEmbarques()) {
-                    if (avion != null) {
-                        nombresAviones.append(avion.Id()).append(", ");
-                    }
-
-                    else {
-                        nombresAviones.append("null").append(", ");
-                    }
-                }
-                A_Rodaje1.setText(nombresAviones.toString());
-
-                nombresAviones.setLength(0); // Limpiar el StringBuilder
+                actualizarAvion(aeropuerto_Barcelona.getHangar().getAviones(), Hangar1);
+                actualizarAvion(aeropuerto_Barcelona.getTaller().getAvionesEnIspeccion(),Taller2);
+                actualizarAvion(aeropuerto_Barcelona.getAreaEstacionamiento().getAvionesEnEspera(), Estacionamiento1);
+                actualizarAvion(aeropuerto_Barcelona.getAreaRodaje().getAvionEmbarques(), A_Rodaje1);
                 for (int i = 0; i < puertasB.length; i++) {
                     PuertaEmbarque puerta = aeropuerto_Barcelona.getPuertasEmbarque().get(i);
                     Avion avion = puerta.getAvionAsignado();
@@ -200,8 +109,31 @@ public class Control extends javax.swing.JFrame {
                 B_M.setText(aeropuerto_Barcelona.getAerovia().avionesAerolinea());
             
 
-        
+            }
     }
+    private void actualizarBus(Autobus bus, JTextField textoBus) {
+    if (bus != null) {
+        if (bus.getIda() && bus.getPasajerosEnBus_Ida() > 0) {
+            textoBus.setText(bus.IdBus() + "(" + bus.getPasajerosEnBus_Ida() + ")");
+        } else if (!bus.getIda() && bus.getPasajerosEnBus_Vuelta() > 0) {
+            textoBus.setText(bus.IdBus() + "(" + bus.getPasajerosEnBus_Vuelta() + ")");
+        } else {
+            textoBus.setText("");
+        }
+    }
+}
+    private  void actualizarAvion(List<Avion> aviones, JTextField label) {
+    StringBuilder nombresAviones = new StringBuilder();
+    for (Avion avion : aviones) {
+        if (avion != null) {
+            nombresAviones.append(avion.Id()).append(", ");
+        } else {
+            nombresAviones.append("null").append(", ");
+        }
+    }
+    label.setText(nombresAviones.toString());
+    nombresAviones.setLength(0); // Limpiar el StringBuilder
+}
 
 
     /**

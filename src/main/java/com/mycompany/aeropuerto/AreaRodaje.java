@@ -35,11 +35,12 @@ public class AreaRodaje {
         int tiempoDeComprobacion = ThreadLocalRandom.current().nextInt(1000, 5001); // Tiempo aleatorio entre 1 y 5 segundos en milisegundos
         Thread.sleep(tiempoDeComprobacion);
     }
-    public void entraEnAreaRodaje(Avion avion) {//metodo que hace que un avion entre en el area de rodaje
+    public void entraEnAreaRodaje(Avion avion) throws InterruptedException {//metodo que hace que un avion entre en el area de rodaje
         Registro.logEvent("["+ aeropuerto.getNombre()+ "]" + " Avion " + avion.Id() + " entra en area de rodaje");
+
         avionesRodaje.add(avion);
     }
-    public void saleDeAreaRodaje(Avion avion) {//metodo que hace que un avion salga del area de rodaje
+    public void saleDeAreaRodaje(Avion avion)throws InterruptedException {//metodo que hace que un avion salga del area de rodaje
         avionesRodaje.remove(avion);
         Registro.logEvent("["+ aeropuerto.getNombre()+ "]" + " Avion " + avion.Id() + " sale de area de rodaje");
     }

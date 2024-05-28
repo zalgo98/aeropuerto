@@ -33,6 +33,8 @@ public class Control extends javax.swing.JFrame {
         JTextField[] puertasB = { Puerta1B, Puerta2B, Puerta3B, Puerta4B, Puerta5B, Puerta6B };
         JTextField[] pistasB = { Pista1B, Pista2B, Pista3B, Pista4B };
 
+
+
       // Madrid
         synchronized(aeropuerto_Madrid){        
                 Num_pasajeros.setText(String.valueOf(aeropuerto_Madrid.getPasajerosDisponibles()));
@@ -45,6 +47,7 @@ public class Control extends javax.swing.JFrame {
                 }
                 actualizarAvion(aeropuerto_Madrid.getHangar().getAviones(), Hangar);
                 actualizarAvion(aeropuerto_Madrid.getAreaEstacionamiento().getAvionesEnEspera(), Estacionamiento);
+
                 for (int i = 0; i < puertas.length; i++) {
                     PuertaEmbarque puerta = aeropuerto_Madrid.getPuertasEmbarque().get(i);
                     

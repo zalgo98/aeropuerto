@@ -4,24 +4,18 @@ package com.mycompany.aeropuerto;
 import java.util.List;
 
 class Actualizar extends Thread {
-    private List<PuertaEmbarque> puertaEmbarques;
+    private AreaEstacionamiento estacionamiento;
+    private String avion;
 
-    public Actualizar(List<PuertaEmbarque> puertaEmbarques) {
-        this.puertaEmbarques=puertaEmbarques;
+    public Actualizar(AreaEstacionamiento estacionamiento) {
+        this.estacionamiento = estacionamiento;
+        this.avion= avion;
     }
 
     @Override
     public void run() {
-        /*for (int i = 0; i < puertas.length; i++) {
-            PuertaEmbarque puerta = aeropuerto_Madrid.getPuertasEmbarque().get(i);
 
-            Avion avion = puerta.getAvionAsignado();
-            if (avion != null) {
-                puertas[i].setText(avion.getNombre());
-
-            } else {
-                puertas[i].setText("");
-            }
-        }*/
     }
-}
+    }
+
+

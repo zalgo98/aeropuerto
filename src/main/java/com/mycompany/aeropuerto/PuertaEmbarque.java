@@ -54,6 +54,7 @@ public class PuertaEmbarque {
             intentos++;
             Thread.sleep(ThreadLocalRandom.current().nextInt(1000, 5001)); // Tiempo de espera antes de admitir más pasajeros
         }
+        wait(500);
         notifyAll();
         
     }

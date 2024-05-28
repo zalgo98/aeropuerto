@@ -17,6 +17,7 @@ public class Control extends javax.swing.JFrame {
     private Aeropuerto aeropuerto_Madrid;
     private Aeropuerto aeropuerto_Barcelona;
 
+
     public Control(Aeropuerto aeropuerto_Madrid, Aeropuerto aeropuerto_Barcelona) {
         initComponents();
         this.aeropuerto_Barcelona = aeropuerto_Barcelona;
@@ -36,7 +37,7 @@ public class Control extends javax.swing.JFrame {
 
 
       // Madrid
-        synchronized(aeropuerto_Madrid){        
+        synchronized(aeropuerto_Madrid){
                 Num_pasajeros.setText(String.valueOf(aeropuerto_Madrid.getPasajerosDisponibles()));
                 for (Autobus bus : aeropuerto_Madrid.getAutobuses()) {
                     if(bus.getIda()){
@@ -112,7 +113,6 @@ public class Control extends javax.swing.JFrame {
                 // aerovias
                 M_B.setText(aeropuerto_Madrid.getAerovia().avionesAerolinea());
                 B_M.setText(aeropuerto_Barcelona.getAerovia().avionesAerolinea());
-            
 
             }
     }

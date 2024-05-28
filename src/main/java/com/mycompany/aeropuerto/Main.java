@@ -61,6 +61,7 @@ public class Main {
                     Avion avion = new Avion(id, aeropuerto_Madrid, aeropuerto_Barcelona, capacidad);
                     Registro.logEvent("["+ aeropuerto_Madrid.getNombre()+ "]" + " Avion " + avion.Id() + " creado en " + aeropuerto_Madrid.getNombre());
                     aeropuerto_Madrid.getHangar().entrarAvion(avion);
+                    System.out.println(avion.getNombre()+" creado");
                     avion.start();
                 } else {
                     String id = generateRandomId(i);
@@ -68,8 +69,11 @@ public class Main {
                     Avion avion = new Avion(id, aeropuerto_Barcelona, aeropuerto_Madrid, capacidad);
                     Registro.logEvent("["+ aeropuerto_Barcelona.getNombre()+ "]" + " Avion " + avion.Id() + " creado en " + aeropuerto_Barcelona.getNombre());
                     aeropuerto_Barcelona.getHangar().entrarAvion(avion);
+                    System.out.println(avion.getNombre()+" creado");
                     avion.start();
+
                 }
+
                 try {
                     Thread.sleep(ThreadLocalRandom.current().nextInt(1000, 3001));
                 } catch (InterruptedException e) {
@@ -77,7 +81,7 @@ public class Main {
                 }
                 
             }
-            while (true) {                
+            while (true) {
                 control.mostrar();
             }
         } catch (Exception e) {

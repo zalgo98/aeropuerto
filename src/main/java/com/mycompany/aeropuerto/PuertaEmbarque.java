@@ -33,9 +33,6 @@ public class PuertaEmbarque {
             int pasajerosDisponibles = aeropuerto.getPasajerosDisponibles();
             int capacidadAvion = avionAsignado.getCapacidad();
             int pasajerosAEmbarcar = Math.min(capacidadAvion, pasajerosDisponibles);
-            System.out.println(avionAsignado.getNombre());
-            System.out.println("Capacidad del avion: "+capacidadAvion);
-            System.out.println("Pasajeros que embarcan "+ pasajerosAEmbarcar);
                 // Comprobar si hay suficientes pasajeros disponibles antes de reducir
                 if (pasajerosAEmbarcar <= pasajerosDisponibles) {
                     aeropuerto.reducirPasajeros(pasajerosAEmbarcar);

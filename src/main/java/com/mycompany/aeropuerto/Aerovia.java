@@ -23,7 +23,7 @@ public class Aerovia {
         avionesVolando = new ArrayList<>();
     }
 
-    public void ingresarAvion(Avion avion) {//metodo que ingresa un avion en la aerovia
+    public  void ingresarAvion(Avion avion) {//metodo que ingresa un avion en la aerovia
         lock.lock();
         try {
             Registro.logEvent("["+ nombre + "]" + " Avion " + avion.Id() + " entra en aerovia");
@@ -53,13 +53,17 @@ public class Aerovia {
     public void setAvionesVolando(List<Avion> avionesVolando) {//metodo que establece los aviones volando
         this.avionesVolando = avionesVolando;
     }
-    public String avionesAerolinea(){//metodo que devuelve los aviones en vuelo
-        String aviones="";
-        for (Avion avion : avionesVolando) {
-            aviones+=avion.Id()+", ";
+    public String avionesAerolinea() {//metodo que devuelve los aviones en vuelo
+        lock.lock();
+        try {
+            String aviones = "";
+            for (Avion avion : avionesVolando) {
+                aviones += avion.Id() + ", ";
+            }
+            return aviones;
+        } finally {
+            lock.unlock();
         }
-        return aviones;
     }
-
     
 }

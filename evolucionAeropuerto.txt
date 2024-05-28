@@ -132,3 +132,1603 @@
 27-05-2024 12:27:57 - [Madrid-Barcelona] Avion IV-0000 entra en aerovia
 27-05-2024 12:27:57 - [Aeropuerto de Barcelona] Avion SR-0003 creado en Aeropuerto de Barcelona
 27-05-2024 12:27:57 -  [ Aeropuerto de Barcelona ] Avion SR-0003 entra en hangar
+28-05-2024 08:33:48 - [Aeropuerto de Madrid] Autobus B-0000 creado en Aeropuerto de Madrid
+28-05-2024 08:33:49 - [Aeropuerto de Madrid] Avion ZI-0000 creado en Aeropuerto de Madrid
+28-05-2024 08:33:49 -  [ Aeropuerto de Madrid ] Avion ZI-0000 entra en hangar
+28-05-2024 08:33:51 - [Aeropuerto de Barcelona] Autobus B-0001 creado en Aeropuerto de Barcelona
+28-05-2024 08:33:52 - [Aeropuerto de Barcelona] Avion RP-0001 creado en Aeropuerto de Barcelona
+28-05-2024 08:33:52 -  [ Aeropuerto de Barcelona ] Avion RP-0001 entra en hangar
+28-05-2024 08:33:53 - [Aeropuerto de Madrid] Autobus B-0000 direccion Aeropuerto de Madrid con 34 pasajeros
+28-05-2024 08:33:53 -  [ Aeropuerto de Madrid ] Avion ZI-0000 sale de hangar
+28-05-2024 08:33:54 - [Aeropuerto de Madrid] Autobus B-0002 creado en Aeropuerto de Madrid
+28-05-2024 08:33:55 - [Aeropuerto de Barcelona] Autobus B-0001 direccion Aeropuerto de Barcelona con 6 pasajeros
+28-05-2024 08:33:55 - [Aeropuerto de Madrid] Avion XE-0002 creado en Aeropuerto de Madrid
+28-05-2024 08:33:55 -  [ Aeropuerto de Madrid ] Avion XE-0002 entra en hangar
+28-05-2024 08:33:56 -  [ Aeropuerto de Barcelona ] Avion RP-0001 sale de hangar
+28-05-2024 08:33:57 - [Aeropuerto de Madrid] Autobus B-0002 direccion Aeropuerto de Madrid con 31 pasajeros
+28-05-2024 08:33:57 -  [ Aeropuerto de Madrid ] Avion XE-0002 sale de hangar
+28-05-2024 08:33:58 - [Aeropuerto de Madrid] Autobus B-0000 deja 34 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:33:58 - [Aeropuerto de Barcelona] Autobus B-0003 creado en Aeropuerto de Barcelona
+28-05-2024 08:33:59 - [Aeropuerto de Barcelona] Avion YM-0003 creado en Aeropuerto de Barcelona
+28-05-2024 08:33:59 -  [ Aeropuerto de Barcelona ] Avion YM-0003 entra en hangar
+28-05-2024 08:34:00 - [Aeropuerto de Madrid] Autobus B-0000 direccion ciudad con 14 pasajeros
+28-05-2024 08:34:01 - [Aeropuerto de Madrid] Autobus B-0004 creado en Aeropuerto de Madrid
+28-05-2024 08:34:01 - [Aeropuerto de Barcelona] Autobus B-0001 deja 6 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:34:02 - [Aeropuerto de Madrid] Avion IV-0004 creado en Aeropuerto de Madrid
+28-05-2024 08:34:02 -  [ Aeropuerto de Madrid ] Avion IV-0004 entra en hangar
+28-05-2024 08:34:02 - [Aeropuerto de Barcelona] Autobus B-0003 direccion Aeropuerto de Barcelona con 30 pasajeros
+28-05-2024 08:34:03 -  [ Aeropuerto de Barcelona ] Avion YM-0003 sale de hangar
+28-05-2024 08:34:03 - [Aeropuerto de Barcelona] Autobus B-0005 creado en Aeropuerto de Barcelona
+28-05-2024 08:34:04 - [Aeropuerto de Barcelona] Avion SK-0005 creado en Aeropuerto de Barcelona
+28-05-2024 08:34:04 -  [ Aeropuerto de Barcelona ] Avion SK-0005 entra en hangar
+28-05-2024 08:34:04 - [Aeropuerto de Madrid] Autobus B-0004 direccion Aeropuerto de Madrid con 48 pasajeros
+28-05-2024 08:34:05 - [Aeropuerto de Madrid] Autobus B-0002 deja 31 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:34:05 -  [ Aeropuerto de Madrid ] Avion IV-0004 sale de hangar
+28-05-2024 08:34:05 - [Aeropuerto de Barcelona] Autobus B-0005 direccion Aeropuerto de Barcelona con 33 pasajeros
+28-05-2024 08:34:06 -  [ Aeropuerto de Barcelona ] Avion SK-0005 sale de hangar
+28-05-2024 08:34:06 - [Aeropuerto de Barcelona] Autobus B-0001 direccion ciudad con 5 pasajeros
+28-05-2024 08:34:54 - [Aeropuerto de Madrid] Autobus B-0000 creado en Aeropuerto de Madrid
+28-05-2024 08:34:55 - [Aeropuerto de Madrid] Avion UZ-0000 creado en Aeropuerto de Madrid
+28-05-2024 08:34:55 -  [ Aeropuerto de Madrid ] Avion UZ-0000 entra en hangar
+28-05-2024 08:34:56 - [Aeropuerto de Madrid] Autobus B-0000 direccion Aeropuerto de Madrid con 6 pasajeros
+28-05-2024 08:34:57 - [Aeropuerto de Barcelona] Autobus B-0001 creado en Aeropuerto de Barcelona
+28-05-2024 08:34:57 - [Aeropuerto de Barcelona] Avion SQ-0001 creado en Aeropuerto de Barcelona
+28-05-2024 08:34:57 -  [ Aeropuerto de Barcelona ] Avion SQ-0001 entra en hangar
+28-05-2024 08:34:58 -  [ Aeropuerto de Madrid ] Avion UZ-0000 sale de hangar
+28-05-2024 08:34:58 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento UZ-0000
+28-05-2024 08:34:58 -  [ Aeropuerto de Madrid ] Puerta 0 asignada al avión UZ-0000
+28-05-2024 08:34:59 - [Aeropuerto de Barcelona] Autobus B-0001 direccion Aeropuerto de Barcelona con 13 pasajeros
+28-05-2024 08:34:59 - [Aeropuerto de Madrid] Avion UZ-0000 embarcando 226 pasajeros
+28-05-2024 08:35:00 -  [ Aeropuerto de Barcelona ] Avion SQ-0001 sale de hangar
+28-05-2024 08:35:01 - [Aeropuerto de Madrid] Avion UZ-0000 entra en area de rodaje
+28-05-2024 08:35:01 - [Aeropuerto de Madrid] Autobus B-0002 creado en Aeropuerto de Madrid
+28-05-2024 08:35:01 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento SQ-0001
+28-05-2024 08:35:01 -  [ Aeropuerto de Barcelona ] Puerta 0 asignada al avión SQ-0001
+28-05-2024 08:35:01 - [Aeropuerto de Madrid] Avion DE-0002 creado en Aeropuerto de Madrid
+28-05-2024 08:35:01 -  [ Aeropuerto de Madrid ] Avion DE-0002 entra en hangar
+28-05-2024 08:35:02 - [Aeropuerto de Barcelona] Avion SQ-0001 embarcando 219 pasajeros
+28-05-2024 08:35:03 - [Aeropuerto de Barcelona] Autobus B-0003 creado en Aeropuerto de Barcelona
+28-05-2024 08:35:03 - [Aeropuerto de Barcelona] Avion SQ-0001 entra en area de rodaje
+28-05-2024 08:35:03 - [Aeropuerto de Madrid] Autobus B-0002 direccion Aeropuerto de Madrid con 42 pasajeros
+28-05-2024 08:35:03 -  [ Aeropuerto de Madrid ] Avion DE-0002 sale de hangar
+28-05-2024 08:35:03 - [Aeropuerto de Madrid] Autobus B-0000 deja 6 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:35:03 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento DE-0002
+28-05-2024 08:35:03 -  [ Aeropuerto de Madrid ] Puerta 0 asignada al avión DE-0002
+28-05-2024 08:35:03 - [Aeropuerto de Barcelona] Avion RC-0003 creado en Aeropuerto de Barcelona
+28-05-2024 08:35:03 -  [ Aeropuerto de Barcelona ] Avion RC-0003 entra en hangar
+28-05-2024 08:35:03 - [Aeropuerto de Madrid] Avion UZ-0000 sale de area de rodaje
+28-05-2024 08:35:03 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion UZ-0000
+28-05-2024 08:35:04 - [Aeropuerto de Madrid] Avion DE-0002 embarcando 192 pasajeros
+28-05-2024 08:35:05 -  [ Aeropuerto de Madrid ] Despegando avion UZ-0000
+28-05-2024 08:35:05 -  [ Aeropuerto de Madrid ] Pista 0 liberada por avion UZ-0000
+28-05-2024 08:35:05 - [Madrid-Barcelona] Avion UZ-0000 entra en aerovia
+28-05-2024 08:35:06 - [Aeropuerto de Barcelona] Avion SQ-0001 sale de area de rodaje
+28-05-2024 08:35:06 -  [ Aeropuerto de Barcelona ] Pista 0 ocupada por avion SQ-0001
+28-05-2024 08:35:06 -  [ Aeropuerto de Barcelona ] Avion RC-0003 sale de hangar
+28-05-2024 08:35:06 - [Aeropuerto de Barcelona] Autobus B-0003 direccion Aeropuerto de Barcelona con 20 pasajeros
+28-05-2024 08:35:07 - [Aeropuerto de Madrid] Avion DE-0002 entra en area de rodaje
+28-05-2024 08:35:07 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento RC-0003
+28-05-2024 08:35:07 -  [ Aeropuerto de Barcelona ] Puerta 0 asignada al avión RC-0003
+28-05-2024 08:35:07 - [Aeropuerto de Madrid] Autobus B-0004 creado en Aeropuerto de Madrid
+28-05-2024 08:35:08 - [Aeropuerto de Madrid] Avion JT-0004 creado en Aeropuerto de Madrid
+28-05-2024 08:35:08 -  [ Aeropuerto de Madrid ] Avion JT-0004 entra en hangar
+28-05-2024 08:35:08 - [Aeropuerto de Barcelona] Avion RC-0003 embarcando 190 pasajeros
+28-05-2024 08:35:08 - [Aeropuerto de Madrid] Autobus B-0000 direccion ciudad con 13 pasajeros
+28-05-2024 08:35:08 - [Aeropuerto de Barcelona] Autobus B-0001 deja 13 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:35:09 - [Aeropuerto de Madrid] Avion DE-0002 sale de area de rodaje
+28-05-2024 08:35:09 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion DE-0002
+28-05-2024 08:35:09 -  [ Aeropuerto de Barcelona ] Despegando avion SQ-0001
+28-05-2024 08:35:09 -  [ Aeropuerto de Barcelona ] Pista 0 liberada por avion SQ-0001
+28-05-2024 08:35:09 - [Barcelona-Madrid] Avion SQ-0001 entra en aerovia
+28-05-2024 08:35:09 -  [ Aeropuerto de Madrid ] Avion JT-0004 sale de hangar
+28-05-2024 08:35:10 - [Aeropuerto de Barcelona] Avion RC-0003 entra en area de rodaje
+28-05-2024 08:35:10 - [Aeropuerto de Barcelona] Autobus B-0005 creado en Aeropuerto de Barcelona
+28-05-2024 08:35:10 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento JT-0004
+28-05-2024 08:35:10 -  [ Aeropuerto de Madrid ] Puerta 0 asignada al avión JT-0004
+28-05-2024 08:35:10 - [Aeropuerto de Madrid] Autobus B-0004 direccion Aeropuerto de Madrid con 32 pasajeros
+28-05-2024 08:35:10 - [Aeropuerto de Barcelona] Avion HO-0005 creado en Aeropuerto de Barcelona
+28-05-2024 08:35:10 -  [ Aeropuerto de Barcelona ] Avion HO-0005 entra en hangar
+28-05-2024 08:35:11 - [Aeropuerto de Madrid] Avion JT-0004 embarcando 210 pasajeros
+28-05-2024 08:35:12 -  [ Aeropuerto de Barcelona ] Avion HO-0005 sale de hangar
+28-05-2024 08:35:13 - [Aeropuerto de Barcelona] Avion RC-0003 sale de area de rodaje
+28-05-2024 08:35:13 -  [ Aeropuerto de Barcelona ] Pista 0 ocupada por avion RC-0003
+28-05-2024 08:35:13 - [Aeropuerto de Barcelona] Autobus B-0001 direccion ciudad con 15 pasajeros
+28-05-2024 08:35:14 -  [ Aeropuerto de Madrid ] Despegando avion DE-0002
+28-05-2024 08:35:14 - [Aeropuerto de Madrid] Avion JT-0004 entra en area de rodaje
+28-05-2024 08:35:14 -  [ Aeropuerto de Madrid ] Pista 0 liberada por avion DE-0002
+28-05-2024 08:35:14 - [Aeropuerto de Madrid] Autobus B-0002 deja 42 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:35:14 - [Madrid-Barcelona] Avion DE-0002 entra en aerovia
+28-05-2024 08:35:14 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento HO-0005
+28-05-2024 08:35:14 -  [ Aeropuerto de Barcelona ] Puerta 0 asignada al avión HO-0005
+28-05-2024 08:35:14 - [Aeropuerto de Madrid] Autobus B-0006 creado en Aeropuerto de Madrid
+28-05-2024 08:35:14 - [Aeropuerto de Barcelona] Autobus B-0005 direccion Aeropuerto de Barcelona con 14 pasajeros
+28-05-2024 08:35:15 - [Aeropuerto de Madrid] Avion LC-0006 creado en Aeropuerto de Madrid
+28-05-2024 08:35:15 -  [ Aeropuerto de Madrid ] Avion LC-0006 entra en hangar
+28-05-2024 08:35:15 - [Aeropuerto de Barcelona] Avion HO-0005 embarcando 278 pasajeros
+28-05-2024 08:35:15 - [Aeropuerto de Madrid] Avion JT-0004 sale de area de rodaje
+28-05-2024 08:35:15 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion JT-0004
+28-05-2024 08:35:15 - [Aeropuerto de Barcelona] Autobus B-0003 deja 20 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:35:16 - [Aeropuerto de Barcelona] Avion HO-0005 entra en area de rodaje
+28-05-2024 08:35:16 -  [ Aeropuerto de Madrid ] Avion LC-0006 sale de hangar
+28-05-2024 08:35:16 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento LC-0006
+28-05-2024 08:35:16 -  [ Aeropuerto de Madrid ] Puerta 0 asignada al avión LC-0006
+28-05-2024 08:35:17 - [Aeropuerto de Madrid] Autobus B-0002 direccion ciudad con 39 pasajeros
+28-05-2024 08:35:17 - [Aeropuerto de Barcelona] Autobus B-0007 creado en Aeropuerto de Barcelona
+28-05-2024 08:35:17 -  [ Aeropuerto de Barcelona ] Despegando avion RC-0003
+28-05-2024 08:35:17 -  [ Aeropuerto de Barcelona ] Pista 0 liberada por avion RC-0003
+28-05-2024 08:35:17 - [Barcelona-Madrid] Avion RC-0003 entra en aerovia
+28-05-2024 08:35:17 - [Aeropuerto de Madrid] Avion LC-0006 embarcando 154 pasajeros
+28-05-2024 08:35:46 - [Aeropuerto de Madrid] Autobus B-0000 creado en Aeropuerto de Madrid
+28-05-2024 08:35:46 - [Aeropuerto de Madrid] Avion OY-0000 creado en Aeropuerto de Madrid
+28-05-2024 08:35:46 -  [ Aeropuerto de Madrid ] Avion OY-0000 entra en hangar
+28-05-2024 08:35:48 - [Aeropuerto de Madrid] Autobus B-0000 direccion Aeropuerto de Madrid con 30 pasajeros
+28-05-2024 08:35:49 - [Aeropuerto de Barcelona] Autobus B-0001 creado en Aeropuerto de Barcelona
+28-05-2024 08:35:50 -  [ Aeropuerto de Madrid ] Avion OY-0000 sale de hangar
+28-05-2024 08:35:50 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento OY-0000
+28-05-2024 08:35:50 -  [ Aeropuerto de Madrid ] Puerta 0 asignada al avión OY-0000
+28-05-2024 08:35:50 - [Aeropuerto de Madrid] Avion OY-0000 embarcando 116 pasajeros
+28-05-2024 08:35:50 - [Aeropuerto de Barcelona] Avion TT-0001 creado en Aeropuerto de Barcelona
+28-05-2024 08:35:50 -  [ Aeropuerto de Barcelona ] Avion TT-0001 entra en hangar
+28-05-2024 08:35:51 - [Aeropuerto de Madrid] Avion OY-0000 entra en area de rodaje
+28-05-2024 08:35:52 - [Aeropuerto de Madrid] Autobus B-0002 creado en Aeropuerto de Madrid
+28-05-2024 08:35:52 - [Aeropuerto de Madrid] Avion ZU-0002 creado en Aeropuerto de Madrid
+28-05-2024 08:35:52 -  [ Aeropuerto de Madrid ] Avion ZU-0002 entra en hangar
+28-05-2024 08:35:53 -  [ Aeropuerto de Barcelona ] Avion TT-0001 sale de hangar
+28-05-2024 08:35:53 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento TT-0001
+28-05-2024 08:35:53 -  [ Aeropuerto de Barcelona ] Puerta 0 asignada al avión TT-0001
+28-05-2024 08:35:53 - [Aeropuerto de Barcelona] Avion TT-0001 embarcando 163 pasajeros
+28-05-2024 08:35:53 - [Aeropuerto de Barcelona] Autobus B-0001 direccion Aeropuerto de Barcelona con 15 pasajeros
+28-05-2024 08:35:54 - [Aeropuerto de Madrid] Avion OY-0000 sale de area de rodaje
+28-05-2024 08:35:54 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion OY-0000
+28-05-2024 08:35:54 -  [ Aeropuerto de Madrid ] Avion ZU-0002 sale de hangar
+28-05-2024 08:35:55 - [Aeropuerto de Barcelona] Avion TT-0001 entra en area de rodaje
+28-05-2024 08:35:55 - [Aeropuerto de Barcelona] Autobus B-0003 creado en Aeropuerto de Barcelona
+28-05-2024 08:35:55 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento ZU-0002
+28-05-2024 08:35:55 -  [ Aeropuerto de Madrid ] Puerta 0 asignada al avión ZU-0002
+28-05-2024 08:35:55 - [Aeropuerto de Madrid] Avion ZU-0002 embarcando 287 pasajeros
+28-05-2024 08:35:55 - [Aeropuerto de Barcelona] Avion MG-0003 creado en Aeropuerto de Barcelona
+28-05-2024 08:35:55 -  [ Aeropuerto de Barcelona ] Avion MG-0003 entra en hangar
+28-05-2024 08:35:56 - [Aeropuerto de Madrid] Avion ZU-0002 entra en area de rodaje
+28-05-2024 08:35:56 - [Aeropuerto de Madrid] Autobus B-0000 deja 30 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:35:56 - [Aeropuerto de Madrid] Autobus B-0002 direccion Aeropuerto de Madrid con 23 pasajeros
+28-05-2024 08:35:57 - [Aeropuerto de Madrid] Avion ZU-0002 sale de area de rodaje
+28-05-2024 08:35:57 -  [ Aeropuerto de Madrid ] Pista 1 ocupada por avion ZU-0002
+28-05-2024 08:35:57 - [Aeropuerto de Barcelona] Avion TT-0001 sale de area de rodaje
+28-05-2024 08:35:57 -  [ Aeropuerto de Barcelona ] Pista 0 ocupada por avion TT-0001
+28-05-2024 08:35:58 - [Aeropuerto de Madrid] Autobus B-0004 creado en Aeropuerto de Madrid
+28-05-2024 08:35:58 - [Aeropuerto de Madrid] Avion PD-0004 creado en Aeropuerto de Madrid
+28-05-2024 08:35:58 -  [ Aeropuerto de Madrid ] Avion PD-0004 entra en hangar
+28-05-2024 08:35:58 -  [ Aeropuerto de Barcelona ] Avion MG-0003 sale de hangar
+28-05-2024 08:35:58 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento MG-0003
+28-05-2024 08:35:58 -  [ Aeropuerto de Barcelona ] Puerta 0 asignada al avión MG-0003
+28-05-2024 08:35:58 - [Aeropuerto de Barcelona] Avion MG-0003 embarcando 202 pasajeros
+28-05-2024 08:35:59 -  [ Aeropuerto de Madrid ] Despegando avion ZU-0002
+28-05-2024 08:35:59 -  [ Aeropuerto de Madrid ] Pista 1 liberada por avion ZU-0002
+28-05-2024 08:35:59 - [Madrid-Barcelona] Avion ZU-0002 entra en aerovia
+28-05-2024 08:35:59 - [Aeropuerto de Madrid] Autobus B-0000 direccion ciudad con 24 pasajeros
+28-05-2024 08:35:59 -  [ Aeropuerto de Madrid ] Despegando avion OY-0000
+28-05-2024 08:35:59 -  [ Aeropuerto de Madrid ] Pista 0 liberada por avion OY-0000
+28-05-2024 08:35:59 - [Madrid-Barcelona] Avion OY-0000 entra en aerovia
+28-05-2024 08:35:59 - [Aeropuerto de Barcelona] Autobus B-0003 direccion Aeropuerto de Barcelona con 49 pasajeros
+28-05-2024 08:36:00 - [Aeropuerto de Madrid] Autobus B-0004 direccion Aeropuerto de Madrid con 27 pasajeros
+28-05-2024 08:36:01 - [Aeropuerto de Barcelona] Avion MG-0003 entra en area de rodaje
+28-05-2024 08:36:01 -  [ Aeropuerto de Barcelona ] Despegando avion TT-0001
+28-05-2024 08:36:01 -  [ Aeropuerto de Barcelona ] Pista 0 liberada por avion TT-0001
+28-05-2024 08:36:01 - [Barcelona-Madrid] Avion TT-0001 entra en aerovia
+28-05-2024 08:36:01 - [Aeropuerto de Barcelona] Autobus B-0005 creado en Aeropuerto de Barcelona
+28-05-2024 08:36:02 - [Aeropuerto de Barcelona] Avion RQ-0005 creado en Aeropuerto de Barcelona
+28-05-2024 08:36:02 -  [ Aeropuerto de Barcelona ] Avion RQ-0005 entra en hangar
+28-05-2024 08:36:02 - [Aeropuerto de Barcelona] Avion MG-0003 sale de area de rodaje
+28-05-2024 08:36:02 -  [ Aeropuerto de Barcelona ] Pista 1 ocupada por avion MG-0003
+28-05-2024 08:36:02 -  [ Aeropuerto de Madrid ] Avion PD-0004 sale de hangar
+28-05-2024 08:36:02 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento PD-0004
+28-05-2024 08:36:02 -  [ Aeropuerto de Madrid ] Puerta 0 asignada al avión PD-0004
+28-05-2024 08:36:02 - [Aeropuerto de Madrid] Avion PD-0004 embarcando 209 pasajeros
+28-05-2024 08:36:03 - [Aeropuerto de Barcelona] Autobus B-0001 deja 15 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:36:03 - [Aeropuerto de Madrid] Autobus B-0002 deja 23 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:36:04 - [Aeropuerto de Madrid] Avion PD-0004 entra en area de rodaje
+28-05-2024 08:36:04 -  [ Aeropuerto de Barcelona ] Avion RQ-0005 sale de hangar
+28-05-2024 08:36:04 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento RQ-0005
+28-05-2024 08:36:04 -  [ Aeropuerto de Barcelona ] Puerta 0 asignada al avión RQ-0005
+28-05-2024 08:36:04 - [Aeropuerto de Barcelona] Avion RQ-0005 embarcando 244 pasajeros
+28-05-2024 08:36:04 - [Aeropuerto de Barcelona] Autobus B-0005 direccion Aeropuerto de Barcelona con 16 pasajeros
+28-05-2024 08:36:04 - [Aeropuerto de Barcelona] Autobus B-0003 deja 49 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:36:05 - [Aeropuerto de Madrid] Avion PD-0004 sale de area de rodaje
+28-05-2024 08:36:05 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion PD-0004
+28-05-2024 08:36:06 - [Aeropuerto de Barcelona] Avion RQ-0005 entra en area de rodaje
+28-05-2024 08:36:06 - [Aeropuerto de Madrid] Autobus B-0006 creado en Aeropuerto de Madrid
+28-05-2024 08:36:06 -  [ Aeropuerto de Barcelona ] Despegando avion MG-0003
+28-05-2024 08:36:06 -  [ Aeropuerto de Barcelona ] Pista 1 liberada por avion MG-0003
+28-05-2024 08:36:06 - [Barcelona-Madrid] Avion MG-0003 entra en aerovia
+28-05-2024 08:36:06 - [Aeropuerto de Barcelona] Autobus B-0001 direccion ciudad con 50 pasajeros
+28-05-2024 08:36:06 - [Aeropuerto de Madrid] Avion DD-0006 creado en Aeropuerto de Madrid
+28-05-2024 08:36:06 -  [ Aeropuerto de Madrid ] Avion DD-0006 entra en hangar
+28-05-2024 08:36:07 - [Aeropuerto de Madrid] Autobus B-0004 deja 27 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:36:07 - [Aeropuerto de Barcelona] Autobus B-0003 direccion ciudad con 15 pasajeros
+28-05-2024 08:36:07 - [Aeropuerto de Madrid] Autobus B-0002 direccion ciudad con 6 pasajeros
+28-05-2024 08:36:08 -  [ Aeropuerto de Madrid ] Despegando avion PD-0004
+28-05-2024 08:36:08 -  [ Aeropuerto de Madrid ] Pista 0 liberada por avion PD-0004
+28-05-2024 08:36:08 - [Madrid-Barcelona] Avion PD-0004 entra en aerovia
+28-05-2024 08:36:08 - [Aeropuerto de Barcelona] Autobus B-0007 creado en Aeropuerto de Barcelona
+28-05-2024 08:36:08 -  [ Aeropuerto de Madrid ] Avion DD-0006 sale de hangar
+28-05-2024 08:36:08 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento DD-0006
+28-05-2024 08:36:08 -  [ Aeropuerto de Madrid ] Puerta 0 asignada al avión DD-0006
+28-05-2024 08:36:08 - [Aeropuerto de Madrid] Avion DD-0006 embarcando 280 pasajeros
+28-05-2024 08:36:08 - [Aeropuerto de Barcelona] Avion RQ-0005 sale de area de rodaje
+28-05-2024 08:36:08 -  [ Aeropuerto de Barcelona ] Pista 0 ocupada por avion RQ-0005
+28-05-2024 08:36:08 - [Aeropuerto de Madrid] Autobus B-0006 direccion Aeropuerto de Madrid con 14 pasajeros
+28-05-2024 08:36:09 - [Aeropuerto de Barcelona] Avion AR-0007 creado en Aeropuerto de Barcelona
+28-05-2024 08:36:09 -  [ Aeropuerto de Barcelona ] Avion AR-0007 entra en hangar
+28-05-2024 08:36:09 -  [ Aeropuerto de Barcelona ] Despegando avion RQ-0005
+28-05-2024 08:36:09 -  [ Aeropuerto de Barcelona ] Pista 0 liberada por avion RQ-0005
+28-05-2024 08:36:09 - [Barcelona-Madrid] Avion RQ-0005 entra en aerovia
+28-05-2024 08:36:11 - [Aeropuerto de Madrid] Avion DD-0006 entra en area de rodaje
+28-05-2024 08:36:11 - [Aeropuerto de Madrid] Autobus B-0008 creado en Aeropuerto de Madrid
+28-05-2024 08:36:11 - [Aeropuerto de Barcelona] Autobus B-0007 direccion Aeropuerto de Barcelona con 4 pasajeros
+28-05-2024 08:36:11 - [Aeropuerto de Madrid] Autobus B-0004 direccion ciudad con 18 pasajeros
+28-05-2024 08:36:11 - [Aeropuerto de Madrid] Avion ND-0008 creado en Aeropuerto de Madrid
+28-05-2024 08:36:11 -  [ Aeropuerto de Madrid ] Avion ND-0008 entra en hangar
+28-05-2024 08:36:12 - [Aeropuerto de Barcelona] Autobus B-0005 deja 16 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:36:12 -  [ Aeropuerto de Barcelona ] Avion AR-0007 sale de hangar
+28-05-2024 08:36:12 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento AR-0007
+28-05-2024 08:36:12 -  [ Aeropuerto de Barcelona ] Puerta 0 asignada al avión AR-0007
+28-05-2024 08:36:12 - [Aeropuerto de Barcelona] Avion AR-0007 embarcando 296 pasajeros
+28-05-2024 08:36:12 - [Aeropuerto de Madrid] Avion DD-0006 sale de area de rodaje
+28-05-2024 08:36:12 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion DD-0006
+28-05-2024 08:36:13 - [Aeropuerto de Madrid] Autobus B-0000 direccion Aeropuerto de Madrid con 34 pasajeros
+28-05-2024 08:36:14 -  [ Aeropuerto de Madrid ] Despegando avion DD-0006
+28-05-2024 08:36:14 -  [ Aeropuerto de Madrid ] Pista 0 liberada por avion DD-0006
+28-05-2024 08:36:14 - [Madrid-Barcelona] Avion DD-0006 entra en aerovia
+28-05-2024 08:36:37 - [Aeropuerto de Madrid] Autobus B-0000 creado en Aeropuerto de Madrid
+28-05-2024 08:36:38 - [Aeropuerto de Madrid] Avion JH-0000 creado en Aeropuerto de Madrid
+28-05-2024 08:36:38 -  [ Aeropuerto de Madrid ] Avion JH-0000 entra en hangar
+28-05-2024 08:36:39 - [Aeropuerto de Madrid] Autobus B-0000 direccion Aeropuerto de Madrid con 10 pasajeros
+28-05-2024 08:36:40 - [Aeropuerto de Barcelona] Autobus B-0001 creado en Aeropuerto de Barcelona
+28-05-2024 08:36:41 -  [ Aeropuerto de Madrid ] Avion JH-0000 sale de hangar
+28-05-2024 08:36:41 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento JH-0000
+28-05-2024 08:36:41 -  [ Aeropuerto de Madrid ] Puerta 0 asignada al avión JH-0000
+28-05-2024 08:36:41 - [Aeropuerto de Madrid] Avion JH-0000 embarcando 154 pasajeros
+28-05-2024 08:36:41 - [Aeropuerto de Barcelona] Avion IN-0001 creado en Aeropuerto de Barcelona
+28-05-2024 08:36:41 -  [ Aeropuerto de Barcelona ] Avion IN-0001 entra en hangar
+28-05-2024 08:36:42 - [Aeropuerto de Madrid] Avion JH-0000 entra en area de rodaje
+28-05-2024 08:36:43 - [Aeropuerto de Madrid] Autobus B-0002 creado en Aeropuerto de Madrid
+28-05-2024 08:36:43 - [Aeropuerto de Barcelona] Autobus B-0001 direccion Aeropuerto de Barcelona con 39 pasajeros
+28-05-2024 08:36:43 -  [ Aeropuerto de Barcelona ] Avion IN-0001 sale de hangar
+28-05-2024 08:36:43 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento IN-0001
+28-05-2024 08:36:43 -  [ Aeropuerto de Barcelona ] Puerta 0 asignada al avión IN-0001
+28-05-2024 08:36:43 - [Aeropuerto de Barcelona] Avion IN-0001 embarcando 127 pasajeros
+28-05-2024 08:36:44 - [Aeropuerto de Madrid] Avion YK-0002 creado en Aeropuerto de Madrid
+28-05-2024 08:36:44 -  [ Aeropuerto de Madrid ] Avion YK-0002 entra en hangar
+28-05-2024 08:38:53 - [Aeropuerto de Madrid] Autobus B-0000 creado en Aeropuerto de Madrid
+28-05-2024 08:38:54 - [Aeropuerto de Madrid] Avion CH-0000 creado en Aeropuerto de Madrid
+28-05-2024 08:38:54 -  [ Aeropuerto de Madrid ] Avion CH-0000 entra en hangar
+28-05-2024 08:38:55 - [Aeropuerto de Barcelona] Autobus B-0001 creado en Aeropuerto de Barcelona
+28-05-2024 08:38:56 - [Aeropuerto de Barcelona] Avion EZ-0001 creado en Aeropuerto de Barcelona
+28-05-2024 08:38:56 -  [ Aeropuerto de Barcelona ] Avion EZ-0001 entra en hangar
+28-05-2024 08:38:56 - [Aeropuerto de Madrid] Autobus B-0000 direccion Aeropuerto de Madrid con 48 pasajeros
+28-05-2024 08:38:57 - [Aeropuerto de Madrid] Autobus B-0002 creado en Aeropuerto de Madrid
+28-05-2024 08:38:57 - [Aeropuerto de Barcelona] Autobus B-0001 direccion Aeropuerto de Barcelona con 10 pasajeros
+28-05-2024 08:38:58 -  [ Aeropuerto de Madrid ] Avion CH-0000 sale de hangar
+28-05-2024 08:38:58 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento CH-0000
+28-05-2024 08:38:58 -  [ Aeropuerto de Madrid ] Puerta 0 asignada al avión CH-0000
+28-05-2024 08:38:58 - [Aeropuerto de Madrid] Avion CH-0000 embarcando 264 pasajeros
+28-05-2024 08:38:58 - [Aeropuerto de Madrid] Avion KI-0002 creado en Aeropuerto de Madrid
+28-05-2024 08:38:58 -  [ Aeropuerto de Madrid ] Avion KI-0002 entra en hangar
+28-05-2024 08:38:59 -  [ Aeropuerto de Barcelona ] Avion EZ-0001 sale de hangar
+28-05-2024 08:38:59 - [Aeropuerto de Madrid] Avion CH-0000 entra en area de rodaje
+28-05-2024 08:38:59 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento EZ-0001
+28-05-2024 08:38:59 -  [ Aeropuerto de Barcelona ] Puerta 0 asignada al avión EZ-0001
+28-05-2024 08:38:59 - [Aeropuerto de Barcelona] Avion EZ-0001 embarcando 173 pasajeros
+28-05-2024 08:39:00 -  [ Aeropuerto de Madrid ] Avion KI-0002 sale de hangar
+28-05-2024 08:39:01 - [Aeropuerto de Madrid] Autobus B-0002 direccion Aeropuerto de Madrid con 16 pasajeros
+28-05-2024 08:39:01 - [Aeropuerto de Madrid] Avion CH-0000 sale de area de rodaje
+28-05-2024 08:39:01 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion CH-0000
+28-05-2024 08:39:01 - [Aeropuerto de Barcelona] Avion EZ-0001 entra en area de rodaje
+28-05-2024 08:39:01 - [Aeropuerto de Barcelona] Autobus B-0003 creado en Aeropuerto de Barcelona
+28-05-2024 08:39:01 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento KI-0002
+28-05-2024 08:39:01 -  [ Aeropuerto de Madrid ] Puerta 0 asignada al avión KI-0002
+28-05-2024 08:39:01 - [Aeropuerto de Madrid] Avion KI-0002 embarcando 138 pasajeros
+28-05-2024 08:39:02 - [Aeropuerto de Barcelona] Avion MY-0003 creado en Aeropuerto de Barcelona
+28-05-2024 08:39:02 -  [ Aeropuerto de Barcelona ] Avion MY-0003 entra en hangar
+28-05-2024 08:39:02 - [Aeropuerto de Madrid] Avion KI-0002 entra en area de rodaje
+28-05-2024 08:39:03 - [Aeropuerto de Madrid] Autobus B-0000 deja 48 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:39:04 - [Aeropuerto de Barcelona] Avion EZ-0001 sale de area de rodaje
+28-05-2024 08:39:04 -  [ Aeropuerto de Barcelona ] Pista 0 ocupada por avion EZ-0001
+28-05-2024 08:39:04 - [Aeropuerto de Madrid] Autobus B-0004 creado en Aeropuerto de Madrid
+28-05-2024 08:39:04 - [Aeropuerto de Barcelona] Autobus B-0001 deja 10 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:39:04 - [Aeropuerto de Madrid] Avion KI-0002 sale de area de rodaje
+28-05-2024 08:39:04 -  [ Aeropuerto de Madrid ] Pista 1 ocupada por avion KI-0002
+28-05-2024 08:39:05 - [Aeropuerto de Madrid] Avion BT-0004 creado en Aeropuerto de Madrid
+28-05-2024 08:39:05 -  [ Aeropuerto de Madrid ] Avion BT-0004 entra en hangar
+28-05-2024 08:39:05 - [Aeropuerto de Barcelona] Autobus B-0003 direccion Aeropuerto de Barcelona con 7 pasajeros
+28-05-2024 08:39:05 -  [ Aeropuerto de Barcelona ] Avion MY-0003 sale de hangar
+28-05-2024 08:39:05 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento MY-0003
+28-05-2024 08:39:05 -  [ Aeropuerto de Barcelona ] Puerta 0 asignada al avión MY-0003
+28-05-2024 08:39:05 - [Aeropuerto de Barcelona] Avion MY-0003 embarcando 114 pasajeros
+28-05-2024 08:39:06 - [Aeropuerto de Madrid] Autobus B-0000 direccion ciudad con 15 pasajeros
+28-05-2024 08:39:06 -  [ Aeropuerto de Madrid ] Despegando avion CH-0000
+28-05-2024 08:39:06 -  [ Aeropuerto de Madrid ] Pista 0 liberada por avion CH-0000
+28-05-2024 08:39:06 - [Madrid-Barcelona] Avion CH-0000 entra en aerovia
+28-05-2024 08:39:06 - [Aeropuerto de Barcelona] Autobus B-0001 direccion ciudad con 1 pasajeros
+28-05-2024 08:39:07 - [Aeropuerto de Madrid] Autobus B-0002 deja 16 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:39:07 - [Aeropuerto de Madrid] Autobus B-0004 direccion Aeropuerto de Madrid con 50 pasajeros
+28-05-2024 08:39:08 - [Aeropuerto de Barcelona] Avion MY-0003 entra en area de rodaje
+28-05-2024 08:39:08 - [Aeropuerto de Barcelona] Autobus B-0005 creado en Aeropuerto de Barcelona
+28-05-2024 08:39:08 -  [ Aeropuerto de Barcelona ] Despegando avion EZ-0001
+28-05-2024 08:39:08 -  [ Aeropuerto de Barcelona ] Pista 0 liberada por avion EZ-0001
+28-05-2024 08:39:08 - [Barcelona-Madrid] Avion EZ-0001 entra en aerovia
+28-05-2024 08:39:09 -  [ Aeropuerto de Madrid ] Avion BT-0004 sale de hangar
+28-05-2024 08:39:09 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento BT-0004
+28-05-2024 08:39:09 -  [ Aeropuerto de Madrid ] Puerta 0 asignada al avión BT-0004
+28-05-2024 08:39:09 - [Aeropuerto de Madrid] Avion BT-0004 embarcando 249 pasajeros
+28-05-2024 08:39:09 - [Aeropuerto de Barcelona] Avion LP-0005 creado en Aeropuerto de Barcelona
+28-05-2024 08:39:09 -  [ Aeropuerto de Barcelona ] Avion LP-0005 entra en hangar
+28-05-2024 08:39:09 -  [ Aeropuerto de Madrid ] Despegando avion KI-0002
+28-05-2024 08:39:09 -  [ Aeropuerto de Madrid ] Pista 1 liberada por avion KI-0002
+28-05-2024 08:39:09 - [Madrid-Barcelona] Avion KI-0002 entra en aerovia
+28-05-2024 08:39:10 - [Aeropuerto de Barcelona] Avion MY-0003 sale de area de rodaje
+28-05-2024 08:39:10 -  [ Aeropuerto de Barcelona ] Pista 1 ocupada por avion MY-0003
+28-05-2024 08:39:10 - [Aeropuerto de Madrid] Autobus B-0002 direccion ciudad con 28 pasajeros
+28-05-2024 08:39:10 - [Aeropuerto de Madrid] Avion BT-0004 entra en area de rodaje
+28-05-2024 08:39:11 -  [ Aeropuerto de Barcelona ] Avion LP-0005 sale de hangar
+28-05-2024 08:39:11 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento LP-0005
+28-05-2024 08:39:11 -  [ Aeropuerto de Barcelona ] Puerta 0 asignada al avión LP-0005
+28-05-2024 08:39:11 - [Aeropuerto de Barcelona] Avion LP-0005 embarcando 220 pasajeros
+28-05-2024 08:39:12 - [Aeropuerto de Barcelona] Autobus B-0005 direccion Aeropuerto de Barcelona con 3 pasajeros
+28-05-2024 08:39:12 - [Aeropuerto de Barcelona] Avion LP-0005 entra en area de rodaje
+28-05-2024 08:39:12 - [Aeropuerto de Madrid] Autobus B-0006 creado en Aeropuerto de Madrid
+28-05-2024 08:39:12 - [Aeropuerto de Madrid] Avion BT-0004 sale de area de rodaje
+28-05-2024 08:39:12 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion BT-0004
+28-05-2024 08:39:12 - [Aeropuerto de Madrid] Autobus B-0004 deja 50 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:39:12 - [Aeropuerto de Madrid] Avion VN-0006 creado en Aeropuerto de Madrid
+28-05-2024 08:39:12 -  [ Aeropuerto de Madrid ] Avion VN-0006 entra en hangar
+28-05-2024 08:39:13 - [Aeropuerto de Barcelona] Autobus B-0003 deja 7 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:39:14 - [Aeropuerto de Barcelona] Autobus B-0007 creado en Aeropuerto de Barcelona
+28-05-2024 08:39:14 -  [ Aeropuerto de Barcelona ] Despegando avion MY-0003
+28-05-2024 08:39:14 -  [ Aeropuerto de Barcelona ] Pista 1 liberada por avion MY-0003
+28-05-2024 08:39:14 - [Barcelona-Madrid] Avion MY-0003 entra en aerovia
+28-05-2024 08:39:14 - [Aeropuerto de Barcelona] Avion LP-0005 sale de area de rodaje
+28-05-2024 08:39:14 -  [ Aeropuerto de Barcelona ] Pista 0 ocupada por avion LP-0005
+28-05-2024 08:39:14 -  [ Aeropuerto de Madrid ] Avion VN-0006 sale de hangar
+28-05-2024 08:39:14 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento VN-0006
+28-05-2024 08:39:14 -  [ Aeropuerto de Madrid ] Puerta 0 asignada al avión VN-0006
+28-05-2024 08:39:14 - [Aeropuerto de Madrid] Avion VN-0006 embarcando 148 pasajeros
+28-05-2024 08:39:15 - [Aeropuerto de Barcelona] Avion YX-0007 creado en Aeropuerto de Barcelona
+28-05-2024 08:39:15 -  [ Aeropuerto de Barcelona ] Avion YX-0007 entra en hangar
+28-05-2024 08:39:15 -  [ Aeropuerto de Barcelona ] Despegando avion LP-0005
+28-05-2024 08:39:15 -  [ Aeropuerto de Barcelona ] Pista 0 liberada por avion LP-0005
+28-05-2024 08:39:15 - [Barcelona-Madrid] Avion LP-0005 entra en aerovia
+28-05-2024 08:39:16 - [Aeropuerto de Madrid] Avion VN-0006 entra en area de rodaje
+28-05-2024 08:39:16 - [Aeropuerto de Barcelona] Autobus B-0001 direccion Aeropuerto de Barcelona con 49 pasajeros
+28-05-2024 08:39:16 - [Aeropuerto de Madrid] Autobus B-0004 direccion ciudad con 43 pasajeros
+28-05-2024 08:39:16 - [Aeropuerto de Madrid] Autobus B-0008 creado en Aeropuerto de Madrid
+28-05-2024 08:39:17 - [Aeropuerto de Madrid] Autobus B-0006 direccion Aeropuerto de Madrid con 32 pasajeros
+28-05-2024 08:39:17 -  [ Aeropuerto de Madrid ] Despegando avion BT-0004
+28-05-2024 08:39:17 -  [ Aeropuerto de Madrid ] Pista 0 liberada por avion BT-0004
+28-05-2024 08:39:17 - [Madrid-Barcelona] Avion BT-0004 entra en aerovia
+28-05-2024 08:39:17 - [Aeropuerto de Madrid] Avion OI-0008 creado en Aeropuerto de Madrid
+28-05-2024 08:39:17 -  [ Aeropuerto de Madrid ] Avion OI-0008 entra en hangar
+28-05-2024 08:39:17 - [Aeropuerto de Barcelona] Autobus B-0003 direccion ciudad con 48 pasajeros
+28-05-2024 08:39:17 - [Aeropuerto de Barcelona] Autobus B-0007 direccion Aeropuerto de Barcelona con 7 pasajeros
+28-05-2024 08:39:18 - [Aeropuerto de Madrid] Autobus B-0000 direccion Aeropuerto de Madrid con 40 pasajeros
+28-05-2024 08:39:18 - [Aeropuerto de Madrid] Avion VN-0006 sale de area de rodaje
+28-05-2024 08:39:18 -  [ Aeropuerto de Madrid ] Pista 1 ocupada por avion VN-0006
+28-05-2024 08:39:18 -  [ Aeropuerto de Barcelona ] Avion YX-0007 sale de hangar
+28-05-2024 08:39:18 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento YX-0007
+28-05-2024 08:39:18 -  [ Aeropuerto de Barcelona ] Puerta 0 asignada al avión YX-0007
+28-05-2024 08:39:18 - [Aeropuerto de Barcelona] Avion YX-0007 embarcando 263 pasajeros
+28-05-2024 08:39:19 - [Aeropuerto de Barcelona] Avion YX-0007 entra en area de rodaje
+28-05-2024 08:39:20 - [Aeropuerto de Barcelona] Autobus B-0009 creado en Aeropuerto de Barcelona
+28-05-2024 08:39:20 -  [ Aeropuerto de Madrid ] Avion OI-0008 sale de hangar
+28-05-2024 08:39:20 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento OI-0008
+28-05-2024 08:39:20 -  [ Aeropuerto de Madrid ] Puerta 0 asignada al avión OI-0008
+28-05-2024 08:39:20 - [Aeropuerto de Madrid] Avion OI-0008 embarcando 229 pasajeros
+28-05-2024 08:39:20 - [Aeropuerto de Barcelona] Avion TT-0009 creado en Aeropuerto de Barcelona
+28-05-2024 08:39:20 -  [ Aeropuerto de Barcelona ] Avion TT-0009 entra en hangar
+28-05-2024 08:39:20 - [Aeropuerto de Madrid] Autobus B-0008 direccion Aeropuerto de Madrid con 39 pasajeros
+28-05-2024 08:39:21 - [Aeropuerto de Barcelona] Autobus B-0001 deja 49 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:39:21 - [Aeropuerto de Barcelona] Avion YX-0007 sale de area de rodaje
+28-05-2024 08:39:21 -  [ Aeropuerto de Barcelona ] Pista 0 ocupada por avion YX-0007
+28-05-2024 08:39:21 - [Aeropuerto de Madrid] Avion OI-0008 esperando a que lleguen más pasajeros
+28-05-2024 08:39:22 -  [ Aeropuerto de Barcelona ] Avion TT-0009 sale de hangar
+28-05-2024 08:39:23 - [Aeropuerto de Barcelona] Autobus B-0005 deja 3 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:39:24 - [Aeropuerto de Barcelona] Autobus B-0009 direccion Aeropuerto de Barcelona con 19 pasajeros
+28-05-2024 08:39:25 -  [ Aeropuerto de Barcelona ] Despegando avion YX-0007
+28-05-2024 08:39:25 -  [ Aeropuerto de Barcelona ] Pista 0 liberada por avion YX-0007
+28-05-2024 08:39:25 - [Barcelona-Madrid] Avion YX-0007 entra en aerovia
+28-05-2024 08:39:26 - [Aeropuerto de Barcelona] Autobus B-0003 direccion Aeropuerto de Barcelona con 30 pasajeros
+28-05-2024 08:39:26 - [Aeropuerto de Barcelona] Autobus B-0001 direccion ciudad con 14 pasajeros
+28-05-2024 08:39:26 - [Aeropuerto de Barcelona] Autobus B-0007 deja 7 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:39:27 - [Aeropuerto de Barcelona] Autobus B-0005 direccion ciudad con 16 pasajeros
+28-05-2024 08:39:30 - [Aeropuerto de Barcelona] Autobus B-0009 deja 19 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:39:31 - [Aeropuerto de Barcelona] Autobus B-0007 direccion ciudad con 21 pasajeros
+28-05-2024 08:39:31 - [Barcelona-Madrid] Avion EZ-0001 sale de aerovia
+28-05-2024 08:39:32 - [Aeropuerto de Barcelona] Autobus B-0009 direccion ciudad con 17 pasajeros
+28-05-2024 08:39:36 - [Barcelona-Madrid] Avion MY-0003 sale de aerovia
+28-05-2024 08:39:36 - [Aeropuerto de Barcelona] Autobus B-0003 deja 30 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:39:37 - [Aeropuerto de Barcelona] Autobus B-0001 direccion Aeropuerto de Barcelona con 23 pasajeros
+28-05-2024 08:39:38 - [Aeropuerto de Barcelona] Autobus B-0005 direccion Aeropuerto de Barcelona con 47 pasajeros
+28-05-2024 08:39:39 - [Aeropuerto de Barcelona] Autobus B-0003 direccion ciudad con 3 pasajeros
+28-05-2024 08:39:42 - [Aeropuerto de Barcelona] Autobus B-0009 direccion Aeropuerto de Barcelona con 18 pasajeros
+28-05-2024 08:39:43 - [Aeropuerto de Barcelona] Autobus B-0007 direccion Aeropuerto de Barcelona con 20 pasajeros
+28-05-2024 08:39:44 - [Aeropuerto de Barcelona] Autobus B-0001 deja 23 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:39:45 - [Barcelona-Madrid] Avion LP-0005 sale de aerovia
+28-05-2024 08:39:47 - [Aeropuerto de Barcelona] Autobus B-0005 deja 47 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:39:49 - [Aeropuerto de Barcelona] Autobus B-0001 direccion ciudad con 15 pasajeros
+28-05-2024 08:39:49 - [Aeropuerto de Barcelona] Autobus B-0009 deja 18 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:39:50 - [Aeropuerto de Barcelona] Autobus B-0005 direccion ciudad con 19 pasajeros
+28-05-2024 08:39:51 - [Aeropuerto de Barcelona] Autobus B-0003 direccion Aeropuerto de Barcelona con 2 pasajeros
+28-05-2024 08:39:53 - [Aeropuerto de Barcelona] Autobus B-0007 deja 20 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:39:54 - [Aeropuerto de Barcelona] Autobus B-0009 direccion ciudad con 45 pasajeros
+28-05-2024 08:39:57 - [Aeropuerto de Barcelona] Autobus B-0003 deja 2 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:39:58 - [Aeropuerto de Barcelona] Autobus B-0007 direccion ciudad con 47 pasajeros
+28-05-2024 08:40:00 - [Aeropuerto de Barcelona] Autobus B-0003 direccion ciudad con 11 pasajeros
+28-05-2024 08:40:03 - [Aeropuerto de Barcelona] Autobus B-0001 direccion Aeropuerto de Barcelona con 50 pasajeros
+28-05-2024 08:40:03 - [Aeropuerto de Barcelona] Autobus B-0005 direccion Aeropuerto de Barcelona con 25 pasajeros
+28-05-2024 08:40:06 - [Aeropuerto de Barcelona] Autobus B-0009 direccion Aeropuerto de Barcelona con 32 pasajeros
+28-05-2024 08:40:09 - [Aeropuerto de Barcelona] Autobus B-0007 direccion Aeropuerto de Barcelona con 14 pasajeros
+28-05-2024 08:40:09 - [Aeropuerto de Barcelona] Autobus B-0003 direccion Aeropuerto de Barcelona con 3 pasajeros
+28-05-2024 08:40:10 - [Aeropuerto de Barcelona] Autobus B-0001 deja 50 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:40:11 - [Aeropuerto de Barcelona] Autobus B-0005 deja 25 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:40:14 - [Aeropuerto de Barcelona] Autobus B-0001 direccion ciudad con 11 pasajeros
+28-05-2024 08:40:14 - [Aeropuerto de Barcelona] Autobus B-0009 deja 32 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:40:15 - [Aeropuerto de Barcelona] Autobus B-0005 direccion ciudad con 35 pasajeros
+28-05-2024 08:40:16 - [Aeropuerto de Barcelona] Autobus B-0009 direccion ciudad con 37 pasajeros
+28-05-2024 08:40:18 - [Aeropuerto de Barcelona] Autobus B-0007 deja 14 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:40:18 - [Aeropuerto de Barcelona] Autobus B-0003 deja 3 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:40:21 - [Aeropuerto de Barcelona] Autobus B-0007 direccion ciudad con 4 pasajeros
+28-05-2024 08:40:21 - [Aeropuerto de Barcelona] Autobus B-0003 direccion ciudad con 29 pasajeros
+28-05-2024 08:40:23 - [Aeropuerto de Barcelona] Autobus B-0005 direccion Aeropuerto de Barcelona con 10 pasajeros
+28-05-2024 08:43:53 - [Aeropuerto de Madrid] Autobus B-0000 creado en Aeropuerto de Madrid
+28-05-2024 08:43:53 - [Aeropuerto de Madrid] Avion OI-0000 creado en Aeropuerto de Madrid
+28-05-2024 08:43:53 -  [ Aeropuerto de Madrid ] Avion OI-0000 entra en hangar
+28-05-2024 08:43:56 - [Aeropuerto de Barcelona] Autobus B-0001 creado en Aeropuerto de Barcelona
+28-05-2024 08:43:56 - [Aeropuerto de Madrid] Autobus B-0000 direccion Aeropuerto de Madrid con 41 pasajeros
+28-05-2024 08:43:56 - [Aeropuerto de Barcelona] Avion ZV-0001 creado en Aeropuerto de Barcelona
+28-05-2024 08:43:56 -  [ Aeropuerto de Barcelona ] Avion ZV-0001 entra en hangar
+28-05-2024 08:43:57 -  [ Aeropuerto de Madrid ] Avion OI-0000 sale de hangar
+28-05-2024 08:43:57 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento OI-0000
+28-05-2024 08:43:57 -  [ Aeropuerto de Madrid ] Puerta 0 asignada al avión OI-0000
+28-05-2024 08:43:57 - [Aeropuerto de Madrid] Avion OI-0000 embarcando 201 pasajeros
+28-05-2024 08:43:58 - [Aeropuerto de Madrid] Avion OI-0000 entra en area de rodaje
+28-05-2024 08:43:58 - [Aeropuerto de Madrid] Autobus B-0002 creado en Aeropuerto de Madrid
+28-05-2024 08:43:59 -  [ Aeropuerto de Barcelona ] Avion ZV-0001 sale de hangar
+28-05-2024 08:43:59 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento ZV-0001
+28-05-2024 08:43:59 -  [ Aeropuerto de Barcelona ] Puerta 0 asignada al avión ZV-0001
+28-05-2024 08:43:59 - [Aeropuerto de Barcelona] Avion ZV-0001 embarcando 294 pasajeros
+28-05-2024 08:43:59 - [Aeropuerto de Madrid] Avion GO-0002 creado en Aeropuerto de Madrid
+28-05-2024 08:43:59 -  [ Aeropuerto de Madrid ] Avion GO-0002 entra en hangar
+28-05-2024 08:44:00 - [Aeropuerto de Barcelona] Autobus B-0001 direccion Aeropuerto de Barcelona con 5 pasajeros
+28-05-2024 08:44:00 - [Aeropuerto de Madrid] Avion OI-0000 sale de area de rodaje
+28-05-2024 08:44:00 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion OI-0000
+28-05-2024 08:44:01 - [Aeropuerto de Barcelona] Avion ZV-0001 entra en area de rodaje
+28-05-2024 08:44:01 -  [ Aeropuerto de Madrid ] Avion GO-0002 sale de hangar
+28-05-2024 08:44:01 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento GO-0002
+28-05-2024 08:44:01 -  [ Aeropuerto de Madrid ] Puerta 0 asignada al avión GO-0002
+28-05-2024 08:44:01 - [Aeropuerto de Madrid] Avion GO-0002 embarcando 295 pasajeros
+28-05-2024 08:44:03 - [Aeropuerto de Barcelona] Avion ZV-0001 sale de area de rodaje
+28-05-2024 08:44:03 -  [ Aeropuerto de Barcelona ] Pista 0 ocupada por avion ZV-0001
+28-05-2024 08:44:03 - [Aeropuerto de Madrid] Autobus B-0002 direccion Aeropuerto de Madrid con 37 pasajeros
+28-05-2024 08:44:03 - [Aeropuerto de Madrid] Avion GO-0002 entra en area de rodaje
+28-05-2024 08:44:03 - [Aeropuerto de Barcelona] Autobus B-0003 creado en Aeropuerto de Barcelona
+28-05-2024 08:44:03 -  [ Aeropuerto de Madrid ] Despegando avion OI-0000
+28-05-2024 08:44:03 -  [ Aeropuerto de Madrid ] Pista 0 liberada por avion OI-0000
+28-05-2024 08:44:03 - [Madrid-Barcelona] Avion OI-0000 entra en aerovia
+28-05-2024 08:44:04 - [Aeropuerto de Barcelona] Avion PJ-0003 creado en Aeropuerto de Barcelona
+28-05-2024 08:44:04 -  [ Aeropuerto de Barcelona ] Avion PJ-0003 entra en hangar
+28-05-2024 08:44:05 - [Aeropuerto de Madrid] Autobus B-0004 creado en Aeropuerto de Madrid
+28-05-2024 08:44:05 -  [ Aeropuerto de Barcelona ] Avion PJ-0003 sale de hangar
+28-05-2024 08:44:05 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento PJ-0003
+28-05-2024 08:44:05 -  [ Aeropuerto de Barcelona ] Puerta 0 asignada al avión PJ-0003
+28-05-2024 08:44:05 - [Aeropuerto de Barcelona] Avion PJ-0003 embarcando 221 pasajeros
+28-05-2024 08:44:05 - [Aeropuerto de Madrid] Avion GO-0002 sale de area de rodaje
+28-05-2024 08:44:05 -  [ Aeropuerto de Madrid ] Pista 1 ocupada por avion GO-0002
+28-05-2024 08:44:05 - [Aeropuerto de Madrid] Avion IK-0004 creado en Aeropuerto de Madrid
+28-05-2024 08:44:05 -  [ Aeropuerto de Madrid ] Avion IK-0004 entra en hangar
+28-05-2024 08:44:06 - [Aeropuerto de Madrid] Autobus B-0000 deja 41 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:44:06 -  [ Aeropuerto de Barcelona ] Despegando avion ZV-0001
+28-05-2024 08:44:06 -  [ Aeropuerto de Barcelona ] Pista 0 liberada por avion ZV-0001
+28-05-2024 08:44:06 - [Barcelona-Madrid] Avion ZV-0001 entra en aerovia
+28-05-2024 08:44:07 -  [ Aeropuerto de Madrid ] Avion IK-0004 sale de hangar
+28-05-2024 08:44:07 - [Aeropuerto de Barcelona] Autobus B-0005 creado en Aeropuerto de Barcelona
+28-05-2024 08:44:07 - [Aeropuerto de Barcelona] Avion PJ-0003 entra en area de rodaje
+28-05-2024 08:44:07 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento IK-0004
+28-05-2024 08:44:07 - [Aeropuerto de Barcelona] Autobus B-0003 direccion Aeropuerto de Barcelona con 0 pasajeros
+28-05-2024 08:44:07 -  [ Aeropuerto de Madrid ] Puerta 0 asignada al avión IK-0004
+28-05-2024 08:44:07 - [Aeropuerto de Madrid] Avion IK-0004 embarcando 292 pasajeros
+28-05-2024 08:44:08 - [Aeropuerto de Madrid] Autobus B-0004 direccion Aeropuerto de Madrid con 42 pasajeros
+28-05-2024 08:44:08 - [Aeropuerto de Barcelona] Autobus B-0001 deja 5 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:44:08 - [Aeropuerto de Barcelona] Avion RQ-0005 creado en Aeropuerto de Barcelona
+28-05-2024 08:44:08 -  [ Aeropuerto de Barcelona ] Avion RQ-0005 entra en hangar
+28-05-2024 08:44:09 - [Aeropuerto de Madrid] Autobus B-0000 direccion ciudad con 16 pasajeros
+28-05-2024 08:44:09 -  [ Aeropuerto de Madrid ] Despegando avion GO-0002
+28-05-2024 08:44:09 -  [ Aeropuerto de Madrid ] Pista 1 liberada por avion GO-0002
+28-05-2024 08:44:09 - [Madrid-Barcelona] Avion GO-0002 entra en aerovia
+28-05-2024 08:44:10 -  [ Aeropuerto de Barcelona ] Avion RQ-0005 sale de hangar
+28-05-2024 08:44:10 - [Aeropuerto de Madrid] Avion IK-0004 entra en area de rodaje
+28-05-2024 08:44:10 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento RQ-0005
+28-05-2024 08:44:10 - [Aeropuerto de Madrid] Autobus B-0006 creado en Aeropuerto de Madrid
+28-05-2024 08:44:10 -  [ Aeropuerto de Barcelona ] Puerta 0 asignada al avión RQ-0005
+28-05-2024 08:44:10 - [Aeropuerto de Barcelona] Avion RQ-0005 embarcando 157 pasajeros
+28-05-2024 08:44:10 - [Aeropuerto de Barcelona] Autobus B-0005 direccion Aeropuerto de Barcelona con 14 pasajeros
+28-05-2024 08:44:10 - [Aeropuerto de Madrid] Autobus B-0002 deja 37 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:44:10 - [Aeropuerto de Barcelona] Avion PJ-0003 sale de area de rodaje
+28-05-2024 08:44:10 -  [ Aeropuerto de Barcelona ] Pista 0 ocupada por avion PJ-0003
+28-05-2024 08:44:11 - [Aeropuerto de Madrid] Avion EO-0006 creado en Aeropuerto de Madrid
+28-05-2024 08:44:11 -  [ Aeropuerto de Madrid ] Avion EO-0006 entra en hangar
+28-05-2024 08:44:11 - [Aeropuerto de Barcelona] Autobus B-0001 direccion ciudad con 22 pasajeros
+28-05-2024 08:44:11 - [Aeropuerto de Barcelona] Avion RQ-0005 entra en area de rodaje
+28-05-2024 08:44:12 - [Aeropuerto de Barcelona] Autobus B-0007 creado en Aeropuerto de Barcelona
+28-05-2024 08:44:12 - [Aeropuerto de Madrid] Autobus B-0002 direccion ciudad con 42 pasajeros
+28-05-2024 08:44:13 - [Aeropuerto de Madrid] Avion IK-0004 sale de area de rodaje
+28-05-2024 08:44:13 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion IK-0004
+28-05-2024 08:44:13 - [Aeropuerto de Barcelona] Avion PH-0007 creado en Aeropuerto de Barcelona
+28-05-2024 08:44:13 -  [ Aeropuerto de Barcelona ] Avion PH-0007 entra en hangar
+28-05-2024 08:44:13 - [Aeropuerto de Barcelona] Avion RQ-0005 sale de area de rodaje
+28-05-2024 08:44:13 -  [ Aeropuerto de Barcelona ] Pista 1 ocupada por avion RQ-0005
+28-05-2024 08:44:14 -  [ Aeropuerto de Madrid ] Avion EO-0006 sale de hangar
+28-05-2024 08:44:14 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento EO-0006
+28-05-2024 08:44:14 -  [ Aeropuerto de Madrid ] Puerta 0 asignada al avión EO-0006
+28-05-2024 08:44:14 - [Aeropuerto de Madrid] Avion EO-0006 embarcando 214 pasajeros
+28-05-2024 08:44:14 -  [ Aeropuerto de Madrid ] Despegando avion IK-0004
+28-05-2024 08:44:14 -  [ Aeropuerto de Madrid ] Pista 0 liberada por avion IK-0004
+28-05-2024 08:44:14 - [Madrid-Barcelona] Avion IK-0004 entra en aerovia
+28-05-2024 08:44:14 - [Aeropuerto de Madrid] Autobus B-0004 deja 42 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:44:15 - [Aeropuerto de Madrid] Autobus B-0006 direccion Aeropuerto de Madrid con 8 pasajeros
+28-05-2024 08:44:15 -  [ Aeropuerto de Barcelona ] Despegando avion PJ-0003
+28-05-2024 08:44:15 -  [ Aeropuerto de Barcelona ] Pista 0 liberada por avion PJ-0003
+28-05-2024 08:44:15 - [Barcelona-Madrid] Avion PJ-0003 entra en aerovia
+28-05-2024 08:44:15 -  [ Aeropuerto de Barcelona ] Avion PH-0007 sale de hangar
+28-05-2024 08:44:15 - [Aeropuerto de Madrid] Avion EO-0006 entra en area de rodaje
+28-05-2024 08:44:15 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento PH-0007
+28-05-2024 08:44:15 -  [ Aeropuerto de Barcelona ] Puerta 0 asignada al avión PH-0007
+28-05-2024 08:44:15 - [Aeropuerto de Barcelona] Avion PH-0007 embarcando 180 pasajeros
+28-05-2024 08:44:17 - [Aeropuerto de Madrid] Avion EO-0006 sale de area de rodaje
+28-05-2024 08:44:17 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion EO-0006
+28-05-2024 08:44:18 - [Aeropuerto de Madrid] Autobus B-0008 creado en Aeropuerto de Madrid
+28-05-2024 08:44:18 - [Aeropuerto de Barcelona] Autobus B-0007 direccion Aeropuerto de Barcelona con 1 pasajeros
+28-05-2024 08:44:18 - [Aeropuerto de Barcelona] Avion PH-0007 entra en area de rodaje
+28-05-2024 08:44:18 -  [ Aeropuerto de Barcelona ] Despegando avion RQ-0005
+28-05-2024 08:44:18 - [Aeropuerto de Barcelona] Autobus B-0003 deja 0 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:44:18 -  [ Aeropuerto de Barcelona ] Pista 1 liberada por avion RQ-0005
+28-05-2024 08:44:18 - [Barcelona-Madrid] Avion RQ-0005 entra en aerovia
+28-05-2024 08:44:18 - [Aeropuerto de Madrid] Autobus B-0004 direccion ciudad con 0 pasajeros
+28-05-2024 08:44:19 - [Aeropuerto de Madrid] Autobus B-0000 direccion Aeropuerto de Madrid con 39 pasajeros
+28-05-2024 08:44:19 -  [ Aeropuerto de Madrid ] Despegando avion EO-0006
+28-05-2024 08:44:19 -  [ Aeropuerto de Madrid ] Pista 0 liberada por avion EO-0006
+28-05-2024 08:44:19 - [Madrid-Barcelona] Avion EO-0006 entra en aerovia
+28-05-2024 08:44:19 - [Aeropuerto de Madrid] Avion XJ-0008 creado en Aeropuerto de Madrid
+28-05-2024 08:44:19 -  [ Aeropuerto de Madrid ] Avion XJ-0008 entra en hangar
+28-05-2024 08:44:19 - [Aeropuerto de Barcelona] Autobus B-0005 deja 14 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:44:20 - [Madrid-Barcelona] Avion OI-0000 sale de aerovia
+28-05-2024 08:44:20 -  [ Aeropuerto de Barcelona ] Aterrizando avion OI-0000
+28-05-2024 08:44:20 -  [ Aeropuerto de Madrid ] Avion XJ-0008 sale de hangar
+28-05-2024 08:44:20 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento XJ-0008
+28-05-2024 08:44:20 -  [ Aeropuerto de Madrid ] Puerta 0 asignada al avión XJ-0008
+28-05-2024 08:44:20 - [Aeropuerto de Madrid] Avion XJ-0008 embarcando 163 pasajeros
+28-05-2024 08:44:20 - [Aeropuerto de Barcelona] Autobus B-0001 direccion Aeropuerto de Barcelona con 21 pasajeros
+28-05-2024 08:44:21 - [Aeropuerto de Barcelona] Avion PH-0007 sale de area de rodaje
+28-05-2024 08:44:21 -  [ Aeropuerto de Barcelona ] Pista 0 ocupada por avion PH-0007
+28-05-2024 08:44:21 - [Aeropuerto de Barcelona] Autobus B-0003 direccion ciudad con 22 pasajeros
+28-05-2024 08:44:22 -  [ Aeropuerto de Barcelona ] Despegando avion PH-0007
+28-05-2024 08:44:22 -  [ Aeropuerto de Barcelona ] Pista 0 liberada por avion PH-0007
+28-05-2024 08:44:22 - [Barcelona-Madrid] Avion PH-0007 entra en aerovia
+28-05-2024 08:44:22 - [Aeropuerto de Barcelona] Autobus B-0005 direccion ciudad con 28 pasajeros
+28-05-2024 08:44:22 - [Aeropuerto de Madrid] Avion XJ-0008 entra en area de rodaje
+28-05-2024 08:44:22 - [Aeropuerto de Madrid] Autobus B-0008 direccion Aeropuerto de Madrid con 43 pasajeros
+28-05-2024 08:44:22 - [Aeropuerto de Barcelona] Autobus B-0009 creado en Aeropuerto de Barcelona
+28-05-2024 08:44:23 - [Barcelona-Madrid] Avion ZV-0001 sale de aerovia
+28-05-2024 08:44:23 -  [ Aeropuerto de Madrid ] Aterrizando avion ZV-0001
+28-05-2024 08:44:23 - [Aeropuerto de Madrid] Autobus B-0006 deja 8 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:44:23 - [Aeropuerto de Barcelona] Avion NL-0009 creado en Aeropuerto de Barcelona
+28-05-2024 08:44:23 -  [ Aeropuerto de Barcelona ] Avion NL-0009 entra en hangar
+28-05-2024 08:44:23 - [Aeropuerto de Barcelona] Avion OI-0000 entra en area de rodaje
+28-05-2024 08:44:23 - [Aeropuerto de Barcelona] Avion OI-0000 sale de area de rodaje
+28-05-2024 08:44:23 - [Aeropuerto de Madrid] Autobus B-0002 direccion Aeropuerto de Madrid con 9 pasajeros
+28-05-2024 08:44:24 - [Aeropuerto de Madrid] Avion XJ-0008 sale de area de rodaje
+28-05-2024 08:44:24 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion XJ-0008
+28-05-2024 08:44:24 - [Aeropuerto de Barcelona] Autobus B-0007 deja 1 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:44:25 - [Aeropuerto de Madrid] Autobus B-0010 creado en Aeropuerto de Madrid
+28-05-2024 08:44:25 -  [ Aeropuerto de Barcelona ] Avion NL-0009 sale de hangar
+28-05-2024 08:44:25 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento NL-0009
+28-05-2024 08:44:25 - [Aeropuerto de Barcelona] Autobus B-0009 direccion Aeropuerto de Barcelona con 11 pasajeros
+28-05-2024 08:44:25 - [Aeropuerto de Madrid] Autobus B-0006 direccion ciudad con 38 pasajeros
+28-05-2024 08:44:26 - [Aeropuerto de Madrid] Avion SW-0010 creado en Aeropuerto de Madrid
+28-05-2024 08:44:26 -  [ Aeropuerto de Madrid ] Avion SW-0010 entra en hangar
+28-05-2024 08:44:26 - [Aeropuerto de Madrid] Autobus B-0004 direccion Aeropuerto de Madrid con 37 pasajeros
+28-05-2024 08:44:26 -  [ Aeropuerto de Barcelona ] Puerta 1 asignada al avión NL-0009
+28-05-2024 08:44:26 - [Aeropuerto de Barcelona] Avion NL-0009 embarcando 218 pasajeros
+28-05-2024 08:44:27 - [Aeropuerto de Madrid] Avion ZV-0001 entra en area de rodaje
+28-05-2024 08:44:27 - [Aeropuerto de Madrid] Avion ZV-0001 sale de area de rodaje
+28-05-2024 08:44:27 - [Madrid-Barcelona] Avion GO-0002 sale de aerovia
+28-05-2024 08:44:27 -  [ Aeropuerto de Madrid ] Despegando avion XJ-0008
+28-05-2024 08:44:27 -  [ Aeropuerto de Madrid ] Pista 0 liberada por avion XJ-0008
+28-05-2024 08:44:27 - [Madrid-Barcelona] Avion XJ-0008 entra en aerovia
+28-05-2024 08:44:28 - [Aeropuerto de Madrid] Autobus B-0000 deja 39 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:44:28 - [Aeropuerto de Barcelona] Avion OI-0000 desembarcando 201 pasajeros
+28-05-2024 08:44:28 - [Aeropuerto de Barcelona] Avion NL-0009 entra en area de rodaje
+28-05-2024 08:44:28 -  [ Aeropuerto de Madrid ] Realizando comprobaciones de seguridad en el avión OI-0000
+28-05-2024 08:44:28 - [Aeropuerto de Barcelona] Autobus B-0011 creado en Aeropuerto de Barcelona
+28-05-2024 08:44:28 -  [ Aeropuerto de Barcelona ] Aterrizando avion GO-0002
+28-05-2024 08:44:28 - [Aeropuerto de Madrid] Autobus B-0010 direccion Aeropuerto de Madrid con 39 pasajeros
+28-05-2024 08:44:28 - [Aeropuerto de Barcelona] Autobus B-0007 direccion ciudad con 49 pasajeros
+28-05-2024 08:44:29 - [Aeropuerto de Barcelona] Avion HZ-0011 creado en Aeropuerto de Barcelona
+28-05-2024 08:44:29 -  [ Aeropuerto de Barcelona ] Avion HZ-0011 entra en hangar
+28-05-2024 08:44:29 -  [ Aeropuerto de Madrid ] Avion SW-0010 sale de hangar
+28-05-2024 08:44:29 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento SW-0010
+28-05-2024 08:44:30 - [Aeropuerto de Barcelona] Avion GO-0002 entra en area de rodaje
+28-05-2024 08:44:30 - [Aeropuerto de Barcelona] Avion GO-0002 sale de area de rodaje
+28-05-2024 08:44:30 - [Aeropuerto de Madrid] Autobus B-0000 direccion ciudad con 41 pasajeros
+28-05-2024 08:44:30 -  [ Aeropuerto de Madrid ] Puerta 1 asignada al avión SW-0010
+28-05-2024 08:44:30 - [Aeropuerto de Madrid] Avion SW-0010 embarcando 119 pasajeros
+28-05-2024 08:44:30 - [Aeropuerto de Barcelona] Autobus B-0003 direccion Aeropuerto de Barcelona con 10 pasajeros
+28-05-2024 08:44:30 -  [ Aeropuerto de Barcelona ] Entrando en el taller el avion OI-0000
+28-05-2024 08:44:30 - [Aeropuerto de Barcelona] Autobus B-0011 direccion Aeropuerto de Barcelona con 44 pasajeros
+28-05-2024 08:44:31 - [Aeropuerto de Barcelona] Avion NL-0009 sale de area de rodaje
+28-05-2024 08:44:31 -  [ Aeropuerto de Barcelona ] Pista 1 ocupada por avion NL-0009
+28-05-2024 08:44:31 - [Aeropuerto de Barcelona] Autobus B-0009 deja 11 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:44:31 - [Aeropuerto de Madrid] Autobus B-0008 deja 43 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:44:31 - [Aeropuerto de Barcelona] Autobus B-0005 direccion Aeropuerto de Barcelona con 26 pasajeros
+28-05-2024 08:44:31 -  [ Aeropuerto de Barcelona ] Realizando inspección en el avión OI-0000
+28-05-2024 08:44:31 - [Aeropuerto de Barcelona] Autobus B-0001 deja 21 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:44:32 - [Aeropuerto de Madrid] Avion ZV-0001 desembarcando 294 pasajeros
+28-05-2024 08:44:32 -  [ Aeropuerto de Barcelona ] Realizando comprobaciones de seguridad en el avión ZV-0001
+28-05-2024 08:44:32 - [Aeropuerto de Madrid] Avion SW-0010 entra en area de rodaje
+28-05-2024 08:44:32 - [Aeropuerto de Madrid] Autobus B-0012 creado en Aeropuerto de Madrid
+28-05-2024 08:44:32 - [Aeropuerto de Madrid] Autobus B-0002 deja 9 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:44:32 -  [ Aeropuerto de Barcelona ] Despegando avion NL-0009
+28-05-2024 08:44:32 -  [ Aeropuerto de Barcelona ] Pista 1 liberada por avion NL-0009
+28-05-2024 08:44:32 - [Barcelona-Madrid] Avion NL-0009 entra en aerovia
+28-05-2024 08:44:33 - [Madrid-Barcelona] Avion IK-0004 sale de aerovia
+28-05-2024 08:44:33 -  [ Aeropuerto de Barcelona ] Aterrizando avion IK-0004
+28-05-2024 08:44:33 -  [ Aeropuerto de Barcelona ] Avion HZ-0011 sale de hangar
+28-05-2024 08:44:33 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento HZ-0011
+28-05-2024 08:44:33 - [Aeropuerto de Madrid] Avion OF-0012 creado en Aeropuerto de Madrid
+28-05-2024 08:44:33 -  [ Aeropuerto de Madrid ] Avion OF-0012 entra en hangar
+28-05-2024 08:44:33 - [Aeropuerto de Madrid] Avion SW-0010 sale de area de rodaje
+28-05-2024 08:44:33 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion SW-0010
+28-05-2024 08:44:34 -  [ Aeropuerto de Barcelona ] Puerta 1 asignada al avión HZ-0011
+28-05-2024 08:44:34 - [Aeropuerto de Barcelona] Avion HZ-0011 embarcando 224 pasajeros
+28-05-2024 08:44:34 - [Aeropuerto de Barcelona] Avion IK-0004 entra en area de rodaje
+28-05-2024 08:44:34 - [Aeropuerto de Barcelona] Autobus B-0009 direccion ciudad con 15 pasajeros
+28-05-2024 08:44:35 - [Aeropuerto de Barcelona] Autobus B-0001 direccion ciudad con 14 pasajeros
+28-05-2024 08:44:35 -  [ Aeropuerto de Madrid ] Entrando en el taller el avion ZV-0001
+28-05-2024 08:44:35 - [Aeropuerto de Madrid] Autobus B-0004 deja 37 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:44:35 -  [ Aeropuerto de Madrid ] Avion OF-0012 sale de hangar
+28-05-2024 08:44:35 - [Aeropuerto de Madrid] Autobus B-0012 direccion Aeropuerto de Madrid con 45 pasajeros
+28-05-2024 08:44:36 -  [ Aeropuerto de Madrid ] Despegando avion SW-0010
+28-05-2024 08:44:36 -  [ Aeropuerto de Madrid ] Pista 0 liberada por avion SW-0010
+28-05-2024 08:44:36 - [Madrid-Barcelona] Avion SW-0010 entra en aerovia
+28-05-2024 08:44:36 -  [ Aeropuerto de Madrid ] Realizando inspección en el avión ZV-0001
+28-05-2024 08:44:36 - [Aeropuerto de Madrid] Autobus B-0008 direccion ciudad con 2 pasajeros
+28-05-2024 08:44:36 - [Aeropuerto de Madrid] Autobus B-0006 direccion Aeropuerto de Madrid con 7 pasajeros
+28-05-2024 08:44:37 - [Aeropuerto de Madrid] Autobus B-0010 deja 39 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:44:37 - [Aeropuerto de Madrid] Autobus B-0002 direccion ciudad con 40 pasajeros
+28-05-2024 08:44:37 - [Aeropuerto de Barcelona] Avion HZ-0011 entra en area de rodaje
+28-05-2024 08:44:37 - [Aeropuerto de Barcelona] Autobus B-0013 creado en Aeropuerto de Barcelona
+28-05-2024 08:44:37 - [Aeropuerto de Barcelona] Avion IK-0004 sale de area de rodaje
+28-05-2024 08:44:37 - [Aeropuerto de Barcelona] Autobus B-0003 deja 10 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:44:37 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento OF-0012
+28-05-2024 08:44:37 -  [ Aeropuerto de Barcelona ] Saliendo del taller el avion OI-0000
+28-05-2024 08:44:37 -  [ Aeropuerto de Madrid ] Puerta 0 asignada al avión OF-0012
+28-05-2024 08:44:37 - [Aeropuerto de Madrid] Avion OF-0012 embarcando 130 pasajeros
+28-05-2024 08:44:37 - [Aeropuerto de Madrid] Autobus B-0004 direccion ciudad con 9 pasajeros
+28-05-2024 08:44:37 -  [ Aeropuerto de Madrid ] Saliendo del taller el avion ZV-0001
+28-05-2024 08:44:37 - [Aeropuerto de Barcelona] Avion UT-0013 creado en Aeropuerto de Barcelona
+28-05-2024 08:44:37 -  [ Aeropuerto de Barcelona ] Avion UT-0013 entra en hangar
+28-05-2024 08:44:38 - [Aeropuerto de Barcelona] Autobus B-0011 deja 44 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:44:38 -  [ Aeropuerto de Madrid ] Avion OI-0000 entra en hangar
+28-05-2024 08:44:38 - [Aeropuerto de Madrid] Avion OF-0012 entra en area de rodaje
+28-05-2024 08:44:38 - [Aeropuerto de Barcelona] Autobus B-0005 deja 26 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:44:39 - [Aeropuerto de Barcelona] Autobus B-0007 direccion Aeropuerto de Barcelona con 4 pasajeros
+28-05-2024 08:44:39 - [Aeropuerto de Barcelona] Avion GO-0002 desembarcando 295 pasajeros
+28-05-2024 08:44:39 -  [ Aeropuerto de Madrid ] Realizando comprobaciones de seguridad en el avión GO-0002
+28-05-2024 08:44:39 - [Barcelona-Madrid] Avion PH-0007 sale de aerovia
+28-05-2024 08:44:39 -  [ Aeropuerto de Madrid ] Aterrizando avion PH-0007
+28-05-2024 08:44:40 - [Aeropuerto de Barcelona] Avion HZ-0011 sale de area de rodaje
+28-05-2024 08:44:40 -  [ Aeropuerto de Barcelona ] Pista 0 ocupada por avion HZ-0011
+28-05-2024 08:44:40 - [Barcelona-Madrid] Avion PJ-0003 sale de aerovia
+28-05-2024 08:44:40 -  [ Aeropuerto de Madrid ] Aterrizando avion PJ-0003
+28-05-2024 08:44:40 - [Aeropuerto de Madrid] Autobus B-0014 creado en Aeropuerto de Madrid
+28-05-2024 08:44:40 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento ZV-0001
+28-05-2024 08:44:40 -  [ Aeropuerto de Madrid ] Puerta 0 asignada al avión ZV-0001
+28-05-2024 08:44:40 - [Aeropuerto de Madrid] Avion ZV-0001 embarcando 294 pasajeros
+28-05-2024 08:44:40 - [Aeropuerto de Madrid] Avion OF-0012 sale de area de rodaje
+28-05-2024 08:44:40 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion OF-0012
+28-05-2024 08:44:41 - [Aeropuerto de Madrid] Avion PW-0014 creado en Aeropuerto de Madrid
+28-05-2024 08:44:41 -  [ Aeropuerto de Madrid ] Avion PW-0014 entra en hangar
+28-05-2024 08:44:41 - [Barcelona-Madrid] Avion RQ-0005 sale de aerovia
+28-05-2024 08:44:41 -  [ Aeropuerto de Madrid ] Aterrizando avion RQ-0005
+28-05-2024 08:44:41 -  [ Aeropuerto de Barcelona ] Entrando en el taller el avion GO-0002
+28-05-2024 08:44:41 - [Aeropuerto de Barcelona] Autobus B-0003 direccion ciudad con 49 pasajeros
+28-05-2024 08:44:41 - [Aeropuerto de Barcelona] Autobus B-0013 direccion Aeropuerto de Barcelona con 23 pasajeros
+28-05-2024 08:44:41 -  [ Aeropuerto de Barcelona ] Avion UT-0013 sale de hangar
+28-05-2024 08:44:41 - [Aeropuerto de Madrid] Autobus B-0010 direccion ciudad con 32 pasajeros
+28-05-2024 08:44:42 -  [ Aeropuerto de Barcelona ] Despegando avion HZ-0011
+28-05-2024 08:44:42 -  [ Aeropuerto de Barcelona ] Pista 0 liberada por avion HZ-0011
+28-05-2024 08:44:42 - [Barcelona-Madrid] Avion HZ-0011 entra en aerovia
+28-05-2024 08:44:42 - [Aeropuerto de Barcelona] Autobus B-0011 direccion ciudad con 31 pasajeros
+28-05-2024 08:44:42 -  [ Aeropuerto de Barcelona ] Realizando inspección en el avión GO-0002
+28-05-2024 08:44:42 - [Aeropuerto de Madrid] Avion ZV-0001 entra en area de rodaje
+28-05-2024 08:44:42 - [Aeropuerto de Madrid] Autobus B-0000 direccion Aeropuerto de Madrid con 41 pasajeros
+28-05-2024 08:44:42 - [Aeropuerto de Madrid] Avion PH-0007 entra en area de rodaje
+28-05-2024 08:44:42 - [Aeropuerto de Madrid] Autobus B-0006 deja 7 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:44:42 - [Aeropuerto de Madrid] Autobus B-0012 deja 45 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:44:42 - [Aeropuerto de Madrid] Avion PH-0007 sale de area de rodaje
+28-05-2024 08:44:43 - [Aeropuerto de Madrid] Avion RQ-0005 entra en area de rodaje
+28-05-2024 08:44:43 - [Aeropuerto de Madrid] Avion RQ-0005 sale de area de rodaje
+28-05-2024 08:44:43 - [Madrid-Barcelona] Avion XJ-0008 sale de aerovia
+28-05-2024 08:44:43 - [Aeropuerto de Barcelona] Autobus B-0005 direccion ciudad con 11 pasajeros
+28-05-2024 08:44:43 - [Aeropuerto de Madrid] Avion ZV-0001 sale de area de rodaje
+28-05-2024 08:44:43 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion ZV-0001
+28-05-2024 08:44:44 -  [ Aeropuerto de Madrid ] Avion PW-0014 sale de hangar
+28-05-2024 08:44:44 - [Aeropuerto de Madrid] Avion PJ-0003 entra en area de rodaje
+28-05-2024 08:44:44 - [Aeropuerto de Madrid] Avion PJ-0003 sale de area de rodaje
+28-05-2024 08:44:44 - [Aeropuerto de Barcelona] Avion IK-0004 desembarcando 292 pasajeros
+28-05-2024 08:44:44 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento UT-0013
+28-05-2024 08:44:44 -  [ Aeropuerto de Madrid ] Realizando comprobaciones de seguridad en el avión IK-0004
+28-05-2024 08:44:44 -  [ Aeropuerto de Barcelona ] Puerta 0 asignada al avión UT-0013
+28-05-2024 08:44:44 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento PW-0014
+28-05-2024 08:44:44 -  [ Aeropuerto de Barcelona ] Aterrizando avion XJ-0008
+28-05-2024 08:44:44 - [Aeropuerto de Barcelona] Autobus B-0015 creado en Aeropuerto de Barcelona
+28-05-2024 08:44:44 - [Aeropuerto de Barcelona] Avion UT-0013 embarcando 151 pasajeros
+28-05-2024 08:44:44 -  [ Aeropuerto de Madrid ] Despegando avion OF-0012
+28-05-2024 08:44:44 -  [ Aeropuerto de Madrid ] Pista 0 liberada por avion OF-0012
+28-05-2024 08:44:44 - [Madrid-Barcelona] Avion OF-0012 entra en aerovia
+28-05-2024 08:44:44 - [Aeropuerto de Madrid] Autobus B-0014 direccion Aeropuerto de Madrid con 50 pasajeros
+28-05-2024 08:44:45 - [Aeropuerto de Barcelona] Autobus B-0009 direccion Aeropuerto de Barcelona con 9 pasajeros
+28-05-2024 08:44:45 - [Aeropuerto de Barcelona] Avion XF-0015 creado en Aeropuerto de Barcelona
+28-05-2024 08:44:45 -  [ Aeropuerto de Barcelona ] Avion XF-0015 entra en hangar
+28-05-2024 08:44:45 -  [ Aeropuerto de Madrid ] Despegando avion ZV-0001
+28-05-2024 08:44:45 -  [ Aeropuerto de Madrid ] Pista 0 liberada por avion ZV-0001
+28-05-2024 08:44:45 - [Madrid-Barcelona] Avion ZV-0001 entra en aerovia
+28-05-2024 08:44:45 - [Aeropuerto de Madrid] Autobus B-0006 direccion ciudad con 41 pasajeros
+28-05-2024 08:44:46 - [Aeropuerto de Barcelona] Autobus B-0007 deja 4 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:44:46 - [Aeropuerto de Barcelona] Avion UT-0013 entra en area de rodaje
+28-05-2024 08:44:46 - [Aeropuerto de Barcelona] Autobus B-0015 direccion Aeropuerto de Barcelona con 46 pasajeros
+28-05-2024 08:44:46 - [Aeropuerto de Madrid] Autobus B-0012 direccion ciudad con 37 pasajeros
+28-05-2024 08:44:47 -  [ Aeropuerto de Barcelona ] Saliendo del taller el avion GO-0002
+28-05-2024 08:44:47 -  [ Aeropuerto de Madrid ] Puerta 3 asignada al avión PW-0014
+28-05-2024 08:44:47 - [Aeropuerto de Madrid] Avion PW-0014 embarcando 118 pasajeros
+28-05-2024 08:44:47 -  [ Aeropuerto de Barcelona ] Avion XF-0015 sale de hangar
+28-05-2024 08:44:48 -  [ Aeropuerto de Madrid ] Avion GO-0002 entra en hangar
+28-05-2024 08:44:48 - [Aeropuerto de Barcelona] Autobus B-0001 direccion Aeropuerto de Barcelona con 26 pasajeros
+28-05-2024 08:44:48 - [Aeropuerto de Madrid] Avion PH-0007 desembarcando 180 pasajeros
+28-05-2024 08:44:48 -  [ Aeropuerto de Barcelona ] Entrando en el taller el avion IK-0004
+28-05-2024 08:44:48 - [Aeropuerto de Barcelona] Autobus B-0013 deja 23 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:44:49 - [Aeropuerto de Barcelona] Avion XJ-0008 entra en area de rodaje
+28-05-2024 08:44:49 - [Aeropuerto de Barcelona] Avion XJ-0008 sale de area de rodaje
+28-05-2024 08:44:49 - [Aeropuerto de Barcelona] Avion UT-0013 sale de area de rodaje
+28-05-2024 08:44:49 -  [ Aeropuerto de Barcelona ] Pista 1 ocupada por avion UT-0013
+28-05-2024 08:44:49 -  [ Aeropuerto de Barcelona ] Realizando inspección en el avión IK-0004
+28-05-2024 08:44:50 - [Aeropuerto de Madrid] Avion RQ-0005 desembarcando 157 pasajeros
+28-05-2024 08:44:50 -  [ Aeropuerto de Barcelona ] Realizando comprobaciones de seguridad en el avión RQ-0005
+28-05-2024 08:44:50 - [Aeropuerto de Madrid] Autobus B-0008 direccion Aeropuerto de Madrid con 24 pasajeros
+28-05-2024 08:44:50 -  [ Aeropuerto de Barcelona ] Realizando comprobaciones de seguridad en el avión PH-0007
+28-05-2024 08:44:50 - [Aeropuerto de Madrid] Avion PW-0014 entra en area de rodaje
+28-05-2024 08:44:50 - [Madrid-Barcelona] Avion EO-0006 sale de aerovia
+28-05-2024 08:44:50 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento XF-0015
+28-05-2024 08:44:50 - [Aeropuerto de Barcelona] Autobus B-0009 deja 9 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:44:51 - [Aeropuerto de Barcelona] Autobus B-0007 direccion ciudad con 30 pasajeros
+28-05-2024 08:44:51 -  [ Aeropuerto de Barcelona ] Puerta 1 asignada al avión XF-0015
+28-05-2024 08:44:51 - [Aeropuerto de Barcelona] Avion XF-0015 embarcando 283 pasajeros
+28-05-2024 08:44:51 - [Aeropuerto de Madrid] Avion PJ-0003 desembarcando 221 pasajeros
+28-05-2024 08:44:51 - [Aeropuerto de Madrid] Autobus B-0000 deja 41 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:44:51 - [Aeropuerto de Madrid] Autobus B-0010 direccion Aeropuerto de Madrid con 23 pasajeros
+28-05-2024 08:44:51 - [Aeropuerto de Madrid] Autobus B-0004 direccion Aeropuerto de Madrid con 50 pasajeros
+28-05-2024 08:44:51 -  [ Aeropuerto de Barcelona ] Realizando comprobaciones de seguridad en el avión PJ-0003
+28-05-2024 08:44:51 - [Aeropuerto de Madrid] Autobus B-0002 direccion Aeropuerto de Madrid con 38 pasajeros
+28-05-2024 08:44:52 -  [ Aeropuerto de Madrid ] Entrando en el taller el avion PH-0007
+28-05-2024 08:44:52 - [Aeropuerto de Barcelona] Autobus B-0013 direccion ciudad con 46 pasajeros
+28-05-2024 08:44:53 -  [ Aeropuerto de Barcelona ] Despegando avion UT-0013
+28-05-2024 08:44:53 - [Aeropuerto de Madrid] Autobus B-0016 creado en Aeropuerto de Madrid
+28-05-2024 08:44:53 -  [ Aeropuerto de Barcelona ] Aterrizando avion EO-0006
+28-05-2024 08:44:53 - [Aeropuerto de Barcelona] Avion XF-0015 entra en area de rodaje
+28-05-2024 08:44:53 -  [ Aeropuerto de Barcelona ] Pista 1 liberada por avion UT-0013
+28-05-2024 08:44:53 - [Barcelona-Madrid] Avion UT-0013 entra en aerovia
+28-05-2024 08:44:53 - [Aeropuerto de Barcelona] Autobus B-0015 deja 46 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:44:53 -  [ Aeropuerto de Madrid ] Realizando inspección en el avión PH-0007
+28-05-2024 08:44:53 -  [ Aeropuerto de Barcelona ] Saliendo del taller el avion IK-0004
+28-05-2024 08:44:53 - [Aeropuerto de Madrid] Autobus B-0014 deja 50 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:44:53 - [Aeropuerto de Barcelona] Autobus B-0003 direccion Aeropuerto de Barcelona con 1 pasajeros
+28-05-2024 08:44:53 - [Aeropuerto de Madrid] Avion DU-0016 creado en Aeropuerto de Madrid
+28-05-2024 08:44:53 -  [ Aeropuerto de Madrid ] Avion DU-0016 entra en hangar
+28-05-2024 08:44:54 - [Aeropuerto de Madrid] Avion PW-0014 sale de area de rodaje
+28-05-2024 08:44:54 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion PW-0014
+28-05-2024 08:44:54 - [Aeropuerto de Barcelona] Autobus B-0005 direccion Aeropuerto de Barcelona con 49 pasajeros
+28-05-2024 08:44:54 - [Aeropuerto de Barcelona] Autobus B-0009 direccion ciudad con 6 pasajeros
+28-05-2024 08:44:54 - [Aeropuerto de Barcelona] Avion EO-0006 entra en area de rodaje
+28-05-2024 08:44:54 -  [ Aeropuerto de Madrid ] Avion IK-0004 entra en hangar
+28-05-2024 08:44:55 - [Aeropuerto de Barcelona] Autobus B-0015 direccion ciudad con 48 pasajeros
+28-05-2024 08:44:55 -  [ Aeropuerto de Madrid ] Saliendo del taller el avion PH-0007
+28-05-2024 08:44:55 - [Aeropuerto de Barcelona] Autobus B-0011 direccion Aeropuerto de Barcelona con 40 pasajeros
+28-05-2024 08:44:55 - [Aeropuerto de Madrid] Autobus B-0016 direccion Aeropuerto de Madrid con 35 pasajeros
+28-05-2024 08:44:55 - [Aeropuerto de Barcelona] Avion XF-0015 sale de area de rodaje
+28-05-2024 08:44:55 -  [ Aeropuerto de Barcelona ] Pista 1 ocupada por avion XF-0015
+28-05-2024 08:44:55 - [Aeropuerto de Madrid] Autobus B-0000 direccion ciudad con 49 pasajeros
+28-05-2024 08:44:55 - [Aeropuerto de Barcelona] Avion XJ-0008 desembarcando 163 pasajeros
+28-05-2024 08:44:55 - [Aeropuerto de Barcelona] Avion EO-0006 sale de area de rodaje
+28-05-2024 08:44:55 -  [ Aeropuerto de Madrid ] Realizando comprobaciones de seguridad en el avión XJ-0008
+28-05-2024 08:44:55 - [Aeropuerto de Barcelona] Autobus B-0017 creado en Aeropuerto de Barcelona
+28-05-2024 08:44:56 - [Aeropuerto de Madrid] Autobus B-0006 direccion Aeropuerto de Madrid con 20 pasajeros
+28-05-2024 08:44:56 -  [ Aeropuerto de Madrid ] Entrando en el taller el avion PJ-0003
+28-05-2024 08:44:56 - [Aeropuerto de Barcelona] Avion YE-0017 creado en Aeropuerto de Barcelona
+28-05-2024 08:44:56 -  [ Aeropuerto de Barcelona ] Avion YE-0017 entra en hangar
+28-05-2024 08:44:56 - [Aeropuerto de Madrid] Autobus B-0014 direccion ciudad con 29 pasajeros
+28-05-2024 08:44:57 -  [ Aeropuerto de Madrid ] Realizando inspección en el avión PJ-0003
+28-05-2024 08:44:57 -  [ Aeropuerto de Madrid ] Avion DU-0016 sale de hangar
+28-05-2024 08:44:57 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento DU-0016
+28-05-2024 08:44:57 -  [ Aeropuerto de Madrid ] Puerta 0 asignada al avión DU-0016
+28-05-2024 08:44:57 - [Aeropuerto de Madrid] Avion DU-0016 embarcando 266 pasajeros
+28-05-2024 08:44:57 - [Barcelona-Madrid] Avion NL-0009 sale de aerovia
+28-05-2024 08:44:57 -  [ Aeropuerto de Madrid ] Aterrizando avion NL-0009
+28-05-2024 08:44:57 - [Aeropuerto de Barcelona] Autobus B-0001 deja 26 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:44:57 -  [ Aeropuerto de Barcelona ] Despegando avion XF-0015
+28-05-2024 08:44:57 -  [ Aeropuerto de Barcelona ] Pista 1 liberada por avion XF-0015
+28-05-2024 08:44:57 - [Barcelona-Madrid] Avion XF-0015 entra en aerovia
+28-05-2024 08:44:57 -  [ Aeropuerto de Barcelona ] Avion YE-0017 sale de hangar
+28-05-2024 08:44:58 -  [ Aeropuerto de Barcelona ] Entrando en el taller el avion XJ-0008
+28-05-2024 08:44:59 - [Aeropuerto de Barcelona] Autobus B-0003 deja 1 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:44:59 - [Aeropuerto de Barcelona] Autobus B-0017 direccion Aeropuerto de Barcelona con 44 pasajeros
+28-05-2024 08:44:59 -  [ Aeropuerto de Barcelona ] Realizando inspección en el avión XJ-0008
+28-05-2024 08:44:59 - [Aeropuerto de Madrid] Autobus B-0010 deja 23 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:44:59 - [Aeropuerto de Madrid] Avion DU-0016 entra en area de rodaje
+28-05-2024 08:44:59 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento PH-0007
+28-05-2024 08:44:59 -  [ Aeropuerto de Madrid ] Saliendo del taller el avion PJ-0003
+28-05-2024 08:44:59 -  [ Aeropuerto de Madrid ] Despegando avion PW-0014
+28-05-2024 08:44:59 - [Aeropuerto de Madrid] Autobus B-0012 direccion Aeropuerto de Madrid con 21 pasajeros
+28-05-2024 08:44:59 -  [ Aeropuerto de Madrid ] Puerta 0 asignada al avión PH-0007
+28-05-2024 08:44:59 -  [ Aeropuerto de Madrid ] Pista 0 liberada por avion PW-0014
+28-05-2024 08:44:59 - [Aeropuerto de Madrid] Avion PH-0007 embarcando 180 pasajeros
+28-05-2024 08:44:59 - [Madrid-Barcelona] Avion PW-0014 entra en aerovia
+28-05-2024 08:44:59 - [Aeropuerto de Madrid] Autobus B-0018 creado en Aeropuerto de Madrid
+28-05-2024 08:44:59 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento YE-0017
+28-05-2024 08:44:59 -  [ Aeropuerto de Barcelona ] Puerta 0 asignada al avión YE-0017
+28-05-2024 08:44:59 - [Aeropuerto de Barcelona] Avion YE-0017 embarcando 199 pasajeros
+28-05-2024 08:45:00 - [Aeropuerto de Madrid] Avion NL-0009 entra en area de rodaje
+28-05-2024 08:45:00 - [Aeropuerto de Barcelona] Autobus B-0011 deja 40 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:45:00 - [Aeropuerto de Madrid] Avion VN-0018 creado en Aeropuerto de Madrid
+28-05-2024 08:45:00 -  [ Aeropuerto de Madrid ] Avion VN-0018 entra en hangar
+28-05-2024 08:45:00 -  [ Aeropuerto de Madrid ] Entrando en el taller el avion RQ-0005
+28-05-2024 08:45:00 -  [ Aeropuerto de Barcelona ] Avion PJ-0003 entra en hangar
+28-05-2024 08:45:00 - [Aeropuerto de Madrid] Avion DU-0016 sale de area de rodaje
+28-05-2024 08:45:00 -  [ Aeropuerto de Madrid ] Pista 2 ocupada por avion DU-0016
+28-05-2024 08:45:00 - [Aeropuerto de Madrid] Autobus B-0004 deja 50 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:45:01 - [Aeropuerto de Madrid] Autobus B-0008 deja 24 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:45:01 - [Aeropuerto de Barcelona] Avion YE-0017 entra en area de rodaje
+28-05-2024 08:45:01 - [Aeropuerto de Madrid] Avion PH-0007 entra en area de rodaje
+28-05-2024 08:45:01 - [Aeropuerto de Madrid] Avion NL-0009 sale de area de rodaje
+28-05-2024 08:45:01 - [Aeropuerto de Barcelona] Autobus B-0003 direccion ciudad con 10 pasajeros
+28-05-2024 08:45:01 - [Aeropuerto de Barcelona] Autobus B-0005 deja 49 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:45:01 - [Madrid-Barcelona] Avion SW-0010 sale de aerovia
+28-05-2024 08:45:01 -  [ Aeropuerto de Barcelona ] Aterrizando avion SW-0010
+28-05-2024 08:45:01 -  [ Aeropuerto de Madrid ] Realizando inspección en el avión RQ-0005
+28-05-2024 08:45:02 - [Aeropuerto de Barcelona] Autobus B-0001 direccion ciudad con 6 pasajeros
+28-05-2024 08:45:02 - [Aeropuerto de Barcelona] Avion YE-0017 sale de area de rodaje
+28-05-2024 08:45:02 - [Aeropuerto de Madrid] Autobus B-0002 deja 38 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:45:02 -  [ Aeropuerto de Barcelona ] Pista 0 ocupada por avion YE-0017
+28-05-2024 08:45:02 - [Aeropuerto de Barcelona] Avion EO-0006 desembarcando 214 pasajeros
+28-05-2024 08:45:02 -  [ Aeropuerto de Madrid ] Realizando comprobaciones de seguridad en el avión EO-0006
+28-05-2024 08:45:02 - [Aeropuerto de Madrid] Autobus B-0016 deja 35 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:45:02 - [Aeropuerto de Barcelona] Autobus B-0011 direccion ciudad con 32 pasajeros
+28-05-2024 08:45:02 - [Aeropuerto de Barcelona] Autobus B-0007 direccion Aeropuerto de Barcelona con 36 pasajeros
+28-05-2024 08:45:03 - [Aeropuerto de Madrid] Autobus B-0018 direccion Aeropuerto de Madrid con 8 pasajeros
+28-05-2024 08:45:03 - [Aeropuerto de Barcelona] Autobus B-0019 creado en Aeropuerto de Barcelona
+28-05-2024 08:45:03 -  [ Aeropuerto de Madrid ] Avion VN-0018 sale de hangar
+28-05-2024 08:45:03 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento VN-0018
+28-05-2024 08:45:03 - [Aeropuerto de Madrid] Autobus B-0004 direccion ciudad con 38 pasajeros
+28-05-2024 08:45:03 -  [ Aeropuerto de Madrid ] Saliendo del taller el avion RQ-0005
+28-05-2024 08:45:03 - [Aeropuerto de Madrid] Autobus B-0010 direccion ciudad con 5 pasajeros
+28-05-2024 08:45:03 - [Aeropuerto de Madrid] Avion PH-0007 sale de area de rodaje
+28-05-2024 08:45:03 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion PH-0007
+28-05-2024 08:45:03 - [Aeropuerto de Madrid] Autobus B-0008 direccion ciudad con 16 pasajeros
+28-05-2024 08:45:03 - [Aeropuerto de Barcelona] Avion BC-0019 creado en Aeropuerto de Barcelona
+28-05-2024 08:45:03 -  [ Aeropuerto de Barcelona ] Avion BC-0019 entra en hangar
+28-05-2024 08:45:04 -  [ Aeropuerto de Barcelona ] Saliendo del taller el avion XJ-0008
+28-05-2024 08:45:04 -  [ Aeropuerto de Madrid ] Despegando avion DU-0016
+28-05-2024 08:45:04 -  [ Aeropuerto de Madrid ] Pista 2 liberada por avion DU-0016
+28-05-2024 08:45:04 - [Madrid-Barcelona] Avion DU-0016 entra en aerovia
+28-05-2024 08:45:04 - [Aeropuerto de Barcelona] Autobus B-0013 direccion Aeropuerto de Barcelona con 16 pasajeros
+28-05-2024 08:45:04 -  [ Aeropuerto de Madrid ] Puerta 1 asignada al avión VN-0018
+28-05-2024 08:45:04 - [Aeropuerto de Madrid] Avion VN-0018 embarcando 180 pasajeros
+28-05-2024 08:45:04 - [Aeropuerto de Barcelona] Autobus B-0009 direccion Aeropuerto de Barcelona con 2 pasajeros
+28-05-2024 08:45:04 -  [ Aeropuerto de Barcelona ] Avion RQ-0005 entra en hangar
+28-05-2024 08:45:04 - [Aeropuerto de Barcelona] Autobus B-0005 direccion ciudad con 33 pasajeros
+28-05-2024 08:45:05 -  [ Aeropuerto de Madrid ] Avion XJ-0008 entra en hangar
+28-05-2024 08:45:05 - [Aeropuerto de Madrid] Autobus B-0006 deja 20 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:45:05 - [Aeropuerto de Madrid] Avion VN-0018 entra en area de rodaje
+28-05-2024 08:45:05 - [Aeropuerto de Barcelona] Avion SW-0010 entra en area de rodaje
+28-05-2024 08:45:05 - [Aeropuerto de Barcelona] Avion SW-0010 sale de area de rodaje
+28-05-2024 08:45:06 - [Madrid-Barcelona] Avion ZV-0001 sale de aerovia
+28-05-2024 08:45:06 -  [ Aeropuerto de Barcelona ] Aterrizando avion ZV-0001
+28-05-2024 08:45:06 - [Aeropuerto de Madrid] Autobus B-0002 direccion ciudad con 35 pasajeros
+28-05-2024 08:45:06 - [Aeropuerto de Madrid] Autobus B-0016 direccion ciudad con 44 pasajeros
+28-05-2024 08:45:06 -  [ Aeropuerto de Barcelona ] Despegando avion YE-0017
+28-05-2024 08:45:06 -  [ Aeropuerto de Barcelona ] Pista 0 liberada por avion YE-0017
+28-05-2024 08:45:06 - [Barcelona-Madrid] Avion YE-0017 entra en aerovia
+28-05-2024 08:45:06 -  [ Aeropuerto de Barcelona ] Avion OI-0000 sale de hangar
+28-05-2024 08:45:07 - [Aeropuerto de Barcelona] Autobus B-0019 direccion Aeropuerto de Barcelona con 36 pasajeros
+28-05-2024 08:45:07 - [Aeropuerto de Barcelona] Autobus B-0017 deja 44 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:45:07 -  [ Aeropuerto de Barcelona ] Entrando en el taller el avion EO-0006
+28-05-2024 08:45:07 - [Aeropuerto de Madrid] Avion VN-0018 sale de area de rodaje
+28-05-2024 08:45:07 - [Barcelona-Madrid] Avion HZ-0011 sale de aerovia
+28-05-2024 08:45:07 -  [ Aeropuerto de Barcelona ] Avion BC-0019 sale de hangar
+28-05-2024 08:45:07 - [Aeropuerto de Madrid] Avion NL-0009 desembarcando 218 pasajeros
+28-05-2024 08:45:07 -  [ Aeropuerto de Madrid ] Aterrizando avion HZ-0011
+28-05-2024 08:45:07 - [Aeropuerto de Madrid] Autobus B-0000 direccion Aeropuerto de Madrid con 6 pasajeros
+28-05-2024 08:45:07 -  [ Aeropuerto de Barcelona ] Realizando comprobaciones de seguridad en el avión NL-0009
+28-05-2024 08:45:07 - [Aeropuerto de Madrid] Autobus B-0012 deja 21 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:45:07 -  [ Aeropuerto de Madrid ] Pista 1 ocupada por avion VN-0018
+28-05-2024 08:45:07 - [Aeropuerto de Madrid] Autobus B-0020 creado en Aeropuerto de Madrid
+28-05-2024 08:45:07 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento OI-0000
+28-05-2024 08:45:07 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento BC-0019
+28-05-2024 08:45:08 - [Aeropuerto de Madrid] Autobus B-0006 direccion ciudad con 29 pasajeros
+28-05-2024 08:45:08 -  [ Aeropuerto de Barcelona ] Realizando inspección en el avión EO-0006
+28-05-2024 08:45:08 -  [ Aeropuerto de Madrid ] Despegando avion PH-0007
+28-05-2024 08:45:08 -  [ Aeropuerto de Madrid ] Pista 0 liberada por avion PH-0007
+28-05-2024 08:45:08 - [Madrid-Barcelona] Avion PH-0007 entra en aerovia
+28-05-2024 08:45:08 - [Aeropuerto de Madrid] Avion BX-0020 creado en Aeropuerto de Madrid
+28-05-2024 08:45:08 -  [ Aeropuerto de Madrid ] Avion BX-0020 entra en hangar
+28-05-2024 08:45:08 - [Aeropuerto de Barcelona] Autobus B-0015 direccion Aeropuerto de Barcelona con 41 pasajeros
+28-05-2024 08:45:08 -  [ Aeropuerto de Barcelona ] Puerta 1 asignada al avión OI-0000
+28-05-2024 08:45:08 - [Aeropuerto de Barcelona] Avion OI-0000 embarcando 201 pasajeros
+28-05-2024 08:45:09 - [Aeropuerto de Madrid] Autobus B-0014 direccion Aeropuerto de Madrid con 4 pasajeros
+28-05-2024 08:45:09 -  [ Aeropuerto de Madrid ] Despegando avion VN-0018
+28-05-2024 08:45:09 -  [ Aeropuerto de Madrid ] Pista 1 liberada por avion VN-0018
+28-05-2024 08:45:09 - [Madrid-Barcelona] Avion VN-0018 entra en aerovia
+28-05-2024 08:45:09 - [Aeropuerto de Barcelona] Autobus B-0017 direccion ciudad con 29 pasajeros
+28-05-2024 08:45:09 -  [ Aeropuerto de Barcelona ] Saliendo del taller el avion EO-0006
+28-05-2024 08:45:10 -  [ Aeropuerto de Barcelona ] Puerta 1 asignada al avión BC-0019
+28-05-2024 08:45:10 - [Aeropuerto de Barcelona] Avion OI-0000 entra en area de rodaje
+28-05-2024 08:45:10 - [Aeropuerto de Barcelona] Autobus B-0021 creado en Aeropuerto de Barcelona
+28-05-2024 08:45:10 - [Aeropuerto de Barcelona] Avion BC-0019 embarcando 208 pasajeros
+28-05-2024 08:45:10 - [Aeropuerto de Barcelona] Avion ZV-0001 entra en area de rodaje
+28-05-2024 08:45:10 - [Barcelona-Madrid] Avion UT-0013 sale de aerovia
+28-05-2024 08:45:10 -  [ Aeropuerto de Madrid ] Aterrizando avion UT-0013
+28-05-2024 08:45:10 - [Aeropuerto de Madrid] Autobus B-0020 direccion Aeropuerto de Madrid con 44 pasajeros
+28-05-2024 08:45:10 -  [ Aeropuerto de Madrid ] Avion EO-0006 entra en hangar
+28-05-2024 08:45:10 - [Aeropuerto de Barcelona] Avion MI-0021 creado en Aeropuerto de Barcelona
+28-05-2024 08:45:10 -  [ Aeropuerto de Barcelona ] Avion MI-0021 entra en hangar
+28-05-2024 08:45:10 -  [ Aeropuerto de Barcelona ] Avion GO-0002 sale de hangar
+28-05-2024 08:45:10 -  [ Aeropuerto de Madrid ] Avion BX-0020 sale de hangar
+28-05-2024 08:45:11 - [Aeropuerto de Madrid] Autobus B-0012 direccion ciudad con 43 pasajeros
+28-05-2024 08:45:11 - [Aeropuerto de Madrid] Autobus B-0018 deja 8 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:45:11 - [Aeropuerto de Barcelona] Avion SW-0010 desembarcando 119 pasajeros
+28-05-2024 08:45:11 - [Aeropuerto de Madrid] Autobus B-0010 direccion Aeropuerto de Madrid con 45 pasajeros
+28-05-2024 08:45:11 -  [ Aeropuerto de Madrid ] Realizando comprobaciones de seguridad en el avión SW-0010
+28-05-2024 08:45:11 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento GO-0002
+28-05-2024 08:45:11 - [Aeropuerto de Barcelona] Avion ZV-0001 sale de area de rodaje
+28-05-2024 08:45:11 - [Aeropuerto de Barcelona] Avion BC-0019 entra en area de rodaje
+28-05-2024 08:45:11 -  [ Aeropuerto de Barcelona ] Puerta 0 asignada al avión GO-0002
+28-05-2024 08:45:11 - [Aeropuerto de Barcelona] Avion GO-0002 embarcando 295 pasajeros
+28-05-2024 08:45:11 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento BX-0020
+28-05-2024 08:45:11 -  [ Aeropuerto de Madrid ] Puerta 0 asignada al avión BX-0020
+28-05-2024 08:45:11 - [Aeropuerto de Madrid] Avion BX-0020 embarcando 199 pasajeros
+28-05-2024 08:45:11 - [Madrid-Barcelona] Avion OF-0012 sale de aerovia
+28-05-2024 08:45:11 -  [ Aeropuerto de Barcelona ] Aterrizando avion OF-0012
+28-05-2024 08:45:12 - [Aeropuerto de Madrid] Avion HZ-0011 entra en area de rodaje
+28-05-2024 08:45:12 - [Aeropuerto de Barcelona] Avion OI-0000 sale de area de rodaje
+28-05-2024 08:45:12 -  [ Aeropuerto de Barcelona ] Pista 0 ocupada por avion OI-0000
+28-05-2024 08:45:12 - [Aeropuerto de Barcelona] Autobus B-0013 deja 16 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:45:12 - [Aeropuerto de Barcelona] Autobus B-0021 direccion Aeropuerto de Barcelona con 14 pasajeros
+28-05-2024 08:45:12 - [Aeropuerto de Madrid] Avion UT-0013 entra en area de rodaje
+28-05-2024 08:45:12 -  [ Aeropuerto de Barcelona ] Avion MI-0021 sale de hangar
+28-05-2024 08:45:12 - [Aeropuerto de Madrid] Avion UT-0013 sale de area de rodaje
+28-05-2024 08:45:12 - [Aeropuerto de Madrid] Avion BX-0020 entra en area de rodaje
+28-05-2024 08:45:12 - [Aeropuerto de Madrid] Avion HZ-0011 sale de area de rodaje
+28-05-2024 08:45:12 -  [ Aeropuerto de Madrid ] Entrando en el taller el avion NL-0009
+28-05-2024 08:45:12 - [Aeropuerto de Barcelona] Avion GO-0002 entra en area de rodaje
+28-05-2024 08:45:12 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento MI-0021
+28-05-2024 08:45:12 -  [ Aeropuerto de Barcelona ] Puerta 0 asignada al avión MI-0021
+28-05-2024 08:45:12 - [Aeropuerto de Madrid] Autobus B-0022 creado en Aeropuerto de Madrid
+28-05-2024 08:45:12 - [Aeropuerto de Barcelona] Avion MI-0021 embarcando 194 pasajeros
+28-05-2024 08:45:13 - [Aeropuerto de Barcelona] Avion OF-0012 entra en area de rodaje
+28-05-2024 08:45:13 - [Aeropuerto de Barcelona] Autobus B-0001 direccion Aeropuerto de Barcelona con 0 pasajeros
+28-05-2024 08:45:13 - [Aeropuerto de Barcelona] Avion BC-0019 sale de area de rodaje
+28-05-2024 08:45:13 -  [ Aeropuerto de Barcelona ] Pista 0 ocupada por avion BC-0019
+28-05-2024 08:45:13 - [Aeropuerto de Madrid] Avion GR-0022 creado en Aeropuerto de Madrid
+28-05-2024 08:45:13 -  [ Aeropuerto de Madrid ] Avion GR-0022 entra en hangar
+28-05-2024 08:45:13 - [Aeropuerto de Barcelona] Autobus B-0007 deja 36 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:45:13 -  [ Aeropuerto de Madrid ] Realizando inspección en el avión NL-0009
+28-05-2024 08:45:14 - [Aeropuerto de Madrid] Autobus B-0014 deja 4 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:45:14 - [Aeropuerto de Barcelona] Autobus B-0009 deja 2 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:45:14 - [Aeropuerto de Barcelona] Avion MI-0021 entra en area de rodaje
+28-05-2024 08:45:14 - [Aeropuerto de Barcelona] Avion OF-0012 sale de area de rodaje
+28-05-2024 08:45:14 - [Aeropuerto de Madrid] Autobus B-0000 deja 6 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:45:14 - [Aeropuerto de Barcelona] Autobus B-0005 direccion Aeropuerto de Barcelona con 10 pasajeros
+28-05-2024 08:45:15 - [Aeropuerto de Barcelona] Avion GO-0002 sale de area de rodaje
+28-05-2024 08:45:15 -  [ Aeropuerto de Barcelona ] Pista 1 ocupada por avion GO-0002
+28-05-2024 08:45:15 - [Aeropuerto de Madrid] Avion BX-0020 sale de area de rodaje
+28-05-2024 08:45:15 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion BX-0020
+28-05-2024 08:45:15 -  [ Aeropuerto de Madrid ] Avion GR-0022 sale de hangar
+28-05-2024 08:45:15 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento GR-0022
+28-05-2024 08:45:15 - [Aeropuerto de Madrid] Autobus B-0018 direccion ciudad con 2 pasajeros
+28-05-2024 08:45:15 -  [ Aeropuerto de Barcelona ] Entrando en el taller el avion SW-0010
+28-05-2024 08:45:15 - [Aeropuerto de Madrid] Autobus B-0020 deja 44 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:45:16 - [Aeropuerto de Madrid] Autobus B-0004 direccion Aeropuerto de Madrid con 7 pasajeros
+28-05-2024 08:45:16 - [Aeropuerto de Barcelona] Autobus B-0003 direccion Aeropuerto de Barcelona con 6 pasajeros
+28-05-2024 08:45:16 - [Aeropuerto de Barcelona] Autobus B-0015 deja 41 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:45:16 - [Aeropuerto de Barcelona] Autobus B-0013 direccion ciudad con 30 pasajeros
+28-05-2024 08:45:16 -  [ Aeropuerto de Madrid ] Puerta 1 asignada al avión GR-0022
+28-05-2024 08:45:16 -  [ Aeropuerto de Barcelona ] Despegando avion OI-0000
+28-05-2024 08:45:16 -  [ Aeropuerto de Barcelona ] Pista 0 liberada por avion OI-0000
+28-05-2024 08:45:16 - [Barcelona-Madrid] Avion OI-0000 entra en aerovia
+28-05-2024 08:45:16 - [Aeropuerto de Barcelona] Avion MI-0021 sale de area de rodaje
+28-05-2024 08:45:16 -  [ Aeropuerto de Barcelona ] Pista 1 ocupada por avion MI-0021
+28-05-2024 08:45:16 - [Aeropuerto de Madrid] Autobus B-0000 direccion ciudad con 0 pasajeros
+28-05-2024 08:45:16 -  [ Aeropuerto de Barcelona ] Realizando inspección en el avión SW-0010
+28-05-2024 08:45:16 - [Aeropuerto de Barcelona] Autobus B-0007 direccion ciudad con 30 pasajeros
+28-05-2024 08:45:16 - [Aeropuerto de Barcelona] Autobus B-0011 direccion Aeropuerto de Barcelona con 9 pasajeros
+28-05-2024 08:45:16 - [Aeropuerto de Barcelona] Autobus B-0019 deja 36 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:45:17 - [Aeropuerto de Madrid] Autobus B-0014 direccion ciudad con 49 pasajeros
+28-05-2024 08:45:17 - [Aeropuerto de Madrid] Avion HZ-0011 desembarcando 224 pasajeros
+28-05-2024 08:45:17 -  [ Aeropuerto de Barcelona ] Realizando comprobaciones de seguridad en el avión UT-0013
+28-05-2024 08:45:17 -  [ Aeropuerto de Barcelona ] Realizando comprobaciones de seguridad en el avión HZ-0011
+28-05-2024 08:45:17 -  [ Aeropuerto de Madrid ] Despegando avion BX-0020
+28-05-2024 08:45:17 - [Aeropuerto de Madrid] Avion GR-0022 embarcando 202 pasajeros
+28-05-2024 08:45:17 -  [ Aeropuerto de Madrid ] Pista 0 liberada por avion BX-0020
+28-05-2024 08:45:17 - [Madrid-Barcelona] Avion BX-0020 entra en aerovia
+28-05-2024 08:45:17 - [Aeropuerto de Madrid] Autobus B-0002 direccion Aeropuerto de Madrid con 50 pasajeros
+28-05-2024 08:45:17 - [Aeropuerto de Madrid] Autobus B-0022 direccion Aeropuerto de Madrid con 23 pasajeros
+28-05-2024 08:45:17 - [Madrid-Barcelona] Avion PW-0014 sale de aerovia
+28-05-2024 08:45:18 - [Aeropuerto de Barcelona] Autobus B-0009 direccion ciudad con 1 pasajeros
+28-05-2024 08:45:18 - [Aeropuerto de Madrid] Autobus B-0008 direccion Aeropuerto de Madrid con 22 pasajeros
+28-05-2024 08:45:18 - [Aeropuerto de Madrid] Autobus B-0016 direccion Aeropuerto de Madrid con 6 pasajeros
+28-05-2024 08:45:18 - [Aeropuerto de Madrid] Autobus B-0006 direccion Aeropuerto de Madrid con 33 pasajeros
+28-05-2024 08:45:18 -  [ Aeropuerto de Madrid ] Saliendo del taller el avion NL-0009
+28-05-2024 08:45:18 - [Aeropuerto de Barcelona] Avion ZV-0001 desembarcando 294 pasajeros
+28-05-2024 08:45:18 - [Aeropuerto de Barcelona] Autobus B-0023 creado en Aeropuerto de Barcelona
+28-05-2024 08:45:18 -  [ Aeropuerto de Barcelona ] Aterrizando avion PW-0014
+28-05-2024 08:45:18 -  [ Aeropuerto de Madrid ] Realizando comprobaciones de seguridad en el avión ZV-0001
+28-05-2024 08:45:18 -  [ Aeropuerto de Barcelona ] Despegando avion BC-0019
+28-05-2024 08:45:18 -  [ Aeropuerto de Barcelona ] Pista 0 liberada por avion BC-0019
+28-05-2024 08:45:18 - [Barcelona-Madrid] Avion BC-0019 entra en aerovia
+28-05-2024 08:45:18 - [Aeropuerto de Madrid] Avion GR-0022 entra en area de rodaje
+28-05-2024 08:45:19 -  [ Aeropuerto de Barcelona ] Despegando avion GO-0002
+28-05-2024 08:45:19 -  [ Aeropuerto de Barcelona ] Pista 1 liberada por avion GO-0002
+28-05-2024 08:45:19 - [Barcelona-Madrid] Avion GO-0002 entra en aerovia
+28-05-2024 08:45:19 - [Barcelona-Madrid] Avion XF-0015 sale de aerovia
+28-05-2024 08:45:19 -  [ Aeropuerto de Madrid ] Aterrizando avion XF-0015
+28-05-2024 08:45:19 - [Aeropuerto de Barcelona] Avion AI-0023 creado en Aeropuerto de Barcelona
+28-05-2024 08:45:19 -  [ Aeropuerto de Barcelona ] Avion AI-0023 entra en hangar
+28-05-2024 08:45:19 - [Aeropuerto de Madrid] Autobus B-0020 direccion ciudad con 29 pasajeros
+28-05-2024 08:45:19 -  [ Aeropuerto de Madrid ] Entrando en el taller el avion UT-0013
+28-05-2024 08:45:20 -  [ Aeropuerto de Barcelona ] Saliendo del taller el avion SW-0010
+28-05-2024 08:45:20 - [Aeropuerto de Barcelona] Autobus B-0021 deja 14 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:45:20 - [Aeropuerto de Barcelona] Autobus B-0015 direccion ciudad con 27 pasajeros
+28-05-2024 08:45:20 - [Aeropuerto de Barcelona] Autobus B-0019 direccion ciudad con 19 pasajeros
+28-05-2024 08:45:20 -  [ Aeropuerto de Barcelona ] Despegando avion MI-0021
+28-05-2024 08:45:20 - [Aeropuerto de Barcelona] Autobus B-0001 deja 0 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:45:20 -  [ Aeropuerto de Barcelona ] Pista 1 liberada por avion MI-0021
+28-05-2024 08:45:20 - [Barcelona-Madrid] Avion MI-0021 entra en aerovia
+28-05-2024 08:45:20 -  [ Aeropuerto de Madrid ] Realizando inspección en el avión UT-0013
+28-05-2024 08:45:21 - [Aeropuerto de Barcelona] Avion OF-0012 desembarcando 130 pasajeros
+28-05-2024 08:45:21 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento NL-0009
+28-05-2024 08:45:21 -  [ Aeropuerto de Barcelona ] Avion AI-0023 sale de hangar
+28-05-2024 08:45:21 -  [ Aeropuerto de Madrid ] Realizando comprobaciones de seguridad en el avión OF-0012
+28-05-2024 08:45:21 -  [ Aeropuerto de Madrid ] Puerta 0 asignada al avión NL-0009
+28-05-2024 08:45:21 - [Aeropuerto de Madrid] Avion NL-0009 embarcando 218 pasajeros
+28-05-2024 08:45:21 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento AI-0023
+28-05-2024 08:45:21 -  [ Aeropuerto de Barcelona ] Puerta 0 asignada al avión AI-0023
+28-05-2024 08:45:21 - [Aeropuerto de Barcelona] Avion AI-0023 embarcando 116 pasajeros
+28-05-2024 08:45:21 - [Aeropuerto de Madrid] Autobus B-0012 direccion Aeropuerto de Madrid con 10 pasajeros
+28-05-2024 08:45:21 - [Aeropuerto de Madrid] Autobus B-0010 deja 45 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:45:21 - [Aeropuerto de Madrid] Avion GR-0022 sale de area de rodaje
+28-05-2024 08:45:21 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion GR-0022
+28-05-2024 08:45:21 -  [ Aeropuerto de Barcelona ] Entrando en el taller el avion ZV-0001
+28-05-2024 08:45:21 - [Aeropuerto de Barcelona] Avion PW-0014 entra en area de rodaje
+28-05-2024 08:45:22 - [Aeropuerto de Barcelona] Autobus B-0021 direccion ciudad con 40 pasajeros
+28-05-2024 08:45:22 -  [ Aeropuerto de Barcelona ] Realizando inspección en el avión ZV-0001
+28-05-2024 08:45:23 - [Aeropuerto de Barcelona] Autobus B-0023 direccion Aeropuerto de Barcelona con 40 pasajeros
+28-05-2024 08:45:23 - [Aeropuerto de Barcelona] Avion PW-0014 sale de area de rodaje
+28-05-2024 08:45:23 - [Aeropuerto de Barcelona] Avion AI-0023 entra en area de rodaje
+28-05-2024 08:45:23 - [Aeropuerto de Barcelona] Autobus B-0005 deja 10 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:45:24 - [Aeropuerto de Madrid] Avion XF-0015 entra en area de rodaje
+28-05-2024 08:45:24 - [Aeropuerto de Madrid] Avion NL-0009 entra en area de rodaje
+28-05-2024 08:45:24 -  [ Aeropuerto de Madrid ] Saliendo del taller el avion UT-0013
+28-05-2024 08:45:24 - [Aeropuerto de Madrid] Autobus B-0022 deja 23 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:45:24 - [Aeropuerto de Madrid] Autobus B-0024 creado en Aeropuerto de Madrid
+28-05-2024 08:45:24 - [Madrid-Barcelona] Avion DU-0016 sale de aerovia
+28-05-2024 08:45:24 - [Aeropuerto de Madrid] Avion XF-0015 sale de area de rodaje
+28-05-2024 08:45:24 -  [ Aeropuerto de Barcelona ] Aterrizando avion DU-0016
+28-05-2024 08:45:24 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento SW-0010
+28-05-2024 08:45:24 - [Aeropuerto de Barcelona] Autobus B-0017 direccion Aeropuerto de Barcelona con 40 pasajeros
+28-05-2024 08:45:24 - [Aeropuerto de Barcelona] Autobus B-0001 direccion ciudad con 7 pasajeros
+28-05-2024 08:45:24 - [Aeropuerto de Madrid] Autobus B-0010 direccion ciudad con 24 pasajeros
+28-05-2024 08:45:24 -  [ Aeropuerto de Barcelona ] Avion IK-0004 sale de hangar
+28-05-2024 08:45:24 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento IK-0004
+28-05-2024 08:45:24 - [Aeropuerto de Madrid] Avion YQ-0024 creado en Aeropuerto de Madrid
+28-05-2024 08:45:24 -  [ Aeropuerto de Madrid ] Avion YQ-0024 entra en hangar
+28-05-2024 08:45:25 -  [ Aeropuerto de Madrid ] Entrando en el taller el avion HZ-0011
+28-05-2024 08:45:25 -  [ Aeropuerto de Barcelona ] Puerta 1 asignada al avión SW-0010
+28-05-2024 08:45:25 - [Aeropuerto de Barcelona] Avion SW-0010 embarcando 119 pasajeros
+28-05-2024 08:45:25 - [Barcelona-Madrid] Avion YE-0017 sale de aerovia
+28-05-2024 08:45:25 -  [ Aeropuerto de Madrid ] Aterrizando avion YE-0017
+28-05-2024 08:45:25 - [Aeropuerto de Barcelona] Avion DU-0016 entra en area de rodaje
+28-05-2024 08:45:25 - [Aeropuerto de Barcelona] Autobus B-0003 deja 6 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:45:25 -  [ Aeropuerto de Madrid ] Despegando avion GR-0022
+28-05-2024 08:45:25 -  [ Aeropuerto de Madrid ] Pista 0 liberada por avion GR-0022
+28-05-2024 08:45:25 - [Madrid-Barcelona] Avion GR-0022 entra en aerovia
+28-05-2024 08:45:25 - [Aeropuerto de Madrid] Avion NL-0009 sale de area de rodaje
+28-05-2024 08:45:25 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion NL-0009
+28-05-2024 08:45:25 - [Aeropuerto de Barcelona] Avion AI-0023 sale de area de rodaje
+28-05-2024 08:45:25 -  [ Aeropuerto de Barcelona ] Pista 0 ocupada por avion AI-0023
+28-05-2024 08:45:25 -  [ Aeropuerto de Barcelona ] Saliendo del taller el avion ZV-0001
+28-05-2024 08:45:26 -  [ Aeropuerto de Madrid ] Realizando inspección en el avión HZ-0011
+28-05-2024 08:45:26 - [Aeropuerto de Madrid] Autobus B-0004 deja 7 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:45:26 - [Aeropuerto de Barcelona] Autobus B-0005 direccion ciudad con 24 pasajeros
+28-05-2024 08:45:26 - [Aeropuerto de Madrid] Autobus B-0012 deja 10 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:45:26 -  [ Aeropuerto de Madrid ] Avion ZV-0001 entra en hangar
+28-05-2024 08:45:27 - [Aeropuerto de Madrid] Autobus B-0024 direccion Aeropuerto de Madrid con 6 pasajeros
+28-05-2024 08:45:27 -  [ Aeropuerto de Madrid ] Saliendo del taller el avion HZ-0011
+28-05-2024 08:45:27 -  [ Aeropuerto de Madrid ] Avion YQ-0024 sale de hangar
+28-05-2024 08:45:27 -  [ Aeropuerto de Barcelona ] Puerta 1 asignada al avión IK-0004
+28-05-2024 08:45:27 - [Aeropuerto de Barcelona] Avion DU-0016 sale de area de rodaje
+28-05-2024 08:45:27 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento UT-0013
+28-05-2024 08:45:27 - [Aeropuerto de Barcelona] Avion SW-0010 entra en area de rodaje
+28-05-2024 08:45:27 - [Aeropuerto de Barcelona] Autobus B-0011 deja 9 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:45:27 -  [ Aeropuerto de Barcelona ] Entrando en el taller el avion OF-0012
+28-05-2024 08:45:27 - [Aeropuerto de Barcelona] Avion DU-0016 embarcando 266 pasajeros
+28-05-2024 08:45:27 - [Aeropuerto de Barcelona] Autobus B-0025 creado en Aeropuerto de Barcelona
+28-05-2024 08:45:28 - [Aeropuerto de Madrid] Autobus B-0002 deja 50 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:45:28 - [Aeropuerto de Barcelona] Autobus B-0003 direccion ciudad con 5 pasajeros
+28-05-2024 08:45:28 - [Aeropuerto de Madrid] Autobus B-0022 direccion ciudad con 11 pasajeros
+28-05-2024 08:45:28 -  [ Aeropuerto de Madrid ] Avion PJ-0003 sale de hangar
+28-05-2024 08:45:28 -  [ Aeropuerto de Barcelona ] Avion HZ-0011 entra en hangar
+28-05-2024 08:45:28 - [Aeropuerto de Barcelona] Avion MK-0025 creado en Aeropuerto de Barcelona
+28-05-2024 08:45:28 -  [ Aeropuerto de Barcelona ] Avion MK-0025 entra en hangar
+28-05-2024 08:45:28 - [Aeropuerto de Barcelona] Autobus B-0007 direccion Aeropuerto de Barcelona con 15 pasajeros
+28-05-2024 08:45:28 -  [ Aeropuerto de Barcelona ] Realizando inspección en el avión OF-0012
+28-05-2024 08:45:29 - [Aeropuerto de Madrid] Autobus B-0012 direccion ciudad con 42 pasajeros
+28-05-2024 08:45:29 - [Aeropuerto de Barcelona] Avion PW-0014 desembarcando 118 pasajeros
+28-05-2024 08:45:29 -  [ Aeropuerto de Madrid ] Realizando comprobaciones de seguridad en el avión PW-0014
+28-05-2024 08:45:29 - [Aeropuerto de Madrid] Autobus B-0004 direccion ciudad con 11 pasajeros
+28-05-2024 08:45:29 - [Aeropuerto de Barcelona] Avion SW-0010 sale de area de rodaje
+28-05-2024 08:45:29 -  [ Aeropuerto de Barcelona ] Pista 1 ocupada por avion SW-0010
+28-05-2024 08:45:30 - [Aeropuerto de Barcelona] Autobus B-0011 direccion ciudad con 43 pasajeros
+28-05-2024 08:45:30 -  [ Aeropuerto de Barcelona ] Despegando avion AI-0023
+28-05-2024 08:45:30 -  [ Aeropuerto de Barcelona ] Pista 0 liberada por avion AI-0023
+28-05-2024 08:45:30 - [Barcelona-Madrid] Avion AI-0023 entra en aerovia
+28-05-2024 08:45:30 - [Aeropuerto de Madrid] Avion XF-0015 desembarcando 283 pasajeros
+28-05-2024 08:45:30 -  [ Aeropuerto de Barcelona ] Realizando comprobaciones de seguridad en el avión XF-0015
+28-05-2024 08:45:30 - [Aeropuerto de Madrid] Autobus B-0020 direccion Aeropuerto de Madrid con 11 pasajeros
+28-05-2024 08:45:30 - [Aeropuerto de Madrid] Autobus B-0006 deja 33 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:45:30 - [Aeropuerto de Madrid] Autobus B-0008 deja 22 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:45:30 - [Aeropuerto de Madrid] Autobus B-0016 deja 6 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:45:30 - [Aeropuerto de Madrid] Avion YE-0017 entra en area de rodaje
+28-05-2024 08:45:30 - [Aeropuerto de Madrid] Avion YE-0017 sale de area de rodaje
+28-05-2024 08:45:30 - [Aeropuerto de Barcelona] Avion DU-0016 esperando a que lleguen más pasajeros
+28-05-2024 08:45:30 - [Aeropuerto de Madrid] Autobus B-0000 direccion Aeropuerto de Madrid con 25 pasajeros
+28-05-2024 08:45:30 - [Aeropuerto de Madrid] Autobus B-0018 direccion Aeropuerto de Madrid con 40 pasajeros
+28-05-2024 08:45:30 -  [ Aeropuerto de Madrid ] Despegando avion NL-0009
+28-05-2024 08:45:30 -  [ Aeropuerto de Madrid ] Pista 0 liberada por avion NL-0009
+28-05-2024 08:45:30 - [Madrid-Barcelona] Avion NL-0009 entra en aerovia
+28-05-2024 08:45:31 - [Madrid-Barcelona] Avion PH-0007 sale de aerovia
+28-05-2024 08:45:31 - [Aeropuerto de Madrid] Autobus B-0014 direccion Aeropuerto de Madrid con 19 pasajeros
+28-05-2024 08:45:32 -  [ Aeropuerto de Madrid ] Entrando en el taller el avion XF-0015
+28-05-2024 08:45:32 - [Aeropuerto de Madrid] Autobus B-0002 direccion ciudad con 36 pasajeros
+28-05-2024 08:45:32 -  [ Aeropuerto de Madrid ] Avion RQ-0005 sale de hangar
+28-05-2024 08:45:33 -  [ Aeropuerto de Madrid ] Realizando inspección en el avión XF-0015
+28-05-2024 08:45:33 - [Madrid-Barcelona] Avion VN-0018 sale de aerovia
+28-05-2024 08:45:33 - [Aeropuerto de Madrid] Autobus B-0006 direccion ciudad con 41 pasajeros
+28-05-2024 08:45:33 - [Aeropuerto de Madrid] Autobus B-0016 direccion ciudad con 38 pasajeros
+28-05-2024 08:45:35 - [Aeropuerto de Madrid] Avion YE-0017 desembarcando 199 pasajeros
+28-05-2024 08:45:35 -  [ Aeropuerto de Barcelona ] Realizando comprobaciones de seguridad en el avión YE-0017
+28-05-2024 08:45:35 - [Aeropuerto de Madrid] Autobus B-0008 direccion ciudad con 20 pasajeros
+28-05-2024 08:45:36 - [Aeropuerto de Madrid] Autobus B-0010 direccion Aeropuerto de Madrid con 36 pasajeros
+28-05-2024 08:45:36 -  [ Aeropuerto de Madrid ] Saliendo del taller el avion XF-0015
+28-05-2024 08:45:36 - [Aeropuerto de Madrid] Autobus B-0000 deja 25 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:45:36 - [Madrid-Barcelona] Avion BX-0020 sale de aerovia
+28-05-2024 08:45:36 - [Aeropuerto de Madrid] Autobus B-0020 deja 11 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:45:38 -  [ Aeropuerto de Madrid ] Entrando en el taller el avion YE-0017
+28-05-2024 08:45:38 - [Aeropuerto de Madrid] Autobus B-0024 deja 6 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:45:39 -  [ Aeropuerto de Madrid ] Realizando inspección en el avión YE-0017
+28-05-2024 08:45:39 - [Aeropuerto de Madrid] Autobus B-0000 direccion ciudad con 19 pasajeros
+28-05-2024 08:45:40 - [Aeropuerto de Madrid] Autobus B-0022 direccion Aeropuerto de Madrid con 7 pasajeros
+28-05-2024 08:45:40 - [Aeropuerto de Madrid] Autobus B-0012 direccion Aeropuerto de Madrid con 43 pasajeros
+28-05-2024 08:45:40 -  [ Aeropuerto de Madrid ] Saliendo del taller el avion YE-0017
+28-05-2024 08:45:41 - [Aeropuerto de Madrid] Autobus B-0020 direccion ciudad con 23 pasajeros
+28-05-2024 08:45:41 - [Aeropuerto de Madrid] Autobus B-0018 deja 40 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:45:41 -  [ Aeropuerto de Barcelona ] Avion YE-0017 entra en hangar
+28-05-2024 08:45:41 - [Aeropuerto de Madrid] Autobus B-0006 direccion Aeropuerto de Madrid con 34 pasajeros
+28-05-2024 08:45:42 - [Aeropuerto de Madrid] Autobus B-0024 direccion ciudad con 10 pasajeros
+28-05-2024 08:45:42 - [Aeropuerto de Madrid] Autobus B-0014 deja 19 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:45:42 - [Aeropuerto de Madrid] Autobus B-0016 direccion Aeropuerto de Madrid con 40 pasajeros
+28-05-2024 08:45:43 - [Aeropuerto de Madrid] Autobus B-0004 direccion Aeropuerto de Madrid con 5 pasajeros
+28-05-2024 08:45:45 - [Aeropuerto de Madrid] Autobus B-0018 direccion ciudad con 24 pasajeros
+28-05-2024 08:45:45 - [Aeropuerto de Madrid] Autobus B-0014 direccion ciudad con 29 pasajeros
+28-05-2024 08:45:46 - [Aeropuerto de Madrid] Autobus B-0010 deja 36 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:58:34 - [Aeropuerto de Madrid] Autobus B-0000 creado en Aeropuerto de Madrid
+28-05-2024 08:58:34 - [Aeropuerto de Madrid] Avion DX-0000 creado en Aeropuerto de Madrid
+28-05-2024 08:58:34 -  [ Aeropuerto de Madrid ] Avion DX-0000 entra en hangar
+28-05-2024 08:58:37 - [Aeropuerto de Barcelona] Autobus B-0001 creado en Aeropuerto de Barcelona
+28-05-2024 08:58:38 - [Aeropuerto de Barcelona] Avion MM-0001 creado en Aeropuerto de Barcelona
+28-05-2024 08:58:38 -  [ Aeropuerto de Barcelona ] Avion MM-0001 entra en hangar
+28-05-2024 08:58:38 -  [ Aeropuerto de Madrid ] Avion DX-0000 sale de hangar
+28-05-2024 08:58:38 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento DX-0000
+28-05-2024 08:58:38 -  [ Aeropuerto de Madrid ] Puerta 01 asignada al avión DX-0000
+28-05-2024 08:58:38 - [Aeropuerto de Madrid] Avion DX-0000 embarcando 260 pasajeros
+28-05-2024 08:58:38 - [Aeropuerto de Madrid] Autobus B-0000 direccion Aeropuerto de Madrid con 49 pasajeros
+28-05-2024 08:58:40 - [Aeropuerto de Barcelona] Autobus B-0001 direccion Aeropuerto de Barcelona con 19 pasajeros
+28-05-2024 08:58:41 -  [ Aeropuerto de Barcelona ] Avion MM-0001 sale de hangar
+28-05-2024 08:58:41 - [Aeropuerto de Madrid] Avion DX-0000 entra en area de rodaje
+28-05-2024 08:58:41 - [Aeropuerto de Madrid] Autobus B-0002 creado en Aeropuerto de Madrid
+28-05-2024 08:58:41 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento MM-0001
+28-05-2024 08:58:41 -  [ Aeropuerto de Barcelona ] Puerta 01 asignada al avión MM-0001
+28-05-2024 08:58:41 - [Aeropuerto de Barcelona] Avion MM-0001 embarcando 135 pasajeros
+28-05-2024 08:58:42 - [Aeropuerto de Madrid] Avion PL-0002 creado en Aeropuerto de Madrid
+28-05-2024 08:58:42 -  [ Aeropuerto de Madrid ] Avion PL-0002 entra en hangar
+28-05-2024 08:58:43 - [Aeropuerto de Madrid] Avion DX-0000 sale de area de rodaje
+28-05-2024 08:58:43 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion DX-0000
+28-05-2024 08:58:44 - [Aeropuerto de Barcelona] Avion MM-0001 entra en area de rodaje
+28-05-2024 08:58:44 - [Aeropuerto de Madrid] Autobus B-0002 direccion Aeropuerto de Madrid con 19 pasajeros
+28-05-2024 08:58:44 -  [ Aeropuerto de Madrid ] Avion PL-0002 sale de hangar
+28-05-2024 08:58:44 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento PL-0002
+28-05-2024 08:58:44 -  [ Aeropuerto de Madrid ] Puerta 01 asignada al avión PL-0002
+28-05-2024 08:58:44 - [Aeropuerto de Madrid] Avion PL-0002 embarcando 197 pasajeros
+28-05-2024 08:58:45 - [Aeropuerto de Barcelona] Avion MM-0001 sale de area de rodaje
+28-05-2024 08:58:45 -  [ Aeropuerto de Barcelona ] Pista 0 ocupada por avion MM-0001
+28-05-2024 08:58:45 - [Aeropuerto de Madrid] Avion PL-0002 entra en area de rodaje
+28-05-2024 08:58:45 - [Aeropuerto de Barcelona] Autobus B-0003 creado en Aeropuerto de Barcelona
+28-05-2024 08:58:46 -  [ Aeropuerto de Madrid ] Despegando avion DX-0000
+28-05-2024 08:58:46 -  [ Aeropuerto de Madrid ] Pista 0 liberada por avion DX-0000
+28-05-2024 08:58:46 - [Madrid-Barcelona] Avion DX-0000 entra en aerovia
+28-05-2024 08:58:46 - [Aeropuerto de Barcelona] Avion KO-0003 creado en Aeropuerto de Barcelona
+28-05-2024 08:58:46 -  [ Aeropuerto de Barcelona ] Avion KO-0003 entra en hangar
+28-05-2024 08:58:47 -  [ Aeropuerto de Barcelona ] Despegando avion MM-0001
+28-05-2024 08:58:47 -  [ Aeropuerto de Barcelona ] Pista 0 liberada por avion MM-0001
+28-05-2024 08:58:47 - [Barcelona-Madrid] Avion MM-0001 entra en aerovia
+28-05-2024 08:58:47 - [Aeropuerto de Madrid] Autobus B-0000 deja 49 pasajeros en Aeropuerto de Madrid
+28-05-2024 08:58:48 - [Aeropuerto de Barcelona] Autobus B-0001 deja 19 pasajeros en Aeropuerto de Barcelona
+28-05-2024 08:58:48 - [Aeropuerto de Madrid] Avion PL-0002 sale de area de rodaje
+28-05-2024 08:58:48 -  [ Aeropuerto de Madrid ] Pista 1 ocupada por avion PL-0002
+28-05-2024 08:58:48 - [Aeropuerto de Barcelona] Autobus B-0003 direccion Aeropuerto de Barcelona con 2 pasajeros
+28-05-2024 08:58:49 - [Aeropuerto de Madrid] Autobus B-0004 creado en Aeropuerto de Madrid
+28-05-2024 08:58:49 - [Aeropuerto de Madrid] Avion AR-0004 creado en Aeropuerto de Madrid
+28-05-2024 08:58:49 -  [ Aeropuerto de Madrid ] Avion AR-0004 entra en hangar
+28-05-2024 08:58:49 -  [ Aeropuerto de Barcelona ] Avion KO-0003 sale de hangar
+28-05-2024 08:58:50 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento KO-0003
+28-05-2024 08:58:50 -  [ Aeropuerto de Barcelona ] Puerta 01 asignada al avión KO-0003
+28-05-2024 08:58:50 - [Aeropuerto de Barcelona] Avion KO-0003 embarcando 296 pasajeros
+28-05-2024 08:58:50 -  [ Aeropuerto de Madrid ] Despegando avion PL-0002
+28-05-2024 08:58:50 -  [ Aeropuerto de Madrid ] Pista 1 liberada por avion PL-0002
+28-05-2024 08:58:50 - [Madrid-Barcelona] Avion PL-0002 entra en aerovia
+28-05-2024 08:58:50 - [Aeropuerto de Madrid] Autobus B-0000 direccion ciudad con 17 pasajeros
+28-05-2024 08:58:51 - [Aeropuerto de Barcelona] Autobus B-0001 direccion ciudad con 32 pasajeros
+28-05-2024 08:58:52 - [Aeropuerto de Barcelona] Avion KO-0003 entra en area de rodaje
+28-05-2024 08:58:52 - [Aeropuerto de Barcelona] Autobus B-0005 creado en Aeropuerto de Barcelona
+28-05-2024 08:58:52 - [Aeropuerto de Barcelona] Avion PW-0005 creado en Aeropuerto de Barcelona
+28-05-2024 08:58:52 -  [ Aeropuerto de Barcelona ] Avion PW-0005 entra en hangar
+28-05-2024 08:58:53 - [Aeropuerto de Madrid] Autobus B-0004 direccion Aeropuerto de Madrid con 24 pasajeros
+28-05-2024 09:27:11 - [Aeropuerto de Madrid] Autobus B-0000 creado en Aeropuerto de Madrid
+28-05-2024 09:27:12 - [Aeropuerto de Madrid] Avion AZ-0000 creado en Aeropuerto de Madrid
+28-05-2024 09:27:12 -  [ Aeropuerto de Madrid ] Avion AZ-0000 entra en hangar
+28-05-2024 09:27:13 - [Aeropuerto de Barcelona] Autobus B-0001 creado en Aeropuerto de Barcelona
+28-05-2024 09:27:14 - [Aeropuerto de Barcelona] Avion ON-0001 creado en Aeropuerto de Barcelona
+28-05-2024 09:27:14 -  [ Aeropuerto de Barcelona ] Avion ON-0001 entra en hangar
+28-05-2024 09:27:14 - [Aeropuerto de Madrid] Autobus B-0000 direccion Aeropuerto de Madrid con 15 pasajeros
+28-05-2024 09:27:16 - [Aeropuerto de Madrid] Autobus B-0002 creado en Aeropuerto de Madrid
+28-05-2024 09:27:16 -  [ Aeropuerto de Madrid ] Avion AZ-0000 sale de hangar
+28-05-2024 09:27:16 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento AZ-0000
+28-05-2024 09:27:16 -  [ Aeropuerto de Madrid ] Puerta 1 asignada al avión AZ-0000
+28-05-2024 09:27:16 - [Aeropuerto de Madrid] Avion AZ-0000 embarcando 284 pasajeros
+28-05-2024 09:27:16 - [Aeropuerto de Madrid] Avion XY-0002 creado en Aeropuerto de Madrid
+28-05-2024 09:27:16 -  [ Aeropuerto de Madrid ] Avion XY-0002 entra en hangar
+28-05-2024 09:27:18 -  [ Aeropuerto de Barcelona ] Avion ON-0001 sale de hangar
+28-05-2024 09:27:18 - [Aeropuerto de Madrid] Avion AZ-0000 entra en area de rodaje
+28-05-2024 09:27:18 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento ON-0001
+28-05-2024 09:27:18 -  [ Aeropuerto de Barcelona ] Puerta 1 asignada al avión ON-0001
+28-05-2024 09:27:18 - [Aeropuerto de Barcelona] Avion ON-0001 embarcando 167 pasajeros
+28-05-2024 09:27:18 - [Aeropuerto de Barcelona] Autobus B-0001 direccion Aeropuerto de Barcelona con 40 pasajeros
+28-05-2024 09:27:18 -  [ Aeropuerto de Madrid ] Avion XY-0002 sale de hangar
+28-05-2024 09:27:19 - [Aeropuerto de Madrid] Autobus B-0002 direccion Aeropuerto de Madrid con 24 pasajeros
+28-05-2024 09:27:19 - [Aeropuerto de Madrid] Avion AZ-0000 sale de area de rodaje
+28-05-2024 09:27:19 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion AZ-0000
+28-05-2024 09:27:21 - [Aeropuerto de Barcelona] Autobus B-0003 creado en Aeropuerto de Barcelona
+28-05-2024 09:27:21 - [Aeropuerto de Barcelona] Avion ON-0001 entra en area de rodaje
+28-05-2024 09:27:22 - [Aeropuerto de Barcelona] Avion XL-0003 creado en Aeropuerto de Barcelona
+28-05-2024 09:27:22 -  [ Aeropuerto de Barcelona ] Avion XL-0003 entra en hangar
+28-05-2024 09:27:22 - [Aeropuerto de Barcelona] Avion ON-0001 sale de area de rodaje
+28-05-2024 09:27:22 -  [ Aeropuerto de Barcelona ] Pista 0 ocupada por avion ON-0001
+28-05-2024 09:27:22 -  [ Aeropuerto de Madrid ] Despegando avion AZ-0000
+28-05-2024 09:27:22 -  [ Aeropuerto de Madrid ] Pista 0 liberada por avion AZ-0000
+28-05-2024 09:27:22 - [Madrid-Barcelona] Avion AZ-0000 entra en aerovia
+28-05-2024 09:27:23 - [Aeropuerto de Barcelona] Autobus B-0003 direccion Aeropuerto de Barcelona con 7 pasajeros
+28-05-2024 09:27:24 - [Aeropuerto de Madrid] Autobus B-0000 deja 15 pasajeros en Aeropuerto de Madrid
+28-05-2024 09:27:24 - [Aeropuerto de Madrid] Autobus B-0004 creado en Aeropuerto de Madrid
+28-05-2024 09:27:25 -  [ Aeropuerto de Barcelona ] Avion XL-0003 sale de hangar
+28-05-2024 09:27:25 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento XL-0003
+28-05-2024 09:27:25 -  [ Aeropuerto de Barcelona ] Puerta 1 asignada al avión XL-0003
+28-05-2024 09:27:25 - [Aeropuerto de Barcelona] Avion XL-0003 embarcando 130 pasajeros
+28-05-2024 09:27:25 - [Aeropuerto de Madrid] Avion VD-0004 creado en Aeropuerto de Madrid
+28-05-2024 09:27:25 -  [ Aeropuerto de Madrid ] Avion VD-0004 entra en hangar
+28-05-2024 09:27:26 - [Aeropuerto de Barcelona] Autobus B-0001 deja 40 pasajeros en Aeropuerto de Barcelona
+28-05-2024 09:27:26 -  [ Aeropuerto de Barcelona ] Despegando avion ON-0001
+28-05-2024 09:27:26 -  [ Aeropuerto de Barcelona ] Pista 0 liberada por avion ON-0001
+28-05-2024 09:27:26 - [Barcelona-Madrid] Avion ON-0001 entra en aerovia
+28-05-2024 09:27:27 - [Aeropuerto de Barcelona] Avion XL-0003 entra en area de rodaje
+28-05-2024 09:27:27 - [Aeropuerto de Barcelona] Autobus B-0005 creado en Aeropuerto de Barcelona
+28-05-2024 09:27:27 - [Aeropuerto de Madrid] Autobus B-0000 direccion ciudad con 28 pasajeros
+28-05-2024 09:27:27 - [Aeropuerto de Barcelona] Avion RR-0005 creado en Aeropuerto de Barcelona
+28-05-2024 09:27:27 -  [ Aeropuerto de Barcelona ] Avion RR-0005 entra en hangar
+28-05-2024 09:27:28 - [Aeropuerto de Madrid] Autobus B-0002 deja 24 pasajeros en Aeropuerto de Madrid
+28-05-2024 09:27:28 - [Aeropuerto de Barcelona] Autobus B-0001 direccion ciudad con 46 pasajeros
+28-05-2024 09:27:28 - [Aeropuerto de Barcelona] Avion XL-0003 sale de area de rodaje
+28-05-2024 09:27:28 -  [ Aeropuerto de Barcelona ] Pista 0 ocupada por avion XL-0003
+28-05-2024 09:27:29 -  [ Aeropuerto de Madrid ] Avion VD-0004 sale de hangar
+28-05-2024 09:27:29 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento VD-0004
+28-05-2024 09:27:29 -  [ Aeropuerto de Madrid ] Puerta 1 asignada al avión VD-0004
+28-05-2024 09:27:29 - [Aeropuerto de Madrid] Avion VD-0004 embarcando 262 pasajeros
+28-05-2024 09:27:29 - [Aeropuerto de Madrid] Autobus B-0004 direccion Aeropuerto de Madrid con 49 pasajeros
+28-05-2024 09:27:30 -  [ Aeropuerto de Barcelona ] Avion RR-0005 sale de hangar
+28-05-2024 09:27:31 - [Aeropuerto de Madrid] Avion VD-0004 entra en area de rodaje
+28-05-2024 09:27:31 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento RR-0005
+28-05-2024 09:27:31 -  [ Aeropuerto de Barcelona ] Puerta 1 asignada al avión RR-0005
+28-05-2024 09:27:31 - [Aeropuerto de Madrid] Autobus B-0006 creado en Aeropuerto de Madrid
+28-05-2024 09:27:31 - [Aeropuerto de Barcelona] Avion RR-0005 embarcando 105 pasajeros
+28-05-2024 09:27:31 - [Aeropuerto de Madrid] Avion LX-0006 creado en Aeropuerto de Madrid
+28-05-2024 09:27:31 -  [ Aeropuerto de Madrid ] Avion LX-0006 entra en hangar
+28-05-2024 09:27:32 - [Aeropuerto de Barcelona] Autobus B-0005 direccion Aeropuerto de Barcelona con 19 pasajeros
+28-05-2024 09:27:32 - [Aeropuerto de Madrid] Avion VD-0004 sale de area de rodaje
+28-05-2024 09:27:32 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion VD-0004
+28-05-2024 09:27:32 - [Aeropuerto de Madrid] Autobus B-0002 direccion ciudad con 26 pasajeros
+28-05-2024 09:27:32 - [Aeropuerto de Barcelona] Avion RR-0005 entra en area de rodaje
+28-05-2024 09:27:33 -  [ Aeropuerto de Madrid ] Avion LX-0006 sale de hangar
+28-05-2024 09:27:33 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento LX-0006
+28-05-2024 09:27:33 -  [ Aeropuerto de Madrid ] Puerta 1 asignada al avión LX-0006
+28-05-2024 09:27:33 - [Aeropuerto de Madrid] Avion LX-0006 embarcando 179 pasajeros
+28-05-2024 09:27:33 -  [ Aeropuerto de Barcelona ] Despegando avion XL-0003
+28-05-2024 09:27:33 -  [ Aeropuerto de Barcelona ] Pista 0 liberada por avion XL-0003
+28-05-2024 09:27:33 - [Barcelona-Madrid] Avion XL-0003 entra en aerovia
+28-05-2024 09:27:33 - [Aeropuerto de Barcelona] Autobus B-0003 deja 7 pasajeros en Aeropuerto de Barcelona
+28-05-2024 09:27:33 - [Aeropuerto de Madrid] Autobus B-0006 direccion Aeropuerto de Madrid con 24 pasajeros
+28-05-2024 09:27:33 - [Aeropuerto de Barcelona] Avion RR-0005 sale de area de rodaje
+28-05-2024 09:27:33 -  [ Aeropuerto de Barcelona ] Pista 1 ocupada por avion RR-0005
+28-05-2024 09:27:34 -  [ Aeropuerto de Madrid ] Despegando avion VD-0004
+28-05-2024 09:27:34 -  [ Aeropuerto de Madrid ] Pista 0 liberada por avion VD-0004
+28-05-2024 09:27:34 - [Madrid-Barcelona] Avion VD-0004 entra en aerovia
+28-05-2024 09:27:35 - [Aeropuerto de Madrid] Avion LX-0006 entra en area de rodaje
+28-05-2024 09:27:35 - [Aeropuerto de Barcelona] Autobus B-0007 creado en Aeropuerto de Barcelona
+28-05-2024 09:27:35 -  [ Aeropuerto de Barcelona ] Despegando avion RR-0005
+28-05-2024 09:27:35 -  [ Aeropuerto de Barcelona ] Pista 1 liberada por avion RR-0005
+28-05-2024 09:27:35 - [Barcelona-Madrid] Avion RR-0005 entra en aerovia
+28-05-2024 09:27:35 - [Aeropuerto de Barcelona] Avion NI-0007 creado en Aeropuerto de Barcelona
+28-05-2024 09:27:35 -  [ Aeropuerto de Barcelona ] Avion NI-0007 entra en hangar
+28-05-2024 09:27:36 - [Aeropuerto de Madrid] Avion LX-0006 sale de area de rodaje
+28-05-2024 09:27:36 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion LX-0006
+28-05-2024 09:27:36 - [Aeropuerto de Barcelona] Autobus B-0003 direccion ciudad con 42 pasajeros
+28-05-2024 09:27:37 - [Aeropuerto de Barcelona] Autobus B-0005 deja 19 pasajeros en Aeropuerto de Barcelona
+28-05-2024 09:27:37 - [Aeropuerto de Madrid] Autobus B-0008 creado en Aeropuerto de Madrid
+28-05-2024 09:28:48 - [Aeropuerto de Madrid] Autobus B-0000 creado en Aeropuerto de Madrid
+28-05-2024 09:28:49 - [Aeropuerto de Madrid] Avion DL-0000 creado en Aeropuerto de Madrid
+28-05-2024 09:28:49 -  [ Aeropuerto de Madrid ] Avion DL-0000 entra en hangar
+28-05-2024 09:28:50 - [Aeropuerto de Barcelona] Autobus B-0001 creado en Aeropuerto de Barcelona
+28-05-2024 09:28:51 - [Aeropuerto de Madrid] Autobus B-0000 direccion Aeropuerto de Madrid con 9 pasajeros
+28-05-2024 09:28:51 - [Aeropuerto de Barcelona] Avion QC-0001 creado en Aeropuerto de Barcelona
+28-05-2024 09:28:51 -  [ Aeropuerto de Barcelona ] Avion QC-0001 entra en hangar
+28-05-2024 09:28:53 -  [ Aeropuerto de Madrid ] Avion DL-0000 sale de hangar
+28-05-2024 09:28:53 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento DL-0000
+28-05-2024 09:28:53 -  [ Aeropuerto de Madrid ] Puerta 1 asignada al avión DL-0000
+28-05-2024 09:28:53 - [Aeropuerto de Madrid] Avion DL-0000 embarcando 179 pasajeros
+28-05-2024 09:28:54 - [Aeropuerto de Madrid] Avion DL-0000 entra en area de rodaje
+28-05-2024 09:28:54 - [Aeropuerto de Madrid] Autobus B-0002 creado en Aeropuerto de Madrid
+28-05-2024 09:28:54 -  [ Aeropuerto de Barcelona ] Avion QC-0001 sale de hangar
+28-05-2024 09:28:54 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento QC-0001
+28-05-2024 09:28:54 -  [ Aeropuerto de Barcelona ] Puerta 1 asignada al avión QC-0001
+28-05-2024 09:28:54 - [Aeropuerto de Barcelona] Avion QC-0001 embarcando 153 pasajeros
+28-05-2024 09:28:55 - [Aeropuerto de Barcelona] Autobus B-0001 direccion Aeropuerto de Barcelona con 49 pasajeros
+28-05-2024 09:28:55 - [Aeropuerto de Madrid] Avion BC-0002 creado en Aeropuerto de Madrid
+28-05-2024 09:28:55 -  [ Aeropuerto de Madrid ] Avion BC-0002 entra en hangar
+28-05-2024 09:28:56 - [Aeropuerto de Barcelona] Avion QC-0001 entra en area de rodaje
+28-05-2024 09:28:56 - [Aeropuerto de Barcelona] Autobus B-0003 creado en Aeropuerto de Barcelona
+28-05-2024 09:28:57 - [Aeropuerto de Madrid] Avion DL-0000 sale de area de rodaje
+28-05-2024 09:28:57 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion DL-0000
+28-05-2024 09:28:57 - [Aeropuerto de Barcelona] Avion TM-0003 creado en Aeropuerto de Barcelona
+28-05-2024 09:28:57 -  [ Aeropuerto de Barcelona ] Avion TM-0003 entra en hangar
+28-05-2024 09:28:57 - [Aeropuerto de Barcelona] Avion QC-0001 sale de area de rodaje
+28-05-2024 09:28:57 -  [ Aeropuerto de Barcelona ] Pista 0 ocupada por avion QC-0001
+28-05-2024 09:28:57 -  [ Aeropuerto de Madrid ] Avion BC-0002 sale de hangar
+28-05-2024 09:28:57 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento BC-0002
+28-05-2024 09:28:57 -  [ Aeropuerto de Madrid ] Puerta 1 asignada al avión BC-0002
+28-05-2024 09:28:57 - [Aeropuerto de Madrid] Avion BC-0002 embarcando 272 pasajeros
+28-05-2024 09:28:57 - [Aeropuerto de Madrid] Autobus B-0002 direccion Aeropuerto de Madrid con 37 pasajeros
+28-05-2024 09:28:59 - [Aeropuerto de Madrid] Avion BC-0002 entra en area de rodaje
+28-05-2024 09:28:59 - [Aeropuerto de Madrid] Autobus B-0004 creado en Aeropuerto de Madrid
+28-05-2024 09:28:59 -  [ Aeropuerto de Madrid ] Despegando avion DL-0000
+28-05-2024 09:28:59 -  [ Aeropuerto de Madrid ] Pista 0 liberada por avion DL-0000
+28-05-2024 09:28:59 - [Madrid-Barcelona] Avion DL-0000 entra en aerovia
+28-05-2024 09:29:00 - [Aeropuerto de Madrid] Avion TK-0004 creado en Aeropuerto de Madrid
+28-05-2024 09:29:00 -  [ Aeropuerto de Madrid ] Avion TK-0004 entra en hangar
+28-05-2024 09:29:00 -  [ Aeropuerto de Barcelona ] Avion TM-0003 sale de hangar
+28-05-2024 09:29:00 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento TM-0003
+28-05-2024 09:29:00 -  [ Aeropuerto de Barcelona ] Puerta 1 asignada al avión TM-0003
+28-05-2024 09:29:00 - [Aeropuerto de Barcelona] Avion TM-0003 embarcando 107 pasajeros
+28-05-2024 09:29:00 - [Aeropuerto de Barcelona] Autobus B-0003 direccion Aeropuerto de Barcelona con 26 pasajeros
+28-05-2024 09:29:01 -  [ Aeropuerto de Madrid ] Avion TK-0004 sale de hangar
+28-05-2024 09:29:01 - [Aeropuerto de Madrid] Autobus B-0000 deja 9 pasajeros en Aeropuerto de Madrid
+28-05-2024 09:29:02 - [Aeropuerto de Barcelona] Avion TM-0003 entra en area de rodaje
+28-05-2024 09:29:02 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento TK-0004
+28-05-2024 09:29:02 -  [ Aeropuerto de Madrid ] Puerta 1 asignada al avión TK-0004
+28-05-2024 09:29:02 - [Aeropuerto de Madrid] Avion TK-0004 embarcando 238 pasajeros
+28-05-2024 09:29:02 - [Aeropuerto de Madrid] Avion BC-0002 sale de area de rodaje
+28-05-2024 09:29:02 -  [ Aeropuerto de Madrid ] Pista 1 ocupada por avion BC-0002
+28-05-2024 09:29:02 -  [ Aeropuerto de Barcelona ] Despegando avion QC-0001
+28-05-2024 09:29:02 -  [ Aeropuerto de Barcelona ] Pista 0 liberada por avion QC-0001
+28-05-2024 09:29:02 - [Barcelona-Madrid] Avion QC-0001 entra en aerovia
+28-05-2024 09:29:03 - [Aeropuerto de Barcelona] Avion TM-0003 sale de area de rodaje
+28-05-2024 09:29:03 -  [ Aeropuerto de Barcelona ] Pista 1 ocupada por avion TM-0003
+28-05-2024 09:29:03 - [Aeropuerto de Barcelona] Autobus B-0001 deja 49 pasajeros en Aeropuerto de Barcelona
+28-05-2024 09:29:04 - [Aeropuerto de Madrid] Avion TK-0004 entra en area de rodaje
+28-05-2024 09:29:04 - [Aeropuerto de Madrid] Autobus B-0004 direccion Aeropuerto de Madrid con 44 pasajeros
+28-05-2024 09:29:04 - [Aeropuerto de Barcelona] Autobus B-0005 creado en Aeropuerto de Barcelona
+28-05-2024 09:29:05 -  [ Aeropuerto de Barcelona ] Despegando avion TM-0003
+28-05-2024 09:29:05 -  [ Aeropuerto de Barcelona ] Pista 1 liberada por avion TM-0003
+28-05-2024 09:29:05 - [Barcelona-Madrid] Avion TM-0003 entra en aerovia
+28-05-2024 09:29:05 - [Aeropuerto de Barcelona] Avion GX-0005 creado en Aeropuerto de Barcelona
+28-05-2024 09:29:05 -  [ Aeropuerto de Barcelona ] Avion GX-0005 entra en hangar
+28-05-2024 09:29:05 -  [ Aeropuerto de Madrid ] Despegando avion BC-0002
+28-05-2024 09:29:05 -  [ Aeropuerto de Madrid ] Pista 1 liberada por avion BC-0002
+28-05-2024 09:29:05 - [Madrid-Barcelona] Avion BC-0002 entra en aerovia
+28-05-2024 09:29:06 - [Aeropuerto de Madrid] Autobus B-0000 direccion ciudad con 12 pasajeros
+28-05-2024 09:29:06 - [Aeropuerto de Barcelona] Autobus B-0001 direccion ciudad con 28 pasajeros
+28-05-2024 09:29:06 - [Aeropuerto de Barcelona] Autobus B-0005 direccion Aeropuerto de Barcelona con 7 pasajeros
+28-05-2024 09:29:06 - [Aeropuerto de Madrid] Autobus B-0002 deja 37 pasajeros en Aeropuerto de Madrid
+28-05-2024 09:29:07 -  [ Aeropuerto de Barcelona ] Avion GX-0005 sale de hangar
+28-05-2024 09:29:07 - [Aeropuerto de Madrid] Avion TK-0004 sale de area de rodaje
+28-05-2024 09:29:07 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion TK-0004
+28-05-2024 09:29:07 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento GX-0005
+28-05-2024 09:29:07 -  [ Aeropuerto de Barcelona ] Puerta 1 asignada al avión GX-0005
+28-05-2024 09:29:07 - [Aeropuerto de Barcelona] Avion GX-0005 embarcando 100 pasajeros
+28-05-2024 09:29:07 - [Aeropuerto de Barcelona] Autobus B-0003 deja 26 pasajeros en Aeropuerto de Barcelona
+28-05-2024 09:29:09 - [Aeropuerto de Madrid] Autobus B-0006 creado en Aeropuerto de Madrid
+28-05-2024 09:29:09 - [Aeropuerto de Barcelona] Avion GX-0005 entra en area de rodaje
+28-05-2024 09:29:10 - [Aeropuerto de Barcelona] Autobus B-0003 direccion ciudad con 8 pasajeros
+28-05-2024 09:29:10 - [Aeropuerto de Madrid] Autobus B-0004 deja 44 pasajeros en Aeropuerto de Madrid
+28-05-2024 09:29:10 - [Aeropuerto de Madrid] Avion DN-0006 creado en Aeropuerto de Madrid
+28-05-2024 09:29:10 -  [ Aeropuerto de Madrid ] Avion DN-0006 entra en hangar
+28-05-2024 09:29:11 - [Aeropuerto de Barcelona] Avion GX-0005 sale de area de rodaje
+28-05-2024 09:29:11 -  [ Aeropuerto de Barcelona ] Pista 0 ocupada por avion GX-0005
+28-05-2024 09:29:11 - [Aeropuerto de Madrid] Autobus B-0002 direccion ciudad con 30 pasajeros
+28-05-2024 09:29:11 -  [ Aeropuerto de Madrid ] Despegando avion TK-0004
+28-05-2024 09:29:11 -  [ Aeropuerto de Madrid ] Pista 0 liberada por avion TK-0004
+28-05-2024 09:29:11 - [Madrid-Barcelona] Avion TK-0004 entra en aerovia
+28-05-2024 09:29:12 -  [ Aeropuerto de Madrid ] Avion DN-0006 sale de hangar
+28-05-2024 09:29:12 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento DN-0006
+28-05-2024 09:29:12 -  [ Aeropuerto de Madrid ] Puerta 1 asignada al avión DN-0006
+28-05-2024 09:29:12 - [Aeropuerto de Madrid] Avion DN-0006 embarcando 145 pasajeros
+28-05-2024 09:29:12 - [Aeropuerto de Madrid] Autobus B-0004 direccion ciudad con 10 pasajeros
+28-05-2024 09:29:13 - [Aeropuerto de Barcelona] Autobus B-0005 deja 7 pasajeros en Aeropuerto de Barcelona
+28-05-2024 09:29:14 - [Aeropuerto de Madrid] Autobus B-0006 direccion Aeropuerto de Madrid con 17 pasajeros
+28-05-2024 09:29:14 - [Aeropuerto de Madrid] Avion DN-0006 entra en area de rodaje
+28-05-2024 09:29:14 - [Aeropuerto de Barcelona] Autobus B-0007 creado en Aeropuerto de Barcelona
+28-05-2024 09:29:14 - [Aeropuerto de Barcelona] Avion UG-0007 creado en Aeropuerto de Barcelona
+28-05-2024 09:29:14 -  [ Aeropuerto de Barcelona ] Avion UG-0007 entra en hangar
+28-05-2024 09:29:15 -  [ Aeropuerto de Barcelona ] Despegando avion GX-0005
+28-05-2024 09:29:15 -  [ Aeropuerto de Barcelona ] Pista 0 liberada por avion GX-0005
+28-05-2024 09:29:15 - [Barcelona-Madrid] Avion GX-0005 entra en aerovia
+28-05-2024 09:29:16 - [Aeropuerto de Barcelona] Autobus B-0001 direccion Aeropuerto de Barcelona con 12 pasajeros
+28-05-2024 09:29:16 - [Madrid-Barcelona] Avion DL-0000 sale de aerovia
+28-05-2024 09:29:16 -  [ Aeropuerto de Barcelona ] Aterrizando avion DL-0000
+28-05-2024 09:29:16 - [Aeropuerto de Barcelona] Autobus B-0005 direccion ciudad con 27 pasajeros
+28-05-2024 09:29:16 - [Aeropuerto de Madrid] Avion DN-0006 sale de area de rodaje
+28-05-2024 09:29:16 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion DN-0006
+28-05-2024 09:29:17 - [Aeropuerto de Madrid] Autobus B-0008 creado en Aeropuerto de Madrid
+28-05-2024 09:29:17 - [Aeropuerto de Barcelona] Avion DL-0000 entra en area de rodaje
+28-05-2024 09:29:17 - [Aeropuerto de Barcelona] Avion DL-0000 sale de area de rodaje
+28-05-2024 09:29:18 -  [ Aeropuerto de Barcelona ] Avion UG-0007 sale de hangar
+28-05-2024 09:29:18 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento UG-0007
+28-05-2024 09:29:18 - [Aeropuerto de Madrid] Avion NS-0008 creado en Aeropuerto de Madrid
+28-05-2024 09:29:18 -  [ Aeropuerto de Madrid ] Avion NS-0008 entra en hangar
+28-05-2024 09:29:18 - [Aeropuerto de Barcelona] Autobus B-0007 direccion Aeropuerto de Barcelona con 17 pasajeros
+28-05-2024 09:29:19 -  [ Aeropuerto de Barcelona ] Puerta 2 asignada al avión UG-0007
+28-05-2024 09:29:19 - [Aeropuerto de Barcelona] Avion UG-0007 embarcando 299 pasajeros
+28-05-2024 09:29:19 - [Aeropuerto de Madrid] Autobus B-0000 direccion Aeropuerto de Madrid con 9 pasajeros
+28-05-2024 09:29:20 - [Aeropuerto de Barcelona] Avion UG-0007 entra en area de rodaje
+28-05-2024 09:29:21 - [Aeropuerto de Barcelona] Autobus B-0009 creado en Aeropuerto de Barcelona
+28-05-2024 09:29:21 -  [ Aeropuerto de Madrid ] Despegando avion DN-0006
+28-05-2024 09:29:21 -  [ Aeropuerto de Madrid ] Pista 0 liberada por avion DN-0006
+28-05-2024 09:29:21 - [Madrid-Barcelona] Avion DN-0006 entra en aerovia
+28-05-2024 09:29:21 - [Aeropuerto de Madrid] Autobus B-0006 deja 17 pasajeros en Aeropuerto de Madrid
+28-05-2024 09:29:21 -  [ Aeropuerto de Madrid ] Avion NS-0008 sale de hangar
+28-05-2024 09:29:21 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento NS-0008
+28-05-2024 09:29:21 -  [ Aeropuerto de Madrid ] Puerta 1 asignada al avión NS-0008
+28-05-2024 09:29:21 - [Aeropuerto de Madrid] Avion NS-0008 embarcando 110 pasajeros
+28-05-2024 09:29:21 - [Aeropuerto de Madrid] Autobus B-0008 direccion Aeropuerto de Madrid con 5 pasajeros
+28-05-2024 09:29:21 - [Aeropuerto de Barcelona] Avion OU-0009 creado en Aeropuerto de Barcelona
+28-05-2024 09:29:21 -  [ Aeropuerto de Barcelona ] Avion OU-0009 entra en hangar
+28-05-2024 09:29:22 - [Aeropuerto de Barcelona] Autobus B-0003 direccion Aeropuerto de Barcelona con 39 pasajeros
+28-05-2024 09:29:23 - [Aeropuerto de Barcelona] Autobus B-0009 direccion Aeropuerto de Barcelona con 22 pasajeros
+28-05-2024 09:29:23 - [Aeropuerto de Barcelona] Autobus B-0001 deja 12 pasajeros en Aeropuerto de Barcelona
+28-05-2024 09:29:23 - [Aeropuerto de Madrid] Avion NS-0008 entra en area de rodaje
+28-05-2024 09:29:23 - [Aeropuerto de Madrid] Autobus B-0004 direccion Aeropuerto de Madrid con 4 pasajeros
+28-05-2024 09:29:23 - [Aeropuerto de Madrid] Autobus B-0002 direccion Aeropuerto de Madrid con 45 pasajeros
+28-05-2024 09:29:23 -  [ Aeropuerto de Barcelona ] Avion OU-0009 sale de hangar
+28-05-2024 09:29:23 - [Aeropuerto de Barcelona] Avion UG-0007 sale de area de rodaje
+28-05-2024 09:29:24 - [Aeropuerto de Madrid] Autobus B-0006 direccion ciudad con 0 pasajeros
+28-05-2024 09:29:24 - [Aeropuerto de Barcelona] Avion DL-0000 desembarcando 179 pasajeros
+28-05-2024 09:29:24 - [Aeropuerto de Barcelona] Autobus B-0007 deja 17 pasajeros en Aeropuerto de Barcelona
+28-05-2024 09:29:24 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento OU-0009
+28-05-2024 09:29:24 -  [ Aeropuerto de Madrid ] Realizando comprobaciones de seguridad en el avión DL-0000
+28-05-2024 09:29:24 -  [ Aeropuerto de Barcelona ] Puerta 1 asignada al avión OU-0009
+28-05-2024 09:29:24 -  [ Aeropuerto de Barcelona ] Pista 0 ocupada por avion UG-0007
+28-05-2024 09:29:24 - [Aeropuerto de Madrid] Autobus B-0010 creado en Aeropuerto de Madrid
+28-05-2024 09:29:24 - [Aeropuerto de Barcelona] Avion OU-0009 embarcando 244 pasajeros
+28-05-2024 09:29:25 - [Aeropuerto de Madrid] Avion QI-0010 creado en Aeropuerto de Madrid
+28-05-2024 09:29:25 -  [ Aeropuerto de Madrid ] Avion QI-0010 entra en hangar
+28-05-2024 09:29:26 - [Aeropuerto de Madrid] Avion NS-0008 sale de area de rodaje
+28-05-2024 09:29:26 -  [ Aeropuerto de Madrid ] Pista 0 ocupada por avion NS-0008
+28-05-2024 09:29:26 - [Aeropuerto de Madrid] Autobus B-0000 deja 9 pasajeros en Aeropuerto de Madrid
+28-05-2024 09:29:26 - [Aeropuerto de Barcelona] Autobus B-0005 direccion Aeropuerto de Barcelona con 17 pasajeros
+28-05-2024 09:29:26 -  [ Aeropuerto de Madrid ] Avion QI-0010 sale de hangar
+28-05-2024 09:29:26 - [Aeropuerto de Barcelona] Autobus B-0007 direccion ciudad con 22 pasajeros
+28-05-2024 09:29:27 -  [ Aeropuerto de Madrid ] Despegando avion NS-0008
+28-05-2024 09:29:27 -  [ Aeropuerto de Madrid ] Pista 0 liberada por avion NS-0008
+28-05-2024 09:29:27 - [Madrid-Barcelona] Avion NS-0008 entra en aerovia
+28-05-2024 09:29:27 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento QI-0010
+28-05-2024 09:29:27 - [Aeropuerto de Barcelona] Avion OU-0009 entra en area de rodaje
+28-05-2024 09:29:27 -  [ Aeropuerto de Madrid ] Puerta 1 asignada al avión QI-0010
+28-05-2024 09:29:27 - [Aeropuerto de Barcelona] Autobus B-0011 creado en Aeropuerto de Barcelona
+28-05-2024 09:29:27 - [Aeropuerto de Madrid] Avion QI-0010 embarcando 106 pasajeros
+28-05-2024 09:29:28 - [Aeropuerto de Barcelona] Autobus B-0001 direccion ciudad con 26 pasajeros
+28-05-2024 09:29:28 -  [ Aeropuerto de Barcelona ] Despegando avion UG-0007
+28-05-2024 09:29:28 -  [ Aeropuerto de Barcelona ] Pista 0 liberada por avion UG-0007
+28-05-2024 09:29:28 - [Barcelona-Madrid] Avion UG-0007 entra en aerovia
+28-05-2024 09:29:28 - [Aeropuerto de Barcelona] Avion YM-0011 creado en Aeropuerto de Barcelona
+28-05-2024 09:29:28 -  [ Aeropuerto de Barcelona ] Avion YM-0011 entra en hangar
+28-05-2024 09:29:28 - [Aeropuerto de Madrid] Autobus B-0008 deja 5 pasajeros en Aeropuerto de Madrid
+28-05-2024 09:29:28 - [Aeropuerto de Barcelona] Autobus B-0009 deja 22 pasajeros en Aeropuerto de Barcelona
+28-05-2024 09:29:29 - [Aeropuerto de Barcelona] Avion OU-0009 sale de area de rodaje
+28-05-2024 09:29:29 -  [ Aeropuerto de Barcelona ] Pista 1 ocupada por avion OU-0009
+28-05-2024 09:29:29 -  [ Aeropuerto de Barcelona ] Entrando en el taller el avion DL-0000
+28-05-2024 09:29:29 - [Aeropuerto de Madrid] Autobus B-0010 direccion Aeropuerto de Madrid con 42 pasajeros
+28-05-2024 09:29:29 - [Barcelona-Madrid] Avion TM-0003 sale de aerovia
+28-05-2024 09:29:29 -  [ Aeropuerto de Madrid ] Aterrizando avion TM-0003
+28-05-2024 09:29:29 - [Aeropuerto de Madrid] Autobus B-0000 direccion ciudad con 26 pasajeros
+28-05-2024 09:29:30 -  [ Aeropuerto de Barcelona ] Realizando inspección en el avión DL-0000
+28-05-2024 09:29:30 -  [ Aeropuerto de Barcelona ] Avion YM-0011 sale de hangar
+28-05-2024 09:29:30 - [Barcelona-Madrid] Avion QC-0001 sale de aerovia
+28-05-2024 09:29:30 -  [ Aeropuerto de Madrid ] Aterrizando avion QC-0001
+28-05-2024 09:29:30 - [Aeropuerto de Madrid] Avion QI-0010 entra en area de rodaje
+28-05-2024 09:29:30 - [Aeropuerto de Madrid] Autobus B-0004 deja 4 pasajeros en Aeropuerto de Madrid
+28-05-2024 09:29:30 - [Aeropuerto de Madrid] Autobus B-0012 creado en Aeropuerto de Madrid
+28-05-2024 09:29:30 -  [ Aeropuerto de Barcelona ] Esperando puerta disponible en area de estacionamiento YM-0011
+28-05-2024 09:29:30 -  [ Aeropuerto de Barcelona ] Puerta 1 asignada al avión YM-0011
+28-05-2024 09:29:30 - [Aeropuerto de Barcelona] Avion YM-0011 embarcando 206 pasajeros
+28-05-2024 09:29:30 - [Aeropuerto de Barcelona] Autobus B-0003 deja 39 pasajeros en Aeropuerto de Barcelona
+28-05-2024 09:29:31 - [Aeropuerto de Madrid] Avion UJ-0012 creado en Aeropuerto de Madrid
+28-05-2024 09:29:31 -  [ Aeropuerto de Madrid ] Avion UJ-0012 entra en hangar
+28-05-2024 09:29:31 - [Madrid-Barcelona] Avion TK-0004 sale de aerovia
+28-05-2024 09:29:31 -  [ Aeropuerto de Barcelona ] Aterrizando avion TK-0004
+28-05-2024 09:29:31 -  [ Aeropuerto de Barcelona ] Saliendo del taller el avion DL-0000
+28-05-2024 09:29:31 - [Aeropuerto de Madrid] Avion QI-0010 sale de area de rodaje
+28-05-2024 09:29:31 -  [ Aeropuerto de Madrid ] Pista 2 ocupada por avion QI-0010
+28-05-2024 09:29:32 - [Barcelona-Madrid] Avion GX-0005 sale de aerovia
+28-05-2024 09:29:32 -  [ Aeropuerto de Madrid ] Aterrizando avion GX-0005
+28-05-2024 09:29:32 - [Aeropuerto de Madrid] Autobus B-0008 direccion ciudad con 48 pasajeros
+28-05-2024 09:29:32 -  [ Aeropuerto de Madrid ] Avion DL-0000 entra en hangar
+28-05-2024 09:29:33 -  [ Aeropuerto de Barcelona ] Despegando avion OU-0009
+28-05-2024 09:29:33 - [Aeropuerto de Barcelona] Autobus B-0011 direccion Aeropuerto de Barcelona con 48 pasajeros
+28-05-2024 09:29:33 - [Aeropuerto de Barcelona] Autobus B-0013 creado en Aeropuerto de Barcelona
+28-05-2024 09:29:33 - [Aeropuerto de Barcelona] Avion YM-0011 entra en area de rodaje
+28-05-2024 09:29:33 -  [ Aeropuerto de Barcelona ] Pista 1 liberada por avion OU-0009
+28-05-2024 09:29:33 - [Barcelona-Madrid] Avion OU-0009 entra en aerovia
+28-05-2024 09:29:33 - [Aeropuerto de Barcelona] Avion TK-0004 entra en area de rodaje
+28-05-2024 09:29:33 - [Aeropuerto de Barcelona] Avion TK-0004 sale de area de rodaje
+28-05-2024 09:29:33 - [Aeropuerto de Barcelona] Autobus B-0009 direccion ciudad con 3 pasajeros
+28-05-2024 09:29:34 - [Aeropuerto de Barcelona] Avion LS-0013 creado en Aeropuerto de Barcelona
+28-05-2024 09:29:34 -  [ Aeropuerto de Barcelona ] Avion LS-0013 entra en hangar
+28-05-2024 09:29:34 -  [ Aeropuerto de Madrid ] Despegando avion QI-0010
+28-05-2024 09:29:34 -  [ Aeropuerto de Madrid ] Pista 2 liberada por avion QI-0010
+28-05-2024 09:29:34 - [Madrid-Barcelona] Avion QI-0010 entra en aerovia
+28-05-2024 09:29:34 - [Aeropuerto de Madrid] Avion QC-0001 entra en area de rodaje
+28-05-2024 09:29:34 - [Aeropuerto de Madrid] Avion QC-0001 sale de area de rodaje
+28-05-2024 09:29:34 - [Aeropuerto de Madrid] Autobus B-0002 deja 45 pasajeros en Aeropuerto de Madrid
+28-05-2024 09:29:34 - [Aeropuerto de Madrid] Avion TM-0003 entra en area de rodaje
+28-05-2024 09:29:34 - [Aeropuerto de Madrid] Avion TM-0003 sale de area de rodaje
+28-05-2024 09:29:34 - [Aeropuerto de Madrid] Autobus B-0004 direccion ciudad con 27 pasajeros
+28-05-2024 09:29:34 -  [ Aeropuerto de Madrid ] Avion UJ-0012 sale de hangar
+28-05-2024 09:29:34 -  [ Aeropuerto de Madrid ] Esperando puerta disponible en area de estacionamiento UJ-0012
+28-05-2024 09:29:35 - [Aeropuerto de Barcelona] Autobus B-0007 direccion Aeropuerto de Barcelona con 48 pasajeros
+28-05-2024 09:29:35 - [Madrid-Barcelona] Avion BC-0002 sale de aerovia
+28-05-2024 09:29:35 -  [ Aeropuerto de Barcelona ] Aterrizando avion BC-0002
+28-05-2024 09:29:35 - [Aeropuerto de Madrid] Autobus B-0012 direccion Aeropuerto de Madrid con 15 pasajeros

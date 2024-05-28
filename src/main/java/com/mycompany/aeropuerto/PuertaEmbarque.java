@@ -13,7 +13,7 @@ public class PuertaEmbarque {
     private boolean disponible = true;
     private Avion avionAsignado;
     private int idPuertaEmbarque;
-    boolean pausado = false;
+
 
     public PuertaEmbarque(int idPuertaEmbarque) {
         this.idPuertaEmbarque = idPuertaEmbarque;

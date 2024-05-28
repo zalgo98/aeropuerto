@@ -25,8 +25,9 @@ public class Aeropuerto {
     private List<Autobus> autobuses;
     private List<Avion> avionesEnTaller;
     private Aerovia aerovia;
-    private int pasajerosDisponibles = 1000;
+    private int pasajerosDisponibles = 10000;
     private boolean pausado = false;
+
 
     public Aeropuerto(String nombre, Aerovia aerovia) {
         this.nombre = nombre;
@@ -59,7 +60,7 @@ public class Aeropuerto {
             PuertaEmbarque puerta = areaEstacionamiento.esperarPuertaDisponible(avion);// Esperar a que haya una puerta disponible
             if (puerta != null) {
                 puerta.setAvionAsignado(avion);// Asignar el avión a la puerta
-                puerta.setDisponible(false);// Marcar la puerta como no disponible 
+                puerta.setDisponible(false);// Marcar la puerta como no disponible
                 pausaSiEsNecesario();// Pausar si es necesario
                 puerta.embarcarPasajeros(this);// Embarcar pasajeros en el avión
                 puerta.setDisponible(true);// Marcar la puerta como disponible

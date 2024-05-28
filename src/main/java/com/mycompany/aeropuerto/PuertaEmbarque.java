@@ -33,23 +33,22 @@ public class PuertaEmbarque {
             int pasajerosDisponibles = aeropuerto.getPasajerosDisponibles();
             int capacidadAvion = avionAsignado.getCapacidad();
             int pasajerosAEmbarcar = Math.min(capacidadAvion, pasajerosDisponibles);
-        
-            if (pasajerosAEmbarcar > 0) {
+            System.out.println(avionAsignado.getNombre());
+            System.out.println("Capacidad del avion: "+capacidadAvion);
+            System.out.println("Pasajeros que embarcan "+ pasajerosAEmbarcar);
                 // Comprobar si hay suficientes pasajeros disponibles antes de reducir
                 if (pasajerosAEmbarcar <= pasajerosDisponibles) {
                     aeropuerto.reducirPasajeros(pasajerosAEmbarcar);
                     avionAsignado.aumentarPasajeros(pasajerosAEmbarcar);
                     Registro.logEvent("["+ aeropuerto.getNombre()+ "]" + " Avion " + avionAsignado.Id() + " embarcando " + pasajerosAEmbarcar + " pasajeros");
-                } else {
-                    aeropuerto.reducirPasajeros(pasajerosDisponibles);
-                    avionAsignado.aumentarPasajeros(pasajerosDisponibles);
-                    Registro.logEvent("["+ aeropuerto.getNombre()+ "]" + " Avion " + avionAsignado.Id() + " embarcando " + pasajerosDisponibles + " pasajeros");
                 }
                 Thread.sleep(ThreadLocalRandom.current().nextInt(1000, 3001)); // Tiempo de transferencia de pasajeros
-            }
+
             if (avionAsignado.getPasajeros() == capacidadAvion || pasajerosDisponibles == 0) {
                 break;
             }
+
+
             Registro.logEvent("["+ aeropuerto.getNombre()+ "]" + " Avion " + avionAsignado.Id() + " esperando a que lleguen más pasajeros");
             intentos++;
             Thread.sleep(ThreadLocalRandom.current().nextInt(1000, 5001)); // Tiempo de espera antes de admitir más pasajeros

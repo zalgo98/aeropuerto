@@ -60,11 +60,9 @@ public class Aeropuerto {
             PuertaEmbarque puerta = areaEstacionamiento.esperarPuertaDisponible(avion);// Esperar a que haya una puerta disponible
             if (puerta != null) {
                 puerta.setAvionAsignado(avion);// Asignar el avión a la puerta
-                
                 pausaSiEsNecesario();// Pausar si es necesario
                 puerta.embarcarPasajeros(this);// Embarcar pasajeros en el avión
-                puerta.setDisponible(true);// Marcar la puerta como disponible
-                puerta.setAvionAsignado(null);// Desasignar el avión de la puerta
+                puerta.liberarPuerta(puerta);// Liberar la puerta y pone el avion en null
             }
         }catch(InterruptedException e){
             System.out.println("Error en el embarque de pasajeros");
@@ -85,6 +83,7 @@ public class Aeropuerto {
                 pausaSiEsNecesario();
                 Thread.sleep(ThreadLocalRandom.current().nextInt(1000, 3001));
                 areaRodaje.saleDeAreaRodaje(avion);
+                pista.ocuparPista(avion);
                 pausaSiEsNecesario();
                 Registro.logEvent(" [ " + nombre + " ] " + "Pista " + pista.getIdPista() + " ocupada por avion " + avion.Id());              
                 Thread.sleep(ThreadLocalRandom.current().nextInt(1000, 5001));
@@ -125,7 +124,6 @@ public class Aeropuerto {
     public Pista solicitarPista(Avion avion) {
         for (Pista pista : pistas) {
             if (pista.estaDisponible()) {
-                pista.ocuparPista(avion);
                 return pista;
             }
         }
@@ -155,8 +153,7 @@ public class Aeropuerto {
             pausaSiEsNecesario();
             puertaEmbarque.desembarcarAvion(this);// Desembarcar pasajeros del avión  
             pausaSiEsNecesario();
-            puertaEmbarque.setAvionAsignado(null);// Desasignar el avión de la puerta de embarque
-            puertaEmbarque.setDisponible(true);// Marcar la puerta de embarque como disponible
+            puertaEmbarque.liberarPuerta(puertaEmbarque);// Liberar la puerta de embarque
             areaEstacionamiento.realizarComprobaciones(avion);// Realizar comprobaciones en el área de estacionamiento
         }
     }

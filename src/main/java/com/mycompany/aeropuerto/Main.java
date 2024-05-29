@@ -15,7 +15,7 @@ import java.util.concurrent.ThreadLocalRandom;
  * @author gonzalo
  */
 public class Main {
-    private  static Control control;
+    
     public static void main(String[] args) {
         try {
             //Creacion de objetos
@@ -31,7 +31,7 @@ public class Main {
             System.out.println("Servidor RMI listo");
 
             //Creacion de interfaz grafica
-            control=new Control(aeropuerto_Madrid,aeropuerto_Barcelona);
+            Control control=new Control(aeropuerto_Madrid,aeropuerto_Barcelona);
             control.setVisible(true);
             //Bucle principal
             for (int i = 0; i < 8000; i++) {
@@ -97,7 +97,5 @@ public class Main {
         id += String.format("%04d", num);
         return id;
     }
-    public static Control getControl() {
-        return control;
-    }
+
 }

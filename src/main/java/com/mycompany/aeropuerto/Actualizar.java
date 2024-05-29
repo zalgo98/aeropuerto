@@ -1,21 +1,46 @@
 package com.mycompany.aeropuerto;
 
-
 import java.util.List;
 
-class Actualizar extends Thread {
-    private AreaEstacionamiento estacionamiento;
-    private String avion;
+import javax.swing.JTextField;
 
-    public Actualizar(AreaEstacionamiento estacionamiento) {
-        this.estacionamiento = estacionamiento;
-        this.avion= avion;
+class Actualizar extends Thread {
+    private List<Avion> aviones;
+    private JTextField campoTexto;
+    private StringBuilder nombresAviones;
+
+    public Actualizar(List<Avion> aviones, JTextField campoTexto) {
+        this.aviones = aviones;
+        this.campoTexto = campoTexto;
+        this.nombresAviones = new StringBuilder();
     }
 
     @Override
     public void run() {
-
+        while (true) {
+            synchronized (aviones) {
+                for (int i = 0; i < aviones.size(); i++) {
+                    Avion avion = aviones.get(i);
+                    if (avion != null) {
+                        nombresAviones.append(avion.Id());
+                        if (i < aviones.size() - 1) {
+                            nombresAviones.append(", ");
+                        }
+                    } else {
+                        nombresAviones.append("null");
+                        if (i < aviones.size() - 1) {
+                            nombresAviones.append(", ");
+                        }
+                    }
+                }
+                campoTexto.setText(nombresAviones.toString());
+                nombresAviones.setLength(0); // Limpiar el StringBuilder
+            }
+            try {
+                Thread.sleep(500); // Pausa el hilo durante un segundo
+            } catch (InterruptedException e) {
+                Thread.currentThread().interrupt(); // Restablecer el estado interrumpido
+            }
+        }
     }
-    }
-
-
+}

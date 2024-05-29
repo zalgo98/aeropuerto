@@ -28,13 +28,14 @@ public class AreaEstacionamiento {
     }
 
     public synchronized PuertaEmbarque esperarPuertaDisponible(Avion avion) throws InterruptedException {//metodo que espera a que haya una puerta disponible
-        avionesEnEspera.add(avion); // el avión se añade a la lista de aviones en espera
+        try {
+            avionesEnEspera.add(avion); // el avión se añade a la lista de aviones en espera
         List<PuertaEmbarque> puertasEmbarque = avion.getAeropuertoOrigen().getPuertasEmbarque();// Obtiene las puertas de embarque del aeropuerto de origen
         PuertaEmbarque puerta = null;
         Registro.logEvent(" [ "+ avion.getAeropuertoOrigen().getNombre()+ " ] " +"Esperando puerta disponible en area de estacionamiento " + avion.Id());
         while (puerta == null) { // Mientras no haya puertas disponibles
             for (PuertaEmbarque pe : puertasEmbarque) {
-                if (pe.estaDisponible()) {
+                if (pe.asignarSiEstaDisponible(avion)) {
                     puerta = pe;
                     int idpuerta= puerta.getIdPuertaEmbarque()+1;
                     Registro.logEvent(" [ "+ avion.getAeropuertoOrigen().getNombre()+ " ] " +"Puerta " + idpuerta + " asignada al avión " + avion.Id());
@@ -47,6 +48,12 @@ public class AreaEstacionamiento {
         wait(1600);
         liberarAvion();
         return puerta;
+            
+        } catch (InterruptedException e) {
+            System.out.println("Error"+ e.getMessage());
+            return null;
+        }
+        
     }
 
     public synchronized void liberarAvion() {//metodo que libera un avion
@@ -65,5 +72,6 @@ public class AreaEstacionamiento {
     public List<Avion> getAvionesEnEspera() {//metodo que devuelve los aviones en espera
         return avionesEnEspera;
     }
+    
 
 }

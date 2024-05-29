@@ -24,7 +24,7 @@ public class AreaRodaje {
     public synchronized PuertaEmbarque solicitarPuertaEmbarque(Avion avion) {     //metodo que solicita una puerta de embarque  
         List<PuertaEmbarque> puertasEmbarque = aeropuerto.getPuertasEmbarque();
         for (PuertaEmbarque puerta : puertasEmbarque) {
-            if (puerta.estaDisponible()) {
+            if (puerta.asignarSiEstaDisponible(avion)) {
                 return puerta;
             }
         }

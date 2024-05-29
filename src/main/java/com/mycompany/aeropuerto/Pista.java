@@ -35,7 +35,7 @@ public class Pista {
         return disponible;
     }
 
-    public void ocuparPista(Avion avion) {//metodo que ocupa la pista
+    public synchronized void ocuparPista(Avion avion) {//metodo que ocupa la pista
         lock.lock();
         try {
             this.avionAsignado=avion;
@@ -45,10 +45,10 @@ public class Pista {
         }
     }
 
-    public void liberarPista() {//metodo que libera la pista
+    public synchronized void liberarPista() {//metodo que libera la pista
         lock.lock();
         try {
-            
+            avionAsignado = null;
             disponible = true;
         } finally {
             lock.unlock();

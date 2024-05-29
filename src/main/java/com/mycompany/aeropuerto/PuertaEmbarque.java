@@ -5,6 +5,7 @@
 package com.mycompany.aeropuerto;
 
 import java.util.concurrent.ThreadLocalRandom;
+import java.util.concurrent.locks.ReentrantLock;
 /**
  *
  * @author gonzalo
@@ -13,17 +14,34 @@ public class PuertaEmbarque {
     private boolean disponible = true;
     private Avion avionAsignado;
     private int idPuertaEmbarque;
+    private  ReentrantLock lock = new ReentrantLock();
 
 
     public PuertaEmbarque(int idPuertaEmbarque) {
         this.idPuertaEmbarque = idPuertaEmbarque;
     }
     
-    public synchronized boolean estaDisponible() {
-        return disponible;
+    public boolean estaDisponible() {
+        lock.lock();  // Bloquea el acceso a la puerta
+        try {
+            return disponible;
+        } finally {
+            lock.unlock();  // Libera el bloqueo, permitiendo que otros hilos accedan a la puerta
+        }
+    }
+    public synchronized boolean asignarSiEstaDisponible(Avion avion) {
+        
+        if (estaDisponible()) {
+            // Asigna la puerta al avión aquí
+            disponible = false;
+            return true;
+        } else {
+            return false;
+        }
     }
 
     public synchronized void embarcarPasajeros(Aeropuerto aeropuerto) throws InterruptedException {
+       try{
         int intentos = 0;
         while (intentos < 3) {
             aeropuerto.pausaSiEsNecesario();
@@ -51,8 +69,11 @@ public class PuertaEmbarque {
             Thread.sleep(ThreadLocalRandom.current().nextInt(1000, 5001)); // Tiempo de espera antes de admitir más pasajeros
         }
         wait(500);
-        notifyAll();
         
+        notifyAll();
+    } catch (InterruptedException e) {
+        System.out.println("Error"+ e.getMessage());
+    }
     }
     
 

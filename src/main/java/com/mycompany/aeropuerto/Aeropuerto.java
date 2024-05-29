@@ -60,7 +60,7 @@ public class Aeropuerto {
             PuertaEmbarque puerta = areaEstacionamiento.esperarPuertaDisponible(avion);// Esperar a que haya una puerta disponible
             if (puerta != null) {
                 puerta.setAvionAsignado(avion);// Asignar el avión a la puerta
-                puerta.setDisponible(false);// Marcar la puerta como no disponible
+                
                 pausaSiEsNecesario();// Pausar si es necesario
                 puerta.embarcarPasajeros(this);// Embarcar pasajeros en el avión
                 puerta.setDisponible(true);// Marcar la puerta como disponible
@@ -76,24 +76,21 @@ public class Aeropuerto {
         try {
             pausaSiEsNecesario();
             areaRodaje.entraEnAreaRodaje(avion);
-            Pista pista = origen.solicitarPista();
+            Pista pista = origen.solicitarPista(avion);
             while(pista == null){// Mientras no haya pista disponible, esperar
                 pausaSiEsNecesario();
                 areaRodaje.esperarPista();
-                pista = origen.solicitarPista();
+                pista = origen.solicitarPista(avion);
             }
                 pausaSiEsNecesario();
                 Thread.sleep(ThreadLocalRandom.current().nextInt(1000, 3001));
                 areaRodaje.saleDeAreaRodaje(avion);
                 pausaSiEsNecesario();
-                pista.ocuparPista(avion);
-                Registro.logEvent(" [ " + nombre + " ] " + "Pista " + pista.getIdPista() + " ocupada por avion " + avion.Id());
-                
+                Registro.logEvent(" [ " + nombre + " ] " + "Pista " + pista.getIdPista() + " ocupada por avion " + avion.Id());              
                 Thread.sleep(ThreadLocalRandom.current().nextInt(1000, 5001));
                 pausaSiEsNecesario();
                 Registro.logEvent(" [ " + origen.getNombre() + " ] " + "Despegando avion " + avion.Id());
                 pista.liberarPista();
-                pista.setAvionAsignado(null);
                 Registro.logEvent(" [ " + nombre+ " ] " + "Pista " + pista.getIdPista() + " liberada por avion " + avion.Id());
 
             
@@ -110,11 +107,10 @@ public class Aeropuerto {
         Thread.sleep(ThreadLocalRandom.current().nextInt(15000, 30001)); // Tiempo de vuelo entre 15 y 30 segundos
         while (true) {
             pausaSiEsNecesario();
-            Pista pista = destino.solicitarPista(); // Solicitar una pista para aterrizar en el aeropuerto destino
+            Pista pista = destino.solicitarPista(avion); // Solicitar una pista para aterrizar en el aeropuerto destino
             if (pista != null) {
                 pausaSiEsNecesario();
                 aerovia.salirAvion(avion); // Salir de la aerovía
-                pista.ocuparPista(avion); // Aterrizar el avión en la pista disponible
                 pausaSiEsNecesario();
                 destino.aterrizarAvion(avion, pista);// Aterrizar el avión en el aeropuerto destino
                 break;
@@ -126,9 +122,10 @@ public class Aeropuerto {
        
     }
 
-    public Pista solicitarPista() {
+    public Pista solicitarPista(Avion avion) {
         for (Pista pista : pistas) {
             if (pista.estaDisponible()) {
+                pista.ocuparPista(avion);
                 return pista;
             }
         }
@@ -141,7 +138,6 @@ public class Aeropuerto {
         Thread.sleep(ThreadLocalRandom.current().nextInt(1000, 5001)); // Tiempo de espera entre 1 y 5 segundos
         pausaSiEsNecesario();
         pista.liberarPista();// Liberar la pista
-        pista.setAvionAsignado(null);
         pausaSiEsNecesario();
         areaRodaje.entraEnAreaRodaje(avion);// Entrar en el área de rodaje
         
@@ -155,7 +151,6 @@ public class Aeropuerto {
             pausaSiEsNecesario();
             areaRodaje.saleDeAreaRodaje(avion);// Salir del área de rodaje
             puertaEmbarque.setAvionAsignado(avion);// Asignar el avión a la puerta de embarque
-            puertaEmbarque.setDisponible(false);// Marcar la puerta de embarque como no disponible
             Thread.sleep(ThreadLocalRandom.current().nextInt(3000, 5001)); // Tiempo de viaje entre la pista y la puerta de embarque
             pausaSiEsNecesario();
             puertaEmbarque.desembarcarAvion(this);// Desembarcar pasajeros del avión  

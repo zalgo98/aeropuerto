@@ -61,7 +61,9 @@ public class Aerovia {
                 aviones += avion.Id() + ", ";
             }
             return aviones;
-        } finally {
+        }
+        
+        finally {
             lock.unlock();
         }
     }

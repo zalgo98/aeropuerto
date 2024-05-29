@@ -83,22 +83,22 @@ public class InterfazCliente extends javax.swing.JFrame {
             jToggleButton6.setSelected(false);
         }
         //pista 2 de barcelona
-        if(jToggleButton17.isSelected()){
+        if(jToggleButton7.isSelected()){
             cliente.cerrarPista2Barcelona();
             jToggleButton18.setSelected(false);
         }
         if(jToggleButton18.isSelected()){
             cliente.abrirPista2Barcelona();
-            jToggleButton17.setSelected(false);
+            jToggleButton7.setSelected(false);
         }
         //pista 3 de barcelona
-        if(jToggleButton19.isSelected()){
+        if(jToggleButton17.isSelected()){
             cliente.cerrarPista3Barcelona();
             jToggleButton20.setSelected(false);
         }
         if(jToggleButton20.isSelected()){
             cliente.abrirPista3Barcelona();
-            jToggleButton19.setSelected(false);
+            jToggleButton17.setSelected(false);
         }
         //pista 4 de barcelona
         if(jToggleButton15.isSelected()){
@@ -167,9 +167,7 @@ public class InterfazCliente extends javax.swing.JFrame {
         jToggleButton15 = new javax.swing.JToggleButton();
         jToggleButton2 = new javax.swing.JToggleButton();
         jToggleButton16 = new javax.swing.JToggleButton();
-        jToggleButton17 = new javax.swing.JToggleButton();
         jToggleButton18 = new javax.swing.JToggleButton();
-        jToggleButton19 = new javax.swing.JToggleButton();
         jToggleButton20 = new javax.swing.JToggleButton();
         Pasajeros1 = new javax.swing.JTextField();
         Hangar1 = new javax.swing.JTextField();
@@ -182,6 +180,8 @@ public class InterfazCliente extends javax.swing.JFrame {
         jLabel23 = new javax.swing.JLabel();
         jLabel24 = new javax.swing.JLabel();
         jLabel25 = new javax.swing.JLabel();
+        jToggleButton7 = new javax.swing.JToggleButton();
+        jToggleButton17 = new javax.swing.JToggleButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -320,8 +320,6 @@ public class InterfazCliente extends javax.swing.JFrame {
             }
         });
 
-        jToggleButton17.setText("Cerrar");
-
         jToggleButton18.setSelected(true);
         jToggleButton18.setText("Abrir");
         jToggleButton18.addActionListener(new java.awt.event.ActionListener() {
@@ -329,8 +327,6 @@ public class InterfazCliente extends javax.swing.JFrame {
                 jToggleButton18ActionPerformed(evt);
             }
         });
-
-        jToggleButton19.setText("Cerrar");
 
         jToggleButton20.setSelected(true);
         jToggleButton20.setText("Abrir");
@@ -366,6 +362,15 @@ public class InterfazCliente extends javax.swing.JFrame {
         jLabel24.setText("Aviones en el Taller");
 
         jLabel25.setText("Aviones en el area de estacionamiento");
+
+        jToggleButton7.setText("Cerrar");
+        jToggleButton7.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jToggleButton7ActionPerformed(evt);
+            }
+        });
+
+        jToggleButton17.setText("Cerrar");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -490,18 +495,19 @@ public class InterfazCliente extends javax.swing.JFrame {
                         .addGap(206, 206, 206))
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addGroup(layout.createSequentialGroup()
-                                .addComponent(jLabel18)
-                                .addGap(18, 18, 18)
-                                .addComponent(jToggleButton18, javax.swing.GroupLayout.PREFERRED_SIZE, 73, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addGap(18, 18, 18)
-                                .addComponent(jToggleButton17, javax.swing.GroupLayout.PREFERRED_SIZE, 86, javax.swing.GroupLayout.PREFERRED_SIZE))
                             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
                                 .addComponent(jLabel19)
                                 .addGap(18, 18, 18)
                                 .addComponent(jToggleButton20, javax.swing.GroupLayout.PREFERRED_SIZE, 73, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addGap(30, 30, 30))
+                            .addGroup(layout.createSequentialGroup()
+                                .addComponent(jLabel18)
                                 .addGap(18, 18, 18)
-                                .addComponent(jToggleButton19, javax.swing.GroupLayout.PREFERRED_SIZE, 86, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                                .addComponent(jToggleButton18, javax.swing.GroupLayout.PREFERRED_SIZE, 73, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addGap(36, 36, 36)))
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                            .addComponent(jToggleButton7, javax.swing.GroupLayout.PREFERRED_SIZE, 86, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(jToggleButton17, javax.swing.GroupLayout.PREFERRED_SIZE, 86, javax.swing.GroupLayout.PREFERRED_SIZE))
                         .addGap(23, 23, 23))
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
                         .addComponent(jLabel20)
@@ -580,18 +586,22 @@ public class InterfazCliente extends javax.swing.JFrame {
                         .addGap(29, 29, 29)
                         .addComponent(jLabel20)
                         .addGap(18, 18, 18)
-                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                            .addComponent(jToggleButton2)
-                            .addComponent(jToggleButton6)
-                            .addComponent(jLabel21)
-                            .addComponent(jLabel18)
-                            .addComponent(jToggleButton18)
-                            .addComponent(jToggleButton17))
-                        .addGap(78, 78, 78)
-                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                            .addComponent(jLabel19)
-                            .addComponent(jToggleButton20)
-                            .addComponent(jToggleButton19))))
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addGroup(layout.createSequentialGroup()
+                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                    .addComponent(jToggleButton2)
+                                    .addComponent(jToggleButton6)
+                                    .addComponent(jLabel21)
+                                    .addComponent(jLabel18)
+                                    .addComponent(jToggleButton18))
+                                .addGap(78, 78, 78)
+                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                    .addComponent(jLabel19)
+                                    .addComponent(jToggleButton20)))
+                            .addGroup(layout.createSequentialGroup()
+                                .addGap(101, 101, 101)
+                                .addComponent(jToggleButton17))
+                            .addComponent(jToggleButton7))))
                 .addGap(29, 29, 29)
                 .addComponent(jLabel10)
                 .addGap(12, 12, 12)
@@ -659,6 +669,10 @@ public class InterfazCliente extends javax.swing.JFrame {
       
     }//GEN-LAST:event_jToggleButton5ActionPerformed
 
+    private void jToggleButton7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton7ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jToggleButton7ActionPerformed
+
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JTextField Aerovia;
@@ -708,11 +722,11 @@ public class InterfazCliente extends javax.swing.JFrame {
     private javax.swing.JToggleButton jToggleButton16;
     private javax.swing.JToggleButton jToggleButton17;
     private javax.swing.JToggleButton jToggleButton18;
-    private javax.swing.JToggleButton jToggleButton19;
     private javax.swing.JToggleButton jToggleButton2;
     private javax.swing.JToggleButton jToggleButton20;
     private javax.swing.JToggleButton jToggleButton5;
     private javax.swing.JToggleButton jToggleButton6;
+    private javax.swing.JToggleButton jToggleButton7;
     private javax.swing.JToggleButton jToggleButton9;
     // End of variables declaration//GEN-END:variables
 }

@@ -4,8 +4,6 @@
  */
 package com.mycompany.aeropuerto;
 
-import java.util.List;
-
 import javax.swing.JFrame;
 import javax.swing.JTextField;
 /**
@@ -22,6 +20,12 @@ public class Control extends javax.swing.JFrame {
     private Actualizar actuTallerMa;
     private Actualizar actuPuertaMa;
     private Actualizar actuPistaMa;
+    private Actualizar actuHangarBa;
+    private Actualizar actuEstaBa;
+    private Actualizar actuRodajeBa;
+    private Actualizar actuTallerBa;
+    private Actualizar actuPuertaBa;
+    private Actualizar actuPistaBa;
     
 
 
@@ -89,33 +93,30 @@ public class Control extends javax.swing.JFrame {
                     actualizarBus(bus, BusCBarcelona);
                 }
                 }
-                actualizarAvion(aeropuerto_Barcelona.getHangar().getAviones(), Hangar1);
-                actualizarAvion(aeropuerto_Barcelona.getTaller().getAvionesEnIspeccion(),Taller2);
-                actualizarAvion(aeropuerto_Barcelona.getAreaEstacionamiento().getAvionesEnEspera(), Estacionamiento1);
-                actualizarAvion(aeropuerto_Barcelona.getAreaRodaje().getAvionEmbarques(), A_Rodaje1);
+                actuHangarBa= new Actualizar(aeropuerto_Barcelona.getHangar().getAviones(), Hangar1);
+                actuHangarBa.start();
+                actuEstaBa= new Actualizar(aeropuerto_Barcelona.getAreaEstacionamiento().getAvionesEnEspera(), Estacionamiento1);
+                actuEstaBa.start();
                 for (int i = 0; i < puertasB.length; i++) {
                     PuertaEmbarque puerta = aeropuerto_Barcelona.getPuertasEmbarque().get(i);
-                    Avion avion = puerta.getAvionAsignado();
-                    if (avion != null) {
-                        puertasB[i].setText(avion.getNombre());
-                    } else {
-                        puertasB[i].setText("");
-                    }
+                    actuPuertaBa= new Actualizar(puerta.getAvionesEmbarque(), puertasB[i]);
+                    actuPuertaBa.start();           
                 }
+                actuRodajeBa= new Actualizar(aeropuerto_Barcelona.getAreaRodaje().getAvionEmbarques(), A_Rodaje1);
+                actuRodajeBa.start();
                 for (int i = 0; i < aeropuerto_Barcelona.getPistas().size(); i++) {
-                    Avion avion = aeropuerto_Barcelona.getPistas().get(i).getAvionAsignado();
-                    if (avion != null) {
-                        pistasB[i].setText(avion.getNombre());
-                    } else {
-                        pistasB[i].setText("");
-                    }
+                    actuPistaBa= new Actualizar(aeropuerto_Barcelona.getPistas().get(i).getAvionEnPista(), pistasB[i]);
+                    actuPistaBa.start();
                 }
+                actuTallerBa= new Actualizar(aeropuerto_Barcelona.getTaller().getAvionesEnIspeccion(), Taller2);
+                actuTallerBa.start();
+            }
 
                 // aerovias
                 M_B.setText(aeropuerto_Madrid.getAerovia().avionesAerolinea());
                 B_M.setText(aeropuerto_Barcelona.getAerovia().avionesAerolinea());
 
-            }
+            
     }
     public void actualizarBus(Autobus bus, JTextField textoBus) {
     if (bus != null) {
@@ -127,19 +128,6 @@ public class Control extends javax.swing.JFrame {
             textoBus.setText("");
         }
     }
-}
-    public  void actualizarAvion(List<Avion> aviones, JTextField label) {
-
-    StringBuilder nombresAviones = new StringBuilder();
-    for (Avion avion : aviones) {
-        if (avion != null) {
-            nombresAviones.append(avion.Id()).append(", ");
-        } else {
-            nombresAviones.append("null").append(", ");
-        }
-    }
-    label.setText(nombresAviones.toString());
-    nombresAviones.setLength(0); // Limpiar el StringBuilder
 }
 
 

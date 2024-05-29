@@ -27,6 +27,8 @@ public class Aeropuerto {
     private Aerovia aerovia;
     private int pasajerosDisponibles = 10000;
     private boolean pausado = false;
+    private PuertaEmbarque puertaEmbarque;
+    private PuertaEmbarque puertaDesembarque;
 
 
     public Aeropuerto(String nombre, Aerovia aerovia) {
@@ -47,6 +49,8 @@ public class Aeropuerto {
         aviones = new ArrayList<>();
         autobuses = new ArrayList<>();
         avionesEnTaller = new ArrayList<>();
+        this.puertaEmbarque= puertasEmbarque.get(0);
+        this.puertaDesembarque= puertasEmbarque.get(5);
 
     }
 
@@ -281,6 +285,12 @@ public class Aeropuerto {
     public void removeAutobus(Autobus autobus){// Metodo que elimina un autobus del aeropuerto
         autobuses.remove(autobus);
 
+    }
+    public PuertaEmbarque getPuertaEmbarque() {// Metodo que retorna la puerta reservada para el embarque del avion
+        return puertaEmbarque;
+    }
+    public PuertaEmbarque getPuertaDesembarque() {// Metodo que retorna la puerta reservada para el desembarque del avion
+        return puertaDesembarque;
     }
     public void pausar() {// Metodo que pausa la simulación
         pausado = true;
